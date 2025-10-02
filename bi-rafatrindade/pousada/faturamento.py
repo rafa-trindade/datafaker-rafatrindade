@@ -37,12 +37,10 @@ def get_feriados(year, uf="GO"):
         print(f"Erro ao buscar feriados {year}: {resp.text}")
         return {}
 
-# Coletar feriados
 feriados = {}
 for ano in range(2030, 2036):
     feriados.update(get_feriados(ano, UF))
 
-# Lista de datas
 datas = pd.date_range(start=START_DATE, end=END_DATE, freq="D")
 
 linhas = []
@@ -56,9 +54,6 @@ for data in datas:
         nome_feriado = feriados[data_str] if eh_feriado else "-"
         evento = 0
 
-        # ==========================
-        # Obs: FERIDADO ou FDS
-        # ==========================
         if eh_feriado:
             obs = "FERIADO"
         elif data.weekday() >= 4:  # sexta=4, sábado=5, domingo=6
@@ -66,9 +61,6 @@ for data in datas:
         else:
             obs = "-"
 
-        # ==========================
-        # Valor base
-        # ==========================
         if servico == "Hospedagem":
             if eh_feriado:
                 valor_base = np.random.randint(50, 120) * 10
@@ -84,9 +76,6 @@ for data in datas:
                 valor_base = np.random.randint(10, 50)
             qtd_hospedes = 0
 
-        # ==========================
-        # Aplicar multiplicador mensal
-        # ==========================
         peso = mes_peso.get(data.month, 1.0)
         valor = int(valor_base * peso)
 
