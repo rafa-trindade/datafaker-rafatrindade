@@ -7,7 +7,7 @@ from datetime import datetime
 # API FERIADOS - https://api.invertexto.com/api-feriados
 ###################
 START_DATE = "2030-01-01"
-END_DATE = "2035-12-31"
+END_DATE = "2032-12-22"
 EMPRESA = "Pousada da Ponte"
 UF = "GO"
 API_KEY = "22137|SRHoo5bWW93micFMAvCc5fq8d60utocr"
@@ -37,10 +37,12 @@ def get_feriados(year, uf="GO"):
         print(f"Erro ao buscar feriados {year}: {resp.text}")
         return {}
 
+# Coletar feriados
 feriados = {}
 for ano in range(2030, 2036):
     feriados.update(get_feriados(ano, UF))
 
+# Lista de datas
 datas = pd.date_range(start=START_DATE, end=END_DATE, freq="D")
 
 linhas = []
@@ -54,8 +56,19 @@ for data in datas:
         nome_feriado = feriados[data_str] if eh_feriado else "-"
         evento = 0
 
-        obs = "FERIADO" if eh_feriado else "-"
+        # ==========================
+        # Obs: FERIDADO ou FDS
+        # ==========================
+        if eh_feriado:
+            obs = "FERIADO"
+        elif data.weekday() >= 4:  # sexta=4, sábado=5, domingo=6
+            obs = "FDS"
+        else:
+            obs = "-"
 
+        # ==========================
+        # Valor base
+        # ==========================
         if servico == "Hospedagem":
             if eh_feriado:
                 valor_base = np.random.randint(50, 120) * 10
@@ -64,13 +77,16 @@ for data in datas:
 
             qtd_hospedes = valor_base // 75
 
-        else:  
+        else:  # Frigobar
             if eh_feriado:
                 valor_base = np.random.randint(30, 70) * 10
             else:
                 valor_base = np.random.randint(10, 50)
             qtd_hospedes = 0
 
+        # ==========================
+        # Aplicar multiplicador mensal
+        # ==========================
         peso = mes_peso.get(data.month, 1.0)
         valor = int(valor_base * peso)
 
@@ -89,6 +105,6 @@ for data in datas:
 
 df = pd.DataFrame(linhas)
 
-df.to_csv("pousada_faturamento.csv", index=False, sep=";", encoding="utf-8-sig")
+df.to_csv("bi-rafatrindade/pousada/pousada_faturamento.csv", index=False, sep=";", encoding="utf-8-sig")
 
-print("Arquivo 'pousada_faturamento_pesos.csv' gerado com sucesso!")
+print("Arquivo 'pousada_faturamento.csv' gerado com sucesso!")
