@@ -1,0 +1,1009 @@
+﻿data;empresa;categoria;tipo;descricao;valor
+2030-01-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2030-01-31;Pousada da Ponte;Fixa;Administrativa;Energia;3258
+2030-01-31;Pousada da Ponte;Fixa;Administrativa;Água;512
+2030-01-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2030-01-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2030-01-31;Pousada da Ponte;Variável;Administrativa;Impostos;1580
+2030-01-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4267
+2030-01-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;376
+2030-01-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;432
+2030-01-31;Pousada da Ponte;Variável;Operacional;Padaria;914
+2030-01-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;209
+2030-01-31;Pousada da Ponte;Variável;Operacional;Manutenção;434
+2030-01-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;261
+2030-01-31;Pousada da Ponte;Variável;CMV;Mercadoria;484
+2030-02-28;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2030-02-28;Pousada da Ponte;Fixa;Administrativa;Energia;3364
+2030-02-28;Pousada da Ponte;Fixa;Administrativa;Água;540
+2030-02-28;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2030-02-28;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2030-02-28;Pousada da Ponte;Variável;Administrativa;Impostos;1636
+2030-02-28;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4017
+2030-02-28;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;368
+2030-02-28;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;364
+2030-02-28;Pousada da Ponte;Variável;Operacional;Padaria;941
+2030-02-28;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;262
+2030-02-28;Pousada da Ponte;Variável;Operacional;Manutenção;432
+2030-02-28;Pousada da Ponte;Variável;Folha de Pagamento;Diária;446
+2030-02-28;Pousada da Ponte;Variável;CMV;Mercadoria;484
+2030-03-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2030-03-31;Pousada da Ponte;Fixa;Administrativa;Energia;3404
+2030-03-31;Pousada da Ponte;Fixa;Administrativa;Água;543
+2030-03-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2030-03-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2030-03-31;Pousada da Ponte;Variável;Administrativa;Impostos;1782
+2030-03-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3352
+2030-03-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;448
+2030-03-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;344
+2030-03-31;Pousada da Ponte;Variável;Operacional;Padaria;935
+2030-03-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;240
+2030-03-31;Pousada da Ponte;Variável;Operacional;Manutenção;494
+2030-03-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;470
+2030-03-31;Pousada da Ponte;Variável;CMV;Mercadoria;495
+2030-04-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2030-04-30;Pousada da Ponte;Fixa;Administrativa;Energia;3474
+2030-04-30;Pousada da Ponte;Fixa;Administrativa;Água;544
+2030-04-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2030-04-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2030-04-30;Pousada da Ponte;Variável;Administrativa;Impostos;1809
+2030-04-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3663
+2030-04-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;384
+2030-04-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;413
+2030-04-30;Pousada da Ponte;Variável;Operacional;Padaria;936
+2030-04-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;263
+2030-04-30;Pousada da Ponte;Variável;Operacional;Manutenção;292
+2030-04-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;340
+2030-04-30;Pousada da Ponte;Variável;CMV;Mercadoria;400
+2030-05-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2030-05-31;Pousada da Ponte;Fixa;Administrativa;Energia;3363
+2030-05-31;Pousada da Ponte;Fixa;Administrativa;Água;563
+2030-05-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2030-05-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2030-05-31;Pousada da Ponte;Variável;Administrativa;Impostos;1994
+2030-05-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4267
+2030-05-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;442
+2030-05-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;355
+2030-05-31;Pousada da Ponte;Variável;Operacional;Padaria;888
+2030-05-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;205
+2030-05-31;Pousada da Ponte;Variável;Operacional;Manutenção;460
+2030-05-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;348
+2030-05-31;Pousada da Ponte;Variável;CMV;Mercadoria;477
+2030-06-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2030-06-30;Pousada da Ponte;Fixa;Administrativa;Energia;3465
+2030-06-30;Pousada da Ponte;Fixa;Administrativa;Água;594
+2030-06-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2030-06-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2030-06-30;Pousada da Ponte;Variável;Administrativa;Impostos;1957
+2030-06-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3553
+2030-06-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;393
+2030-06-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;334
+2030-06-30;Pousada da Ponte;Variável;Operacional;Padaria;812
+2030-06-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;219
+2030-06-30;Pousada da Ponte;Variável;Operacional;Manutenção;334
+2030-06-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;202
+2030-06-30;Pousada da Ponte;Variável;CMV;Mercadoria;305
+2030-07-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2030-07-31;Pousada da Ponte;Fixa;Administrativa;Energia;3208
+2030-07-31;Pousada da Ponte;Fixa;Administrativa;Água;532
+2030-07-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2030-07-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2030-07-31;Pousada da Ponte;Variável;Administrativa;Impostos;1926
+2030-07-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3246
+2030-07-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;377
+2030-07-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;389
+2030-07-31;Pousada da Ponte;Variável;Operacional;Padaria;899
+2030-07-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;250
+2030-07-31;Pousada da Ponte;Variável;Operacional;Manutenção;410
+2030-07-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;326
+2030-07-31;Pousada da Ponte;Variável;CMV;Mercadoria;329
+2030-08-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2030-08-31;Pousada da Ponte;Fixa;Administrativa;Energia;3294
+2030-08-31;Pousada da Ponte;Fixa;Administrativa;Água;507
+2030-08-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2030-08-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2030-08-31;Pousada da Ponte;Variável;Administrativa;Impostos;1652
+2030-08-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3432
+2030-08-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;395
+2030-08-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;421
+2030-08-31;Pousada da Ponte;Variável;Operacional;Padaria;908
+2030-08-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;225
+2030-08-31;Pousada da Ponte;Variável;Operacional;Manutenção;487
+2030-08-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;302
+2030-08-31;Pousada da Ponte;Variável;CMV;Mercadoria;337
+2030-09-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2030-09-30;Pousada da Ponte;Fixa;Administrativa;Energia;3410
+2030-09-30;Pousada da Ponte;Fixa;Administrativa;Água;505
+2030-09-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2030-09-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2030-09-30;Pousada da Ponte;Variável;Administrativa;Impostos;1885
+2030-09-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3566
+2030-09-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;363
+2030-09-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;327
+2030-09-30;Pousada da Ponte;Variável;Operacional;Padaria;805
+2030-09-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;256
+2030-09-30;Pousada da Ponte;Variável;Operacional;Manutenção;217
+2030-09-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;208
+2030-09-30;Pousada da Ponte;Variável;CMV;Mercadoria;472
+2030-10-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2030-10-31;Pousada da Ponte;Fixa;Administrativa;Energia;3420
+2030-10-31;Pousada da Ponte;Fixa;Administrativa;Água;569
+2030-10-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2030-10-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2030-10-31;Pousada da Ponte;Variável;Administrativa;Impostos;1789
+2030-10-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3267
+2030-10-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;397
+2030-10-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;431
+2030-10-31;Pousada da Ponte;Variável;Operacional;Padaria;838
+2030-10-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;219
+2030-10-31;Pousada da Ponte;Variável;Operacional;Manutenção;426
+2030-10-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;490
+2030-10-31;Pousada da Ponte;Variável;CMV;Mercadoria;314
+2030-11-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2030-11-30;Pousada da Ponte;Fixa;Administrativa;Energia;3219
+2030-11-30;Pousada da Ponte;Fixa;Administrativa;Água;523
+2030-11-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2030-11-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2030-11-30;Pousada da Ponte;Variável;Administrativa;Impostos;1950
+2030-11-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3221
+2030-11-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;448
+2030-11-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;418
+2030-11-30;Pousada da Ponte;Variável;Operacional;Padaria;833
+2030-11-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;264
+2030-11-30;Pousada da Ponte;Variável;Operacional;Manutenção;422
+2030-11-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;296
+2030-11-30;Pousada da Ponte;Variável;CMV;Mercadoria;430
+2030-12-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2030-12-31;Pousada da Ponte;Fixa;Administrativa;Energia;3203
+2030-12-31;Pousada da Ponte;Fixa;Administrativa;Água;562
+2030-12-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2030-12-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2030-12-31;Pousada da Ponte;Variável;Administrativa;Impostos;1881
+2030-12-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3272
+2030-12-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;380
+2030-12-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;411
+2030-12-31;Pousada da Ponte;Variável;Operacional;Padaria;894
+2030-12-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;280
+2030-12-31;Pousada da Ponte;Variável;Operacional;Manutenção;265
+2030-12-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;330
+2030-12-31;Pousada da Ponte;Variável;CMV;Mercadoria;417
+2031-01-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2031-01-31;Pousada da Ponte;Fixa;Administrativa;Energia;3288
+2031-01-31;Pousada da Ponte;Fixa;Administrativa;Água;534
+2031-01-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2031-01-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2031-01-31;Pousada da Ponte;Variável;Administrativa;Impostos;1700
+2031-01-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3499
+2031-01-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;386
+2031-01-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;388
+2031-01-31;Pousada da Ponte;Variável;Operacional;Padaria;828
+2031-01-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;254
+2031-01-31;Pousada da Ponte;Variável;Operacional;Manutenção;250
+2031-01-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;424
+2031-01-31;Pousada da Ponte;Variável;CMV;Mercadoria;465
+2031-02-28;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2031-02-28;Pousada da Ponte;Fixa;Administrativa;Energia;3470
+2031-02-28;Pousada da Ponte;Fixa;Administrativa;Água;581
+2031-02-28;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2031-02-28;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2031-02-28;Pousada da Ponte;Variável;Administrativa;Impostos;1792
+2031-02-28;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3223
+2031-02-28;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;399
+2031-02-28;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;402
+2031-02-28;Pousada da Ponte;Variável;Operacional;Padaria;962
+2031-02-28;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;254
+2031-02-28;Pousada da Ponte;Variável;Operacional;Manutenção;441
+2031-02-28;Pousada da Ponte;Variável;Folha de Pagamento;Diária;354
+2031-02-28;Pousada da Ponte;Variável;CMV;Mercadoria;333
+2031-03-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2031-03-31;Pousada da Ponte;Fixa;Administrativa;Energia;3463
+2031-03-31;Pousada da Ponte;Fixa;Administrativa;Água;514
+2031-03-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2031-03-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2031-03-31;Pousada da Ponte;Variável;Administrativa;Impostos;1530
+2031-03-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3569
+2031-03-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;346
+2031-03-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;330
+2031-03-31;Pousada da Ponte;Variável;Operacional;Padaria;901
+2031-03-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;284
+2031-03-31;Pousada da Ponte;Variável;Operacional;Manutenção;480
+2031-03-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;299
+2031-03-31;Pousada da Ponte;Variável;CMV;Mercadoria;322
+2031-04-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2031-04-30;Pousada da Ponte;Fixa;Administrativa;Energia;3318
+2031-04-30;Pousada da Ponte;Fixa;Administrativa;Água;511
+2031-04-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2031-04-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2031-04-30;Pousada da Ponte;Variável;Administrativa;Impostos;1688
+2031-04-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4044
+2031-04-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;327
+2031-04-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;333
+2031-04-30;Pousada da Ponte;Variável;Operacional;Padaria;947
+2031-04-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;238
+2031-04-30;Pousada da Ponte;Variável;Operacional;Manutenção;354
+2031-04-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;313
+2031-04-30;Pousada da Ponte;Variável;CMV;Mercadoria;329
+2031-05-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2031-05-31;Pousada da Ponte;Fixa;Administrativa;Energia;3484
+2031-05-31;Pousada da Ponte;Fixa;Administrativa;Água;510
+2031-05-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2031-05-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2031-05-31;Pousada da Ponte;Variável;Administrativa;Impostos;1691
+2031-05-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3824
+2031-05-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;342
+2031-05-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;389
+2031-05-31;Pousada da Ponte;Variável;Operacional;Padaria;948
+2031-05-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;215
+2031-05-31;Pousada da Ponte;Variável;Operacional;Manutenção;336
+2031-05-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;395
+2031-05-31;Pousada da Ponte;Variável;CMV;Mercadoria;479
+2031-06-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2031-06-30;Pousada da Ponte;Fixa;Administrativa;Energia;3275
+2031-06-30;Pousada da Ponte;Fixa;Administrativa;Água;563
+2031-06-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2031-06-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2031-06-30;Pousada da Ponte;Variável;Administrativa;Impostos;1760
+2031-06-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3610
+2031-06-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;398
+2031-06-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;356
+2031-06-30;Pousada da Ponte;Variável;Operacional;Padaria;859
+2031-06-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;251
+2031-06-30;Pousada da Ponte;Variável;Operacional;Manutenção;479
+2031-06-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;394
+2031-06-30;Pousada da Ponte;Variável;CMV;Mercadoria;358
+2031-07-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2031-07-31;Pousada da Ponte;Fixa;Administrativa;Energia;3213
+2031-07-31;Pousada da Ponte;Fixa;Administrativa;Água;501
+2031-07-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2031-07-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2031-07-31;Pousada da Ponte;Variável;Administrativa;Impostos;1924
+2031-07-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3480
+2031-07-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;340
+2031-07-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;401
+2031-07-31;Pousada da Ponte;Variável;Operacional;Padaria;890
+2031-07-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;217
+2031-07-31;Pousada da Ponte;Variável;Operacional;Manutenção;331
+2031-07-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;336
+2031-07-31;Pousada da Ponte;Variável;CMV;Mercadoria;319
+2031-08-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2031-08-31;Pousada da Ponte;Fixa;Administrativa;Energia;3272
+2031-08-31;Pousada da Ponte;Fixa;Administrativa;Água;551
+2031-08-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2031-08-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2031-08-31;Pousada da Ponte;Variável;Administrativa;Impostos;1528
+2031-08-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4021
+2031-08-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;396
+2031-08-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;409
+2031-08-31;Pousada da Ponte;Variável;Operacional;Padaria;829
+2031-08-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;249
+2031-08-31;Pousada da Ponte;Variável;Operacional;Manutenção;352
+2031-08-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;440
+2031-08-31;Pousada da Ponte;Variável;CMV;Mercadoria;499
+2031-09-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2031-09-30;Pousada da Ponte;Fixa;Administrativa;Energia;3241
+2031-09-30;Pousada da Ponte;Fixa;Administrativa;Água;512
+2031-09-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2031-09-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2031-09-30;Pousada da Ponte;Variável;Administrativa;Impostos;1756
+2031-09-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4417
+2031-09-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;427
+2031-09-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;347
+2031-09-30;Pousada da Ponte;Variável;Operacional;Padaria;958
+2031-09-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;275
+2031-09-30;Pousada da Ponte;Variável;Operacional;Manutenção;344
+2031-09-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;429
+2031-09-30;Pousada da Ponte;Variável;CMV;Mercadoria;342
+2031-10-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2031-10-31;Pousada da Ponte;Fixa;Administrativa;Energia;3273
+2031-10-31;Pousada da Ponte;Fixa;Administrativa;Água;574
+2031-10-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2031-10-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2031-10-31;Pousada da Ponte;Variável;Administrativa;Impostos;1957
+2031-10-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3279
+2031-10-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;339
+2031-10-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;443
+2031-10-31;Pousada da Ponte;Variável;Operacional;Padaria;996
+2031-10-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;257
+2031-10-31;Pousada da Ponte;Variável;Operacional;Manutenção;347
+2031-10-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;303
+2031-10-31;Pousada da Ponte;Variável;CMV;Mercadoria;436
+2031-11-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2031-11-30;Pousada da Ponte;Fixa;Administrativa;Energia;3370
+2031-11-30;Pousada da Ponte;Fixa;Administrativa;Água;534
+2031-11-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2031-11-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2031-11-30;Pousada da Ponte;Variável;Administrativa;Impostos;1783
+2031-11-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3261
+2031-11-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;411
+2031-11-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;415
+2031-11-30;Pousada da Ponte;Variável;Operacional;Padaria;954
+2031-11-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;274
+2031-11-30;Pousada da Ponte;Variável;Operacional;Manutenção;230
+2031-11-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;462
+2031-11-30;Pousada da Ponte;Variável;CMV;Mercadoria;430
+2031-12-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2031-12-31;Pousada da Ponte;Fixa;Administrativa;Energia;3462
+2031-12-31;Pousada da Ponte;Fixa;Administrativa;Água;510
+2031-12-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2031-12-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2031-12-31;Pousada da Ponte;Variável;Administrativa;Impostos;1878
+2031-12-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4213
+2031-12-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;383
+2031-12-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;429
+2031-12-31;Pousada da Ponte;Variável;Operacional;Padaria;803
+2031-12-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;228
+2031-12-31;Pousada da Ponte;Variável;Operacional;Manutenção;485
+2031-12-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;456
+2031-12-31;Pousada da Ponte;Variável;CMV;Mercadoria;364
+2032-01-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2032-01-31;Pousada da Ponte;Fixa;Administrativa;Energia;3254
+2032-01-31;Pousada da Ponte;Fixa;Administrativa;Água;506
+2032-01-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2032-01-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2032-01-31;Pousada da Ponte;Variável;Administrativa;Impostos;1872
+2032-01-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4057
+2032-01-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;392
+2032-01-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;414
+2032-01-31;Pousada da Ponte;Variável;Operacional;Padaria;879
+2032-01-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;271
+2032-01-31;Pousada da Ponte;Variável;Operacional;Manutenção;461
+2032-01-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;304
+2032-01-31;Pousada da Ponte;Variável;CMV;Mercadoria;358
+2032-02-29;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2032-02-29;Pousada da Ponte;Fixa;Administrativa;Energia;3432
+2032-02-29;Pousada da Ponte;Fixa;Administrativa;Água;573
+2032-02-29;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2032-02-29;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2032-02-29;Pousada da Ponte;Variável;Administrativa;Impostos;1998
+2032-02-29;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3923
+2032-02-29;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;329
+2032-02-29;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;349
+2032-02-29;Pousada da Ponte;Variável;Operacional;Padaria;818
+2032-02-29;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;207
+2032-02-29;Pousada da Ponte;Variável;Operacional;Manutenção;368
+2032-02-29;Pousada da Ponte;Variável;Folha de Pagamento;Diária;369
+2032-02-29;Pousada da Ponte;Variável;CMV;Mercadoria;307
+2032-03-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2032-03-31;Pousada da Ponte;Fixa;Administrativa;Energia;3490
+2032-03-31;Pousada da Ponte;Fixa;Administrativa;Água;531
+2032-03-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2032-03-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2032-03-31;Pousada da Ponte;Variável;Administrativa;Impostos;1612
+2032-03-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3305
+2032-03-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;356
+2032-03-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;399
+2032-03-31;Pousada da Ponte;Variável;Operacional;Padaria;842
+2032-03-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;205
+2032-03-31;Pousada da Ponte;Variável;Operacional;Manutenção;407
+2032-03-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;251
+2032-03-31;Pousada da Ponte;Variável;CMV;Mercadoria;460
+2032-04-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2032-04-30;Pousada da Ponte;Fixa;Administrativa;Energia;3334
+2032-04-30;Pousada da Ponte;Fixa;Administrativa;Água;537
+2032-04-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2032-04-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2032-04-30;Pousada da Ponte;Variável;Administrativa;Impostos;1542
+2032-04-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3508
+2032-04-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;446
+2032-04-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;392
+2032-04-30;Pousada da Ponte;Variável;Operacional;Padaria;945
+2032-04-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;258
+2032-04-30;Pousada da Ponte;Variável;Operacional;Manutenção;259
+2032-04-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;301
+2032-04-30;Pousada da Ponte;Variável;CMV;Mercadoria;475
+2032-05-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2032-05-31;Pousada da Ponte;Fixa;Administrativa;Energia;3276
+2032-05-31;Pousada da Ponte;Fixa;Administrativa;Água;578
+2032-05-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2032-05-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2032-05-31;Pousada da Ponte;Variável;Administrativa;Impostos;1920
+2032-05-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3889
+2032-05-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;428
+2032-05-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;401
+2032-05-31;Pousada da Ponte;Variável;Operacional;Padaria;882
+2032-05-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;259
+2032-05-31;Pousada da Ponte;Variável;Operacional;Manutenção;427
+2032-05-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;260
+2032-05-31;Pousada da Ponte;Variável;CMV;Mercadoria;414
+2032-06-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2032-06-30;Pousada da Ponte;Fixa;Administrativa;Energia;3244
+2032-06-30;Pousada da Ponte;Fixa;Administrativa;Água;576
+2032-06-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2032-06-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2032-06-30;Pousada da Ponte;Variável;Administrativa;Impostos;1986
+2032-06-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4265
+2032-06-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;338
+2032-06-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;430
+2032-06-30;Pousada da Ponte;Variável;Operacional;Padaria;808
+2032-06-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;293
+2032-06-30;Pousada da Ponte;Variável;Operacional;Manutenção;480
+2032-06-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;204
+2032-06-30;Pousada da Ponte;Variável;CMV;Mercadoria;304
+2032-07-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2032-07-31;Pousada da Ponte;Fixa;Administrativa;Energia;3429
+2032-07-31;Pousada da Ponte;Fixa;Administrativa;Água;504
+2032-07-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2032-07-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2032-07-31;Pousada da Ponte;Variável;Administrativa;Impostos;1987
+2032-07-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4157
+2032-07-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;441
+2032-07-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;384
+2032-07-31;Pousada da Ponte;Variável;Operacional;Padaria;959
+2032-07-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;221
+2032-07-31;Pousada da Ponte;Variável;Operacional;Manutenção;318
+2032-07-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;461
+2032-07-31;Pousada da Ponte;Variável;CMV;Mercadoria;340
+2032-08-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2032-08-31;Pousada da Ponte;Fixa;Administrativa;Energia;3244
+2032-08-31;Pousada da Ponte;Fixa;Administrativa;Água;534
+2032-08-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2032-08-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2032-08-31;Pousada da Ponte;Variável;Administrativa;Impostos;1864
+2032-08-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4488
+2032-08-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;330
+2032-08-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;441
+2032-08-31;Pousada da Ponte;Variável;Operacional;Padaria;840
+2032-08-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;242
+2032-08-31;Pousada da Ponte;Variável;Operacional;Manutenção;365
+2032-08-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;358
+2032-08-31;Pousada da Ponte;Variável;CMV;Mercadoria;406
+2032-09-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2032-09-30;Pousada da Ponte;Fixa;Administrativa;Energia;3337
+2032-09-30;Pousada da Ponte;Fixa;Administrativa;Água;585
+2032-09-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2032-09-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2032-09-30;Pousada da Ponte;Variável;Administrativa;Impostos;1708
+2032-09-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3971
+2032-09-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;351
+2032-09-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;335
+2032-09-30;Pousada da Ponte;Variável;Operacional;Padaria;809
+2032-09-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;257
+2032-09-30;Pousada da Ponte;Variável;Operacional;Manutenção;268
+2032-09-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;249
+2032-09-30;Pousada da Ponte;Variável;CMV;Mercadoria;392
+2032-10-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2032-10-31;Pousada da Ponte;Fixa;Administrativa;Energia;3349
+2032-10-31;Pousada da Ponte;Fixa;Administrativa;Água;543
+2032-10-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2032-10-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2032-10-31;Pousada da Ponte;Variável;Administrativa;Impostos;1835
+2032-10-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3296
+2032-10-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;399
+2032-10-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;347
+2032-10-31;Pousada da Ponte;Variável;Operacional;Padaria;812
+2032-10-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;220
+2032-10-31;Pousada da Ponte;Variável;Operacional;Manutenção;462
+2032-10-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;461
+2032-10-31;Pousada da Ponte;Variável;CMV;Mercadoria;448
+2032-11-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2032-11-30;Pousada da Ponte;Fixa;Administrativa;Energia;3437
+2032-11-30;Pousada da Ponte;Fixa;Administrativa;Água;505
+2032-11-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2032-11-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2032-11-30;Pousada da Ponte;Variável;Administrativa;Impostos;1895
+2032-11-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4495
+2032-11-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;376
+2032-11-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;387
+2032-11-30;Pousada da Ponte;Variável;Operacional;Padaria;960
+2032-11-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;285
+2032-11-30;Pousada da Ponte;Variável;Operacional;Manutenção;415
+2032-11-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;490
+2032-11-30;Pousada da Ponte;Variável;CMV;Mercadoria;343
+2032-12-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2032-12-31;Pousada da Ponte;Fixa;Administrativa;Energia;3463
+2032-12-31;Pousada da Ponte;Fixa;Administrativa;Água;585
+2032-12-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2032-12-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2032-12-31;Pousada da Ponte;Variável;Administrativa;Impostos;1607
+2032-12-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3546
+2032-12-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;407
+2032-12-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;413
+2032-12-31;Pousada da Ponte;Variável;Operacional;Padaria;880
+2032-12-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;270
+2032-12-31;Pousada da Ponte;Variável;Operacional;Manutenção;258
+2032-12-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;231
+2032-12-31;Pousada da Ponte;Variável;CMV;Mercadoria;354
+2033-01-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2033-01-31;Pousada da Ponte;Fixa;Administrativa;Energia;3228
+2033-01-31;Pousada da Ponte;Fixa;Administrativa;Água;552
+2033-01-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2033-01-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2033-01-31;Pousada da Ponte;Variável;Administrativa;Impostos;1759
+2033-01-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3479
+2033-01-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;345
+2033-01-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;436
+2033-01-31;Pousada da Ponte;Variável;Operacional;Padaria;904
+2033-01-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;264
+2033-01-31;Pousada da Ponte;Variável;Operacional;Manutenção;440
+2033-01-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;411
+2033-01-31;Pousada da Ponte;Variável;CMV;Mercadoria;401
+2033-02-28;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2033-02-28;Pousada da Ponte;Fixa;Administrativa;Energia;3248
+2033-02-28;Pousada da Ponte;Fixa;Administrativa;Água;509
+2033-02-28;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2033-02-28;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2033-02-28;Pousada da Ponte;Variável;Administrativa;Impostos;1559
+2033-02-28;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4434
+2033-02-28;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;354
+2033-02-28;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;407
+2033-02-28;Pousada da Ponte;Variável;Operacional;Padaria;814
+2033-02-28;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;217
+2033-02-28;Pousada da Ponte;Variável;Operacional;Manutenção;438
+2033-02-28;Pousada da Ponte;Variável;Folha de Pagamento;Diária;229
+2033-02-28;Pousada da Ponte;Variável;CMV;Mercadoria;426
+2033-03-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2033-03-31;Pousada da Ponte;Fixa;Administrativa;Energia;3467
+2033-03-31;Pousada da Ponte;Fixa;Administrativa;Água;597
+2033-03-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2033-03-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2033-03-31;Pousada da Ponte;Variável;Administrativa;Impostos;1913
+2033-03-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3524
+2033-03-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;425
+2033-03-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;401
+2033-03-31;Pousada da Ponte;Variável;Operacional;Padaria;996
+2033-03-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;239
+2033-03-31;Pousada da Ponte;Variável;Operacional;Manutenção;388
+2033-03-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;312
+2033-03-31;Pousada da Ponte;Variável;CMV;Mercadoria;466
+2033-04-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2033-04-30;Pousada da Ponte;Fixa;Administrativa;Energia;3268
+2033-04-30;Pousada da Ponte;Fixa;Administrativa;Água;504
+2033-04-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2033-04-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2033-04-30;Pousada da Ponte;Variável;Administrativa;Impostos;1753
+2033-04-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4292
+2033-04-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;363
+2033-04-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;410
+2033-04-30;Pousada da Ponte;Variável;Operacional;Padaria;949
+2033-04-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;251
+2033-04-30;Pousada da Ponte;Variável;Operacional;Manutenção;481
+2033-04-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;469
+2033-04-30;Pousada da Ponte;Variável;CMV;Mercadoria;313
+2033-05-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2033-05-31;Pousada da Ponte;Fixa;Administrativa;Energia;3444
+2033-05-31;Pousada da Ponte;Fixa;Administrativa;Água;541
+2033-05-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2033-05-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2033-05-31;Pousada da Ponte;Variável;Administrativa;Impostos;1878
+2033-05-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4458
+2033-05-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;350
+2033-05-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;417
+2033-05-31;Pousada da Ponte;Variável;Operacional;Padaria;954
+2033-05-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;256
+2033-05-31;Pousada da Ponte;Variável;Operacional;Manutenção;255
+2033-05-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;469
+2033-05-31;Pousada da Ponte;Variável;CMV;Mercadoria;451
+2033-06-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2033-06-30;Pousada da Ponte;Fixa;Administrativa;Energia;3409
+2033-06-30;Pousada da Ponte;Fixa;Administrativa;Água;571
+2033-06-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2033-06-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2033-06-30;Pousada da Ponte;Variável;Administrativa;Impostos;1679
+2033-06-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4443
+2033-06-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;332
+2033-06-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;393
+2033-06-30;Pousada da Ponte;Variável;Operacional;Padaria;910
+2033-06-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;277
+2033-06-30;Pousada da Ponte;Variável;Operacional;Manutenção;452
+2033-06-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;350
+2033-06-30;Pousada da Ponte;Variável;CMV;Mercadoria;338
+2033-07-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2033-07-31;Pousada da Ponte;Fixa;Administrativa;Energia;3231
+2033-07-31;Pousada da Ponte;Fixa;Administrativa;Água;578
+2033-07-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2033-07-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2033-07-31;Pousada da Ponte;Variável;Administrativa;Impostos;1579
+2033-07-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3871
+2033-07-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;321
+2033-07-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;432
+2033-07-31;Pousada da Ponte;Variável;Operacional;Padaria;877
+2033-07-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;296
+2033-07-31;Pousada da Ponte;Variável;Operacional;Manutenção;356
+2033-07-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;381
+2033-07-31;Pousada da Ponte;Variável;CMV;Mercadoria;300
+2033-08-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2033-08-31;Pousada da Ponte;Fixa;Administrativa;Energia;3367
+2033-08-31;Pousada da Ponte;Fixa;Administrativa;Água;595
+2033-08-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2033-08-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2033-08-31;Pousada da Ponte;Variável;Administrativa;Impostos;1584
+2033-08-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3248
+2033-08-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;446
+2033-08-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;410
+2033-08-31;Pousada da Ponte;Variável;Operacional;Padaria;945
+2033-08-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;236
+2033-08-31;Pousada da Ponte;Variável;Operacional;Manutenção;437
+2033-08-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;376
+2033-08-31;Pousada da Ponte;Variável;CMV;Mercadoria;416
+2033-09-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2033-09-30;Pousada da Ponte;Fixa;Administrativa;Energia;3404
+2033-09-30;Pousada da Ponte;Fixa;Administrativa;Água;595
+2033-09-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2033-09-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2033-09-30;Pousada da Ponte;Variável;Administrativa;Impostos;1947
+2033-09-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3998
+2033-09-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;403
+2033-09-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;352
+2033-09-30;Pousada da Ponte;Variável;Operacional;Padaria;829
+2033-09-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;223
+2033-09-30;Pousada da Ponte;Variável;Operacional;Manutenção;488
+2033-09-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;460
+2033-09-30;Pousada da Ponte;Variável;CMV;Mercadoria;498
+2033-10-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2033-10-31;Pousada da Ponte;Fixa;Administrativa;Energia;3302
+2033-10-31;Pousada da Ponte;Fixa;Administrativa;Água;582
+2033-10-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2033-10-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2033-10-31;Pousada da Ponte;Variável;Administrativa;Impostos;1515
+2033-10-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4178
+2033-10-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;407
+2033-10-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;338
+2033-10-31;Pousada da Ponte;Variável;Operacional;Padaria;829
+2033-10-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;299
+2033-10-31;Pousada da Ponte;Variável;Operacional;Manutenção;269
+2033-10-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;285
+2033-10-31;Pousada da Ponte;Variável;CMV;Mercadoria;469
+2033-11-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2033-11-30;Pousada da Ponte;Fixa;Administrativa;Energia;3244
+2033-11-30;Pousada da Ponte;Fixa;Administrativa;Água;527
+2033-11-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2033-11-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2033-11-30;Pousada da Ponte;Variável;Administrativa;Impostos;1650
+2033-11-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3998
+2033-11-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;339
+2033-11-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;405
+2033-11-30;Pousada da Ponte;Variável;Operacional;Padaria;824
+2033-11-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;287
+2033-11-30;Pousada da Ponte;Variável;Operacional;Manutenção;311
+2033-11-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;209
+2033-11-30;Pousada da Ponte;Variável;CMV;Mercadoria;386
+2033-12-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2033-12-31;Pousada da Ponte;Fixa;Administrativa;Energia;3342
+2033-12-31;Pousada da Ponte;Fixa;Administrativa;Água;599
+2033-12-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2033-12-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2033-12-31;Pousada da Ponte;Variável;Administrativa;Impostos;1586
+2033-12-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3624
+2033-12-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;360
+2033-12-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;335
+2033-12-31;Pousada da Ponte;Variável;Operacional;Padaria;929
+2033-12-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;299
+2033-12-31;Pousada da Ponte;Variável;Operacional;Manutenção;304
+2033-12-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;388
+2033-12-31;Pousada da Ponte;Variável;CMV;Mercadoria;446
+2034-01-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2034-01-31;Pousada da Ponte;Fixa;Administrativa;Energia;3498
+2034-01-31;Pousada da Ponte;Fixa;Administrativa;Água;525
+2034-01-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2034-01-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2034-01-31;Pousada da Ponte;Variável;Administrativa;Impostos;1800
+2034-01-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3239
+2034-01-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;388
+2034-01-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;390
+2034-01-31;Pousada da Ponte;Variável;Operacional;Padaria;815
+2034-01-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;265
+2034-01-31;Pousada da Ponte;Variável;Operacional;Manutenção;228
+2034-01-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;391
+2034-01-31;Pousada da Ponte;Variável;CMV;Mercadoria;370
+2034-02-28;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2034-02-28;Pousada da Ponte;Fixa;Administrativa;Energia;3240
+2034-02-28;Pousada da Ponte;Fixa;Administrativa;Água;526
+2034-02-28;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2034-02-28;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2034-02-28;Pousada da Ponte;Variável;Administrativa;Impostos;1673
+2034-02-28;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4078
+2034-02-28;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;361
+2034-02-28;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;372
+2034-02-28;Pousada da Ponte;Variável;Operacional;Padaria;959
+2034-02-28;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;225
+2034-02-28;Pousada da Ponte;Variável;Operacional;Manutenção;259
+2034-02-28;Pousada da Ponte;Variável;Folha de Pagamento;Diária;262
+2034-02-28;Pousada da Ponte;Variável;CMV;Mercadoria;341
+2034-03-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2034-03-31;Pousada da Ponte;Fixa;Administrativa;Energia;3460
+2034-03-31;Pousada da Ponte;Fixa;Administrativa;Água;500
+2034-03-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2034-03-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2034-03-31;Pousada da Ponte;Variável;Administrativa;Impostos;1727
+2034-03-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3493
+2034-03-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;362
+2034-03-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;443
+2034-03-31;Pousada da Ponte;Variável;Operacional;Padaria;923
+2034-03-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;206
+2034-03-31;Pousada da Ponte;Variável;Operacional;Manutenção;491
+2034-03-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;470
+2034-03-31;Pousada da Ponte;Variável;CMV;Mercadoria;455
+2034-04-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2034-04-30;Pousada da Ponte;Fixa;Administrativa;Energia;3414
+2034-04-30;Pousada da Ponte;Fixa;Administrativa;Água;596
+2034-04-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2034-04-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2034-04-30;Pousada da Ponte;Variável;Administrativa;Impostos;1770
+2034-04-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3752
+2034-04-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;414
+2034-04-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;418
+2034-04-30;Pousada da Ponte;Variável;Operacional;Padaria;819
+2034-04-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;280
+2034-04-30;Pousada da Ponte;Variável;Operacional;Manutenção;350
+2034-04-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;206
+2034-04-30;Pousada da Ponte;Variável;CMV;Mercadoria;472
+2034-05-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2034-05-31;Pousada da Ponte;Fixa;Administrativa;Energia;3448
+2034-05-31;Pousada da Ponte;Fixa;Administrativa;Água;540
+2034-05-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2034-05-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2034-05-31;Pousada da Ponte;Variável;Administrativa;Impostos;1973
+2034-05-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3671
+2034-05-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;444
+2034-05-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;348
+2034-05-31;Pousada da Ponte;Variável;Operacional;Padaria;908
+2034-05-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;228
+2034-05-31;Pousada da Ponte;Variável;Operacional;Manutenção;206
+2034-05-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;464
+2034-05-31;Pousada da Ponte;Variável;CMV;Mercadoria;444
+2034-06-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2034-06-30;Pousada da Ponte;Fixa;Administrativa;Energia;3488
+2034-06-30;Pousada da Ponte;Fixa;Administrativa;Água;505
+2034-06-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2034-06-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2034-06-30;Pousada da Ponte;Variável;Administrativa;Impostos;1934
+2034-06-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3961
+2034-06-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;384
+2034-06-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;400
+2034-06-30;Pousada da Ponte;Variável;Operacional;Padaria;918
+2034-06-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;251
+2034-06-30;Pousada da Ponte;Variável;Operacional;Manutenção;226
+2034-06-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;447
+2034-06-30;Pousada da Ponte;Variável;CMV;Mercadoria;451
+2034-07-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2034-07-31;Pousada da Ponte;Fixa;Administrativa;Energia;3377
+2034-07-31;Pousada da Ponte;Fixa;Administrativa;Água;600
+2034-07-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2034-07-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2034-07-31;Pousada da Ponte;Variável;Administrativa;Impostos;1673
+2034-07-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3388
+2034-07-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;404
+2034-07-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;364
+2034-07-31;Pousada da Ponte;Variável;Operacional;Padaria;858
+2034-07-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;295
+2034-07-31;Pousada da Ponte;Variável;Operacional;Manutenção;304
+2034-07-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;292
+2034-07-31;Pousada da Ponte;Variável;CMV;Mercadoria;467
+2034-08-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2034-08-31;Pousada da Ponte;Fixa;Administrativa;Energia;3404
+2034-08-31;Pousada da Ponte;Fixa;Administrativa;Água;533
+2034-08-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2034-08-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2034-08-31;Pousada da Ponte;Variável;Administrativa;Impostos;1648
+2034-08-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4089
+2034-08-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;394
+2034-08-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;375
+2034-08-31;Pousada da Ponte;Variável;Operacional;Padaria;811
+2034-08-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;283
+2034-08-31;Pousada da Ponte;Variável;Operacional;Manutenção;325
+2034-08-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;377
+2034-08-31;Pousada da Ponte;Variável;CMV;Mercadoria;312
+2034-09-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2034-09-30;Pousada da Ponte;Fixa;Administrativa;Energia;3497
+2034-09-30;Pousada da Ponte;Fixa;Administrativa;Água;547
+2034-09-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2034-09-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2034-09-30;Pousada da Ponte;Variável;Administrativa;Impostos;1932
+2034-09-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3719
+2034-09-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;413
+2034-09-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;364
+2034-09-30;Pousada da Ponte;Variável;Operacional;Padaria;881
+2034-09-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;201
+2034-09-30;Pousada da Ponte;Variável;Operacional;Manutenção;294
+2034-09-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;334
+2034-09-30;Pousada da Ponte;Variável;CMV;Mercadoria;492
+2034-10-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2034-10-31;Pousada da Ponte;Fixa;Administrativa;Energia;3240
+2034-10-31;Pousada da Ponte;Fixa;Administrativa;Água;581
+2034-10-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2034-10-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2034-10-31;Pousada da Ponte;Variável;Administrativa;Impostos;1708
+2034-10-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3345
+2034-10-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;386
+2034-10-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;425
+2034-10-31;Pousada da Ponte;Variável;Operacional;Padaria;853
+2034-10-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;241
+2034-10-31;Pousada da Ponte;Variável;Operacional;Manutenção;392
+2034-10-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;206
+2034-10-31;Pousada da Ponte;Variável;CMV;Mercadoria;496
+2034-11-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2034-11-30;Pousada da Ponte;Fixa;Administrativa;Energia;3313
+2034-11-30;Pousada da Ponte;Fixa;Administrativa;Água;590
+2034-11-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2034-11-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2034-11-30;Pousada da Ponte;Variável;Administrativa;Impostos;1999
+2034-11-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3287
+2034-11-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;326
+2034-11-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;344
+2034-11-30;Pousada da Ponte;Variável;Operacional;Padaria;944
+2034-11-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;257
+2034-11-30;Pousada da Ponte;Variável;Operacional;Manutenção;218
+2034-11-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;445
+2034-11-30;Pousada da Ponte;Variável;CMV;Mercadoria;446
+2034-12-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2034-12-31;Pousada da Ponte;Fixa;Administrativa;Energia;3357
+2034-12-31;Pousada da Ponte;Fixa;Administrativa;Água;584
+2034-12-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2034-12-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2034-12-31;Pousada da Ponte;Variável;Administrativa;Impostos;1621
+2034-12-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3588
+2034-12-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;435
+2034-12-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;359
+2034-12-31;Pousada da Ponte;Variável;Operacional;Padaria;904
+2034-12-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;235
+2034-12-31;Pousada da Ponte;Variável;Operacional;Manutenção;313
+2034-12-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;254
+2034-12-31;Pousada da Ponte;Variável;CMV;Mercadoria;489
+2035-01-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2035-01-31;Pousada da Ponte;Fixa;Administrativa;Energia;3270
+2035-01-31;Pousada da Ponte;Fixa;Administrativa;Água;568
+2035-01-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2035-01-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2035-01-31;Pousada da Ponte;Variável;Administrativa;Impostos;1766
+2035-01-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4396
+2035-01-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;449
+2035-01-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;369
+2035-01-31;Pousada da Ponte;Variável;Operacional;Padaria;838
+2035-01-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;247
+2035-01-31;Pousada da Ponte;Variável;Operacional;Manutenção;266
+2035-01-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;429
+2035-01-31;Pousada da Ponte;Variável;CMV;Mercadoria;460
+2035-02-28;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2035-02-28;Pousada da Ponte;Fixa;Administrativa;Energia;3355
+2035-02-28;Pousada da Ponte;Fixa;Administrativa;Água;540
+2035-02-28;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2035-02-28;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2035-02-28;Pousada da Ponte;Variável;Administrativa;Impostos;1542
+2035-02-28;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4355
+2035-02-28;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;391
+2035-02-28;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;414
+2035-02-28;Pousada da Ponte;Variável;Operacional;Padaria;809
+2035-02-28;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;259
+2035-02-28;Pousada da Ponte;Variável;Operacional;Manutenção;207
+2035-02-28;Pousada da Ponte;Variável;Folha de Pagamento;Diária;280
+2035-02-28;Pousada da Ponte;Variável;CMV;Mercadoria;381
+2035-03-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2035-03-31;Pousada da Ponte;Fixa;Administrativa;Energia;3270
+2035-03-31;Pousada da Ponte;Fixa;Administrativa;Água;591
+2035-03-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2035-03-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2035-03-31;Pousada da Ponte;Variável;Administrativa;Impostos;1798
+2035-03-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4030
+2035-03-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;381
+2035-03-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;357
+2035-03-31;Pousada da Ponte;Variável;Operacional;Padaria;985
+2035-03-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;268
+2035-03-31;Pousada da Ponte;Variável;Operacional;Manutenção;287
+2035-03-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;242
+2035-03-31;Pousada da Ponte;Variável;CMV;Mercadoria;395
+2035-04-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2035-04-30;Pousada da Ponte;Fixa;Administrativa;Energia;3389
+2035-04-30;Pousada da Ponte;Fixa;Administrativa;Água;537
+2035-04-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2035-04-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2035-04-30;Pousada da Ponte;Variável;Administrativa;Impostos;1810
+2035-04-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4200
+2035-04-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;395
+2035-04-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;362
+2035-04-30;Pousada da Ponte;Variável;Operacional;Padaria;858
+2035-04-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;215
+2035-04-30;Pousada da Ponte;Variável;Operacional;Manutenção;285
+2035-04-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;481
+2035-04-30;Pousada da Ponte;Variável;CMV;Mercadoria;423
+2035-05-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2035-05-31;Pousada da Ponte;Fixa;Administrativa;Energia;3258
+2035-05-31;Pousada da Ponte;Fixa;Administrativa;Água;505
+2035-05-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2035-05-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2035-05-31;Pousada da Ponte;Variável;Administrativa;Impostos;1982
+2035-05-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4158
+2035-05-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;406
+2035-05-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;334
+2035-05-31;Pousada da Ponte;Variável;Operacional;Padaria;937
+2035-05-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;278
+2035-05-31;Pousada da Ponte;Variável;Operacional;Manutenção;352
+2035-05-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;221
+2035-05-31;Pousada da Ponte;Variável;CMV;Mercadoria;421
+2035-06-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2035-06-30;Pousada da Ponte;Fixa;Administrativa;Energia;3450
+2035-06-30;Pousada da Ponte;Fixa;Administrativa;Água;552
+2035-06-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2035-06-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2035-06-30;Pousada da Ponte;Variável;Administrativa;Impostos;1723
+2035-06-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4239
+2035-06-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;444
+2035-06-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;324
+2035-06-30;Pousada da Ponte;Variável;Operacional;Padaria;868
+2035-06-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;265
+2035-06-30;Pousada da Ponte;Variável;Operacional;Manutenção;428
+2035-06-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;207
+2035-06-30;Pousada da Ponte;Variável;CMV;Mercadoria;485
+2035-07-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2035-07-31;Pousada da Ponte;Fixa;Administrativa;Energia;3305
+2035-07-31;Pousada da Ponte;Fixa;Administrativa;Água;514
+2035-07-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2035-07-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2035-07-31;Pousada da Ponte;Variável;Administrativa;Impostos;1639
+2035-07-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3762
+2035-07-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;401
+2035-07-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;387
+2035-07-31;Pousada da Ponte;Variável;Operacional;Padaria;984
+2035-07-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;212
+2035-07-31;Pousada da Ponte;Variável;Operacional;Manutenção;287
+2035-07-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;473
+2035-07-31;Pousada da Ponte;Variável;CMV;Mercadoria;463
+2035-08-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2035-08-31;Pousada da Ponte;Fixa;Administrativa;Energia;3339
+2035-08-31;Pousada da Ponte;Fixa;Administrativa;Água;522
+2035-08-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2035-08-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2035-08-31;Pousada da Ponte;Variável;Administrativa;Impostos;1697
+2035-08-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3767
+2035-08-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;341
+2035-08-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;444
+2035-08-31;Pousada da Ponte;Variável;Operacional;Padaria;851
+2035-08-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;240
+2035-08-31;Pousada da Ponte;Variável;Operacional;Manutenção;323
+2035-08-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;217
+2035-08-31;Pousada da Ponte;Variável;CMV;Mercadoria;318
+2035-09-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2035-09-30;Pousada da Ponte;Fixa;Administrativa;Energia;3357
+2035-09-30;Pousada da Ponte;Fixa;Administrativa;Água;556
+2035-09-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2035-09-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2035-09-30;Pousada da Ponte;Variável;Administrativa;Impostos;1746
+2035-09-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3600
+2035-09-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;433
+2035-09-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;339
+2035-09-30;Pousada da Ponte;Variável;Operacional;Padaria;814
+2035-09-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;226
+2035-09-30;Pousada da Ponte;Variável;Operacional;Manutenção;302
+2035-09-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;467
+2035-09-30;Pousada da Ponte;Variável;CMV;Mercadoria;498
+2035-10-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2035-10-31;Pousada da Ponte;Fixa;Administrativa;Energia;3263
+2035-10-31;Pousada da Ponte;Fixa;Administrativa;Água;598
+2035-10-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2035-10-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2035-10-31;Pousada da Ponte;Variável;Administrativa;Impostos;1501
+2035-10-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4315
+2035-10-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;337
+2035-10-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;439
+2035-10-31;Pousada da Ponte;Variável;Operacional;Padaria;875
+2035-10-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;293
+2035-10-31;Pousada da Ponte;Variável;Operacional;Manutenção;473
+2035-10-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;265
+2035-10-31;Pousada da Ponte;Variável;CMV;Mercadoria;421
+2035-11-30;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2035-11-30;Pousada da Ponte;Fixa;Administrativa;Energia;3399
+2035-11-30;Pousada da Ponte;Fixa;Administrativa;Água;521
+2035-11-30;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2035-11-30;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2035-11-30;Pousada da Ponte;Variável;Administrativa;Impostos;1682
+2035-11-30;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;4270
+2035-11-30;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;349
+2035-11-30;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;369
+2035-11-30;Pousada da Ponte;Variável;Operacional;Padaria;842
+2035-11-30;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;236
+2035-11-30;Pousada da Ponte;Variável;Operacional;Manutenção;491
+2035-11-30;Pousada da Ponte;Variável;Folha de Pagamento;Diária;474
+2035-11-30;Pousada da Ponte;Variável;CMV;Mercadoria;358
+2035-12-31;Pousada da Ponte;Fixa;Administrativa;Aluguel;4800
+2035-12-31;Pousada da Ponte;Fixa;Administrativa;Energia;3406
+2035-12-31;Pousada da Ponte;Fixa;Administrativa;Água;501
+2035-12-31;Pousada da Ponte;Fixa;Administrativa;Contabilidade;400
+2035-12-31;Pousada da Ponte;Fixa;Administrativa;Internet;220
+2035-12-31;Pousada da Ponte;Variável;Administrativa;Impostos;1971
+2035-12-31;Pousada da Ponte;Fixa;Folha de Pagamento;Salário;3919
+2035-12-31;Pousada da Ponte;Fixa;Folha de Pagamento;FGTS;370
+2035-12-31;Pousada da Ponte;Fixa;Folha de Pagamento;INSS;416
+2035-12-31;Pousada da Ponte;Variável;Operacional;Padaria;939
+2035-12-31;Pousada da Ponte;Variável;Operacional;Mat. Linpeza;227
+2035-12-31;Pousada da Ponte;Variável;Operacional;Manutenção;498
+2035-12-31;Pousada da Ponte;Variável;Folha de Pagamento;Diária;217
+2035-12-31;Pousada da Ponte;Variável;CMV;Mercadoria;301
