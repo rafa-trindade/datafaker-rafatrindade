@@ -72,6 +72,6 @@ for data in datas:
 
 df = pd.DataFrame(linhas)
 
-df.to_csv("pousada_despesas.csv", index=False, sep=";", encoding="utf-8-sig")
+df.to_csv("bi-rafatrindade/mh/pousada_despesas.csv", index=False, sep=";", encoding="utf-8-sig")
 
 print("Arquivo 'pousada_despesas.csv' gerado com sucesso!")

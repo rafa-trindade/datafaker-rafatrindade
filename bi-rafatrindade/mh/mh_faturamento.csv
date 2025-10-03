@@ -1,0 +1,4349 @@
+﻿data;empresa;servico;cmv;valor
+2030-01-01;MH Refeições;Grupo Tamburi;1;633
+2030-01-01;MH Refeições;Vantage;1;120
+2030-01-01;MH Refeições;Rondon R/R;1;0
+2030-01-01;MH Refeições;Elisa Agro;1;408
+2030-01-02;MH Refeições;Grupo Tamburi;1;633
+2030-01-02;MH Refeições;Vantage;1;120
+2030-01-02;MH Refeições;Rondon R/R;1;0
+2030-01-02;MH Refeições;Elisa Agro;1;288
+2030-01-03;MH Refeições;Grupo Tamburi;1;554
+2030-01-03;MH Refeições;Vantage;1;120
+2030-01-03;MH Refeições;Rondon R/R;1;0
+2030-01-03;MH Refeições;Elisa Agro;1;432
+2030-01-04;MH Refeições;Grupo Tamburi;1;660
+2030-01-04;MH Refeições;Vantage;1;120
+2030-01-04;MH Refeições;Rondon R/R;1;0
+2030-01-04;MH Refeições;Elisa Agro;1;288
+2030-01-05;MH Refeições;Grupo Tamburi;1;712
+2030-01-05;MH Refeições;Vantage;1;120
+2030-01-05;MH Refeições;Rondon R/R;1;0
+2030-01-05;MH Refeições;Elisa Agro;1;264
+2030-01-06;MH Refeições;Grupo Tamburi;1;765
+2030-01-06;MH Refeições;Vantage;1;150
+2030-01-06;MH Refeições;Rondon R/R;1;24
+2030-01-06;MH Refeições;Elisa Agro;1;312
+2030-01-07;MH Refeições;Grupo Tamburi;1;686
+2030-01-07;MH Refeições;Vantage;1;150
+2030-01-07;MH Refeições;Rondon R/R;1;0
+2030-01-07;MH Refeições;Elisa Agro;1;408
+2030-01-08;MH Refeições;Grupo Tamburi;1;607
+2030-01-08;MH Refeições;Vantage;1;120
+2030-01-08;MH Refeições;Rondon R/R;1;0
+2030-01-08;MH Refeições;Elisa Agro;1;312
+2030-01-09;MH Refeições;Grupo Tamburi;1;712
+2030-01-09;MH Refeições;Vantage;1;150
+2030-01-09;MH Refeições;Rondon R/R;1;0
+2030-01-09;MH Refeições;Elisa Agro;1;432
+2030-01-10;MH Refeições;Grupo Tamburi;1;554
+2030-01-10;MH Refeições;Vantage;1;150
+2030-01-10;MH Refeições;Rondon R/R;1;24
+2030-01-10;MH Refeições;Elisa Agro;1;288
+2030-01-11;MH Refeições;Grupo Tamburi;1;633
+2030-01-11;MH Refeições;Vantage;1;120
+2030-01-11;MH Refeições;Rondon R/R;1;24
+2030-01-11;MH Refeições;Elisa Agro;1;384
+2030-01-12;MH Refeições;Grupo Tamburi;1;739
+2030-01-12;MH Refeições;Vantage;1;120
+2030-01-12;MH Refeições;Rondon R/R;1;24
+2030-01-12;MH Refeições;Elisa Agro;1;360
+2030-01-13;MH Refeições;Grupo Tamburi;1;633
+2030-01-13;MH Refeições;Vantage;1;120
+2030-01-13;MH Refeições;Rondon R/R;1;0
+2030-01-13;MH Refeições;Elisa Agro;1;408
+2030-01-14;MH Refeições;Grupo Tamburi;1;633
+2030-01-14;MH Refeições;Vantage;1;150
+2030-01-14;MH Refeições;Rondon R/R;1;24
+2030-01-14;MH Refeições;Elisa Agro;1;240
+2030-01-15;MH Refeições;Grupo Tamburi;1;554
+2030-01-15;MH Refeições;Vantage;1;150
+2030-01-15;MH Refeições;Rondon R/R;1;0
+2030-01-15;MH Refeições;Elisa Agro;1;384
+2030-01-16;MH Refeições;Grupo Tamburi;1;712
+2030-01-16;MH Refeições;Vantage;1;150
+2030-01-16;MH Refeições;Rondon R/R;1;0
+2030-01-16;MH Refeições;Elisa Agro;1;360
+2030-01-17;MH Refeições;Grupo Tamburi;1;554
+2030-01-17;MH Refeições;Vantage;1;120
+2030-01-17;MH Refeições;Rondon R/R;1;24
+2030-01-17;MH Refeições;Elisa Agro;1;384
+2030-01-18;MH Refeições;Grupo Tamburi;1;660
+2030-01-18;MH Refeições;Vantage;1;120
+2030-01-18;MH Refeições;Rondon R/R;1;0
+2030-01-18;MH Refeições;Elisa Agro;1;456
+2030-01-19;MH Refeições;Grupo Tamburi;1;765
+2030-01-19;MH Refeições;Vantage;1;120
+2030-01-19;MH Refeições;Rondon R/R;1;0
+2030-01-19;MH Refeições;Elisa Agro;1;264
+2030-01-20;MH Refeições;Grupo Tamburi;1;686
+2030-01-20;MH Refeições;Vantage;1;120
+2030-01-20;MH Refeições;Rondon R/R;1;0
+2030-01-20;MH Refeições;Elisa Agro;1;360
+2030-01-21;MH Refeições;Grupo Tamburi;1;607
+2030-01-21;MH Refeições;Vantage;1;120
+2030-01-21;MH Refeições;Rondon R/R;1;24
+2030-01-21;MH Refeições;Elisa Agro;1;240
+2030-01-22;MH Refeições;Grupo Tamburi;1;633
+2030-01-22;MH Refeições;Vantage;1;120
+2030-01-22;MH Refeições;Rondon R/R;1;0
+2030-01-22;MH Refeições;Elisa Agro;1;240
+2030-01-23;MH Refeições;Grupo Tamburi;1;554
+2030-01-23;MH Refeições;Vantage;1;150
+2030-01-23;MH Refeições;Rondon R/R;1;24
+2030-01-23;MH Refeições;Elisa Agro;1;384
+2030-01-24;MH Refeições;Grupo Tamburi;1;660
+2030-01-24;MH Refeições;Vantage;1;150
+2030-01-24;MH Refeições;Rondon R/R;1;0
+2030-01-24;MH Refeições;Elisa Agro;1;408
+2030-01-25;MH Refeições;Grupo Tamburi;1;739
+2030-01-25;MH Refeições;Vantage;1;120
+2030-01-25;MH Refeições;Rondon R/R;1;24
+2030-01-25;MH Refeições;Elisa Agro;1;432
+2030-01-26;MH Refeições;Grupo Tamburi;1;660
+2030-01-26;MH Refeições;Vantage;1;150
+2030-01-26;MH Refeições;Rondon R/R;1;24
+2030-01-26;MH Refeições;Elisa Agro;1;240
+2030-01-27;MH Refeições;Grupo Tamburi;1;554
+2030-01-27;MH Refeições;Vantage;1;120
+2030-01-27;MH Refeições;Rondon R/R;1;0
+2030-01-27;MH Refeições;Elisa Agro;1;408
+2030-01-28;MH Refeições;Grupo Tamburi;1;765
+2030-01-28;MH Refeições;Vantage;1;120
+2030-01-28;MH Refeições;Rondon R/R;1;0
+2030-01-28;MH Refeições;Elisa Agro;1;456
+2030-01-29;MH Refeições;Grupo Tamburi;1;580
+2030-01-29;MH Refeições;Vantage;1;120
+2030-01-29;MH Refeições;Rondon R/R;1;24
+2030-01-29;MH Refeições;Elisa Agro;1;336
+2030-01-30;MH Refeições;Grupo Tamburi;1;554
+2030-01-30;MH Refeições;Vantage;1;150
+2030-01-30;MH Refeições;Rondon R/R;1;24
+2030-01-30;MH Refeições;Elisa Agro;1;408
+2030-01-31;MH Refeições;Grupo Tamburi;1;554
+2030-01-31;MH Refeições;Vantage;1;150
+2030-01-31;MH Refeições;Rondon R/R;1;0
+2030-01-31;MH Refeições;Elisa Agro;1;312
+2030-02-01;MH Refeições;Grupo Tamburi;1;743
+2030-02-01;MH Refeições;Vantage;1;130
+2030-02-01;MH Refeições;Rondon R/R;1;26
+2030-02-01;MH Refeições;Elisa Agro;1;390
+2030-02-02;MH Refeições;Grupo Tamburi;1;572
+2030-02-02;MH Refeições;Vantage;1;162
+2030-02-02;MH Refeições;Rondon R/R;1;26
+2030-02-02;MH Refeições;Elisa Agro;1;286
+2030-02-03;MH Refeições;Grupo Tamburi;1;715
+2030-02-03;MH Refeições;Vantage;1;130
+2030-02-03;MH Refeições;Rondon R/R;1;0
+2030-02-03;MH Refeições;Elisa Agro;1;494
+2030-02-04;MH Refeições;Grupo Tamburi;1;715
+2030-02-04;MH Refeições;Vantage;1;162
+2030-02-04;MH Refeições;Rondon R/R;1;0
+2030-02-04;MH Refeições;Elisa Agro;1;338
+2030-02-05;MH Refeições;Grupo Tamburi;1;600
+2030-02-05;MH Refeições;Vantage;1;162
+2030-02-05;MH Refeições;Rondon R/R;1;26
+2030-02-05;MH Refeições;Elisa Agro;1;494
+2030-02-06;MH Refeições;Grupo Tamburi;1;629
+2030-02-06;MH Refeições;Vantage;1;162
+2030-02-06;MH Refeições;Rondon R/R;1;0
+2030-02-06;MH Refeições;Elisa Agro;1;286
+2030-02-07;MH Refeições;Grupo Tamburi;1;743
+2030-02-07;MH Refeições;Vantage;1;130
+2030-02-07;MH Refeições;Rondon R/R;1;0
+2030-02-07;MH Refeições;Elisa Agro;1;442
+2030-02-08;MH Refeições;Grupo Tamburi;1;572
+2030-02-08;MH Refeições;Vantage;1;130
+2030-02-08;MH Refeições;Rondon R/R;1;26
+2030-02-08;MH Refeições;Elisa Agro;1;390
+2030-02-09;MH Refeições;Grupo Tamburi;1;572
+2030-02-09;MH Refeições;Vantage;1;162
+2030-02-09;MH Refeições;Rondon R/R;1;26
+2030-02-09;MH Refeições;Elisa Agro;1;364
+2030-02-10;MH Refeições;Grupo Tamburi;1;686
+2030-02-10;MH Refeições;Vantage;1;130
+2030-02-10;MH Refeições;Rondon R/R;1;26
+2030-02-10;MH Refeições;Elisa Agro;1;260
+2030-02-11;MH Refeições;Grupo Tamburi;1;600
+2030-02-11;MH Refeições;Vantage;1;162
+2030-02-11;MH Refeições;Rondon R/R;1;0
+2030-02-11;MH Refeições;Elisa Agro;1;390
+2030-02-12;MH Refeições;Grupo Tamburi;1;715
+2030-02-12;MH Refeições;Vantage;1;162
+2030-02-12;MH Refeições;Rondon R/R;1;26
+2030-02-12;MH Refeições;Elisa Agro;1;416
+2030-02-13;MH Refeições;Grupo Tamburi;1;829
+2030-02-13;MH Refeições;Vantage;1;130
+2030-02-13;MH Refeições;Rondon R/R;1;0
+2030-02-13;MH Refeições;Elisa Agro;1;416
+2030-02-14;MH Refeições;Grupo Tamburi;1;715
+2030-02-14;MH Refeições;Vantage;1;162
+2030-02-14;MH Refeições;Rondon R/R;1;26
+2030-02-14;MH Refeições;Elisa Agro;1;494
+2030-02-15;MH Refeições;Grupo Tamburi;1;600
+2030-02-15;MH Refeições;Vantage;1;162
+2030-02-15;MH Refeições;Rondon R/R;1;26
+2030-02-15;MH Refeições;Elisa Agro;1;442
+2030-02-16;MH Refeições;Grupo Tamburi;1;600
+2030-02-16;MH Refeições;Vantage;1;162
+2030-02-16;MH Refeições;Rondon R/R;1;26
+2030-02-16;MH Refeições;Elisa Agro;1;312
+2030-02-17;MH Refeições;Grupo Tamburi;1;572
+2030-02-17;MH Refeições;Vantage;1;130
+2030-02-17;MH Refeições;Rondon R/R;1;26
+2030-02-17;MH Refeições;Elisa Agro;1;364
+2030-02-18;MH Refeições;Grupo Tamburi;1;715
+2030-02-18;MH Refeições;Vantage;1;162
+2030-02-18;MH Refeições;Rondon R/R;1;0
+2030-02-18;MH Refeições;Elisa Agro;1;286
+2030-02-19;MH Refeições;Grupo Tamburi;1;829
+2030-02-19;MH Refeições;Vantage;1;130
+2030-02-19;MH Refeições;Rondon R/R;1;26
+2030-02-19;MH Refeições;Elisa Agro;1;390
+2030-02-20;MH Refeições;Grupo Tamburi;1;743
+2030-02-20;MH Refeições;Vantage;1;162
+2030-02-20;MH Refeições;Rondon R/R;1;0
+2030-02-20;MH Refeições;Elisa Agro;1;286
+2030-02-21;MH Refeições;Grupo Tamburi;1;600
+2030-02-21;MH Refeições;Vantage;1;130
+2030-02-21;MH Refeições;Rondon R/R;1;26
+2030-02-21;MH Refeições;Elisa Agro;1;338
+2030-02-22;MH Refeições;Grupo Tamburi;1;772
+2030-02-22;MH Refeições;Vantage;1;130
+2030-02-22;MH Refeições;Rondon R/R;1;26
+2030-02-22;MH Refeições;Elisa Agro;1;364
+2030-02-23;MH Refeições;Grupo Tamburi;1;772
+2030-02-23;MH Refeições;Vantage;1;130
+2030-02-23;MH Refeições;Rondon R/R;1;0
+2030-02-23;MH Refeições;Elisa Agro;1;442
+2030-02-24;MH Refeições;Grupo Tamburi;1;657
+2030-02-24;MH Refeições;Vantage;1;162
+2030-02-24;MH Refeições;Rondon R/R;1;0
+2030-02-24;MH Refeições;Elisa Agro;1;442
+2030-02-25;MH Refeições;Grupo Tamburi;1;800
+2030-02-25;MH Refeições;Vantage;1;130
+2030-02-25;MH Refeições;Rondon R/R;1;0
+2030-02-25;MH Refeições;Elisa Agro;1;338
+2030-02-26;MH Refeições;Grupo Tamburi;1;629
+2030-02-26;MH Refeições;Vantage;1;162
+2030-02-26;MH Refeições;Rondon R/R;1;0
+2030-02-26;MH Refeições;Elisa Agro;1;338
+2030-02-27;MH Refeições;Grupo Tamburi;1;715
+2030-02-27;MH Refeições;Vantage;1;162
+2030-02-27;MH Refeições;Rondon R/R;1;0
+2030-02-27;MH Refeições;Elisa Agro;1;260
+2030-02-28;MH Refeições;Grupo Tamburi;1;657
+2030-02-28;MH Refeições;Vantage;1;162
+2030-02-28;MH Refeições;Rondon R/R;1;26
+2030-02-28;MH Refeições;Elisa Agro;1;338
+2030-03-01;MH Refeições;Grupo Tamburi;1;572
+2030-03-01;MH Refeições;Vantage;1;125
+2030-03-01;MH Refeições;Rondon R/R;1;20
+2030-03-01;MH Refeições;Elisa Agro;1;320
+2030-03-02;MH Refeições;Grupo Tamburi;1;550
+2030-03-02;MH Refeições;Vantage;1;100
+2030-03-02;MH Refeições;Rondon R/R;1;0
+2030-03-02;MH Refeições;Elisa Agro;1;220
+2030-03-03;MH Refeições;Grupo Tamburi;1;462
+2030-03-03;MH Refeições;Vantage;1;100
+2030-03-03;MH Refeições;Rondon R/R;1;0
+2030-03-03;MH Refeições;Elisa Agro;1;200
+2030-03-04;MH Refeições;Grupo Tamburi;1;484
+2030-03-04;MH Refeições;Vantage;1;125
+2030-03-04;MH Refeições;Rondon R/R;1;20
+2030-03-04;MH Refeições;Elisa Agro;1;380
+2030-03-05;MH Refeições;Grupo Tamburi;1;440
+2030-03-05;MH Refeições;Vantage;1;125
+2030-03-05;MH Refeições;Rondon R/R;1;20
+2030-03-05;MH Refeições;Elisa Agro;1;220
+2030-03-06;MH Refeições;Grupo Tamburi;1;594
+2030-03-06;MH Refeições;Vantage;1;125
+2030-03-06;MH Refeições;Rondon R/R;1;20
+2030-03-06;MH Refeições;Elisa Agro;1;380
+2030-03-07;MH Refeições;Grupo Tamburi;1;550
+2030-03-07;MH Refeições;Vantage;1;100
+2030-03-07;MH Refeições;Rondon R/R;1;20
+2030-03-07;MH Refeições;Elisa Agro;1;240
+2030-03-08;MH Refeições;Grupo Tamburi;1;484
+2030-03-08;MH Refeições;Vantage;1;100
+2030-03-08;MH Refeições;Rondon R/R;1;20
+2030-03-08;MH Refeições;Elisa Agro;1;260
+2030-03-09;MH Refeições;Grupo Tamburi;1;462
+2030-03-09;MH Refeições;Vantage;1;100
+2030-03-09;MH Refeições;Rondon R/R;1;0
+2030-03-09;MH Refeições;Elisa Agro;1;260
+2030-03-10;MH Refeições;Grupo Tamburi;1;638
+2030-03-10;MH Refeições;Vantage;1;100
+2030-03-10;MH Refeições;Rondon R/R;1;0
+2030-03-10;MH Refeições;Elisa Agro;1;280
+2030-03-11;MH Refeições;Grupo Tamburi;1;440
+2030-03-11;MH Refeições;Vantage;1;125
+2030-03-11;MH Refeições;Rondon R/R;1;20
+2030-03-11;MH Refeições;Elisa Agro;1;340
+2030-03-12;MH Refeições;Grupo Tamburi;1;572
+2030-03-12;MH Refeições;Vantage;1;125
+2030-03-12;MH Refeições;Rondon R/R;1;20
+2030-03-12;MH Refeições;Elisa Agro;1;380
+2030-03-13;MH Refeições;Grupo Tamburi;1;616
+2030-03-13;MH Refeições;Vantage;1;125
+2030-03-13;MH Refeições;Rondon R/R;1;0
+2030-03-13;MH Refeições;Elisa Agro;1;380
+2030-03-14;MH Refeições;Grupo Tamburi;1;484
+2030-03-14;MH Refeições;Vantage;1;100
+2030-03-14;MH Refeições;Rondon R/R;1;0
+2030-03-14;MH Refeições;Elisa Agro;1;360
+2030-03-15;MH Refeições;Grupo Tamburi;1;484
+2030-03-15;MH Refeições;Vantage;1;125
+2030-03-15;MH Refeições;Rondon R/R;1;0
+2030-03-15;MH Refeições;Elisa Agro;1;380
+2030-03-16;MH Refeições;Grupo Tamburi;1;462
+2030-03-16;MH Refeições;Vantage;1;100
+2030-03-16;MH Refeições;Rondon R/R;1;0
+2030-03-16;MH Refeições;Elisa Agro;1;220
+2030-03-17;MH Refeições;Grupo Tamburi;1;550
+2030-03-17;MH Refeições;Vantage;1;100
+2030-03-17;MH Refeições;Rondon R/R;1;20
+2030-03-17;MH Refeições;Elisa Agro;1;340
+2030-03-18;MH Refeições;Grupo Tamburi;1;550
+2030-03-18;MH Refeições;Vantage;1;100
+2030-03-18;MH Refeições;Rondon R/R;1;20
+2030-03-18;MH Refeições;Elisa Agro;1;300
+2030-03-19;MH Refeições;Grupo Tamburi;1;616
+2030-03-19;MH Refeições;Vantage;1;100
+2030-03-19;MH Refeições;Rondon R/R;1;0
+2030-03-19;MH Refeições;Elisa Agro;1;220
+2030-03-20;MH Refeições;Grupo Tamburi;1;594
+2030-03-20;MH Refeições;Vantage;1;100
+2030-03-20;MH Refeições;Rondon R/R;1;20
+2030-03-20;MH Refeições;Elisa Agro;1;300
+2030-03-21;MH Refeições;Grupo Tamburi;1;550
+2030-03-21;MH Refeições;Vantage;1;125
+2030-03-21;MH Refeições;Rondon R/R;1;0
+2030-03-21;MH Refeições;Elisa Agro;1;260
+2030-03-22;MH Refeições;Grupo Tamburi;1;638
+2030-03-22;MH Refeições;Vantage;1;100
+2030-03-22;MH Refeições;Rondon R/R;1;0
+2030-03-22;MH Refeições;Elisa Agro;1;340
+2030-03-23;MH Refeições;Grupo Tamburi;1;594
+2030-03-23;MH Refeições;Vantage;1;125
+2030-03-23;MH Refeições;Rondon R/R;1;0
+2030-03-23;MH Refeições;Elisa Agro;1;240
+2030-03-24;MH Refeições;Grupo Tamburi;1;616
+2030-03-24;MH Refeições;Vantage;1;100
+2030-03-24;MH Refeições;Rondon R/R;1;0
+2030-03-24;MH Refeições;Elisa Agro;1;380
+2030-03-25;MH Refeições;Grupo Tamburi;1;638
+2030-03-25;MH Refeições;Vantage;1;100
+2030-03-25;MH Refeições;Rondon R/R;1;20
+2030-03-25;MH Refeições;Elisa Agro;1;240
+2030-03-26;MH Refeições;Grupo Tamburi;1;462
+2030-03-26;MH Refeições;Vantage;1;125
+2030-03-26;MH Refeições;Rondon R/R;1;20
+2030-03-26;MH Refeições;Elisa Agro;1;380
+2030-03-27;MH Refeições;Grupo Tamburi;1;550
+2030-03-27;MH Refeições;Vantage;1;125
+2030-03-27;MH Refeições;Rondon R/R;1;20
+2030-03-27;MH Refeições;Elisa Agro;1;380
+2030-03-28;MH Refeições;Grupo Tamburi;1;594
+2030-03-28;MH Refeições;Vantage;1;100
+2030-03-28;MH Refeições;Rondon R/R;1;20
+2030-03-28;MH Refeições;Elisa Agro;1;200
+2030-03-29;MH Refeições;Grupo Tamburi;1;594
+2030-03-29;MH Refeições;Vantage;1;125
+2030-03-29;MH Refeições;Rondon R/R;1;20
+2030-03-29;MH Refeições;Elisa Agro;1;280
+2030-03-30;MH Refeições;Grupo Tamburi;1;572
+2030-03-30;MH Refeições;Vantage;1;125
+2030-03-30;MH Refeições;Rondon R/R;1;0
+2030-03-30;MH Refeições;Elisa Agro;1;220
+2030-03-31;MH Refeições;Grupo Tamburi;1;528
+2030-03-31;MH Refeições;Vantage;1;100
+2030-03-31;MH Refeições;Rondon R/R;1;0
+2030-03-31;MH Refeições;Elisa Agro;1;200
+2030-04-01;MH Refeições;Grupo Tamburi;1;629
+2030-04-01;MH Refeições;Vantage;1;137
+2030-04-01;MH Refeições;Rondon R/R;1;0
+2030-04-01;MH Refeições;Elisa Agro;1;286
+2030-04-02;MH Refeições;Grupo Tamburi;1;629
+2030-04-02;MH Refeições;Vantage;1;137
+2030-04-02;MH Refeições;Rondon R/R;1;22
+2030-04-02;MH Refeições;Elisa Agro;1;286
+2030-04-03;MH Refeições;Grupo Tamburi;1;701
+2030-04-03;MH Refeições;Vantage;1;110
+2030-04-03;MH Refeições;Rondon R/R;1;0
+2030-04-03;MH Refeições;Elisa Agro;1;396
+2030-04-04;MH Refeições;Grupo Tamburi;1;605
+2030-04-04;MH Refeições;Vantage;1;137
+2030-04-04;MH Refeições;Rondon R/R;1;0
+2030-04-04;MH Refeições;Elisa Agro;1;264
+2030-04-05;MH Refeições;Grupo Tamburi;1;677
+2030-04-05;MH Refeições;Vantage;1;110
+2030-04-05;MH Refeições;Rondon R/R;1;0
+2030-04-05;MH Refeições;Elisa Agro;1;418
+2030-04-06;MH Refeições;Grupo Tamburi;1;556
+2030-04-06;MH Refeições;Vantage;1;137
+2030-04-06;MH Refeições;Rondon R/R;1;0
+2030-04-06;MH Refeições;Elisa Agro;1;242
+2030-04-07;MH Refeições;Grupo Tamburi;1;532
+2030-04-07;MH Refeições;Vantage;1;137
+2030-04-07;MH Refeições;Rondon R/R;1;0
+2030-04-07;MH Refeições;Elisa Agro;1;396
+2030-04-08;MH Refeições;Grupo Tamburi;1;532
+2030-04-08;MH Refeições;Vantage;1;110
+2030-04-08;MH Refeições;Rondon R/R;1;0
+2030-04-08;MH Refeições;Elisa Agro;1;352
+2030-04-09;MH Refeições;Grupo Tamburi;1;556
+2030-04-09;MH Refeições;Vantage;1;110
+2030-04-09;MH Refeições;Rondon R/R;1;22
+2030-04-09;MH Refeições;Elisa Agro;1;396
+2030-04-10;MH Refeições;Grupo Tamburi;1;653
+2030-04-10;MH Refeições;Vantage;1;110
+2030-04-10;MH Refeições;Rondon R/R;1;22
+2030-04-10;MH Refeições;Elisa Agro;1;308
+2030-04-11;MH Refeições;Grupo Tamburi;1;677
+2030-04-11;MH Refeições;Vantage;1;110
+2030-04-11;MH Refeições;Rondon R/R;1;0
+2030-04-11;MH Refeições;Elisa Agro;1;308
+2030-04-12;MH Refeições;Grupo Tamburi;1;556
+2030-04-12;MH Refeições;Vantage;1;110
+2030-04-12;MH Refeições;Rondon R/R;1;22
+2030-04-12;MH Refeições;Elisa Agro;1;308
+2030-04-13;MH Refeições;Grupo Tamburi;1;629
+2030-04-13;MH Refeições;Vantage;1;110
+2030-04-13;MH Refeições;Rondon R/R;1;0
+2030-04-13;MH Refeições;Elisa Agro;1;374
+2030-04-14;MH Refeições;Grupo Tamburi;1;556
+2030-04-14;MH Refeições;Vantage;1;137
+2030-04-14;MH Refeições;Rondon R/R;1;22
+2030-04-14;MH Refeições;Elisa Agro;1;308
+2030-04-15;MH Refeições;Grupo Tamburi;1;701
+2030-04-15;MH Refeições;Vantage;1;137
+2030-04-15;MH Refeições;Rondon R/R;1;22
+2030-04-15;MH Refeições;Elisa Agro;1;308
+2030-04-16;MH Refeições;Grupo Tamburi;1;677
+2030-04-16;MH Refeições;Vantage;1;110
+2030-04-16;MH Refeições;Rondon R/R;1;22
+2030-04-16;MH Refeições;Elisa Agro;1;242
+2030-04-17;MH Refeições;Grupo Tamburi;1;701
+2030-04-17;MH Refeições;Vantage;1;137
+2030-04-17;MH Refeições;Rondon R/R;1;0
+2030-04-17;MH Refeições;Elisa Agro;1;374
+2030-04-18;MH Refeições;Grupo Tamburi;1;701
+2030-04-18;MH Refeições;Vantage;1;110
+2030-04-18;MH Refeições;Rondon R/R;1;22
+2030-04-18;MH Refeições;Elisa Agro;1;396
+2030-04-19;MH Refeições;Grupo Tamburi;1;508
+2030-04-19;MH Refeições;Vantage;1;110
+2030-04-19;MH Refeições;Rondon R/R;1;22
+2030-04-19;MH Refeições;Elisa Agro;1;396
+2030-04-20;MH Refeições;Grupo Tamburi;1;653
+2030-04-20;MH Refeições;Vantage;1;137
+2030-04-20;MH Refeições;Rondon R/R;1;0
+2030-04-20;MH Refeições;Elisa Agro;1;352
+2030-04-21;MH Refeições;Grupo Tamburi;1;556
+2030-04-21;MH Refeições;Vantage;1;110
+2030-04-21;MH Refeições;Rondon R/R;1;0
+2030-04-21;MH Refeições;Elisa Agro;1;264
+2030-04-22;MH Refeições;Grupo Tamburi;1;629
+2030-04-22;MH Refeições;Vantage;1;137
+2030-04-22;MH Refeições;Rondon R/R;1;0
+2030-04-22;MH Refeições;Elisa Agro;1;264
+2030-04-23;MH Refeições;Grupo Tamburi;1;508
+2030-04-23;MH Refeições;Vantage;1;137
+2030-04-23;MH Refeições;Rondon R/R;1;22
+2030-04-23;MH Refeições;Elisa Agro;1;242
+2030-04-24;MH Refeições;Grupo Tamburi;1;508
+2030-04-24;MH Refeições;Vantage;1;110
+2030-04-24;MH Refeições;Rondon R/R;1;0
+2030-04-24;MH Refeições;Elisa Agro;1;396
+2030-04-25;MH Refeições;Grupo Tamburi;1;629
+2030-04-25;MH Refeições;Vantage;1;137
+2030-04-25;MH Refeições;Rondon R/R;1;22
+2030-04-25;MH Refeições;Elisa Agro;1;242
+2030-04-26;MH Refeições;Grupo Tamburi;1;532
+2030-04-26;MH Refeições;Vantage;1;110
+2030-04-26;MH Refeições;Rondon R/R;1;22
+2030-04-26;MH Refeições;Elisa Agro;1;242
+2030-04-27;MH Refeições;Grupo Tamburi;1;701
+2030-04-27;MH Refeições;Vantage;1;137
+2030-04-27;MH Refeições;Rondon R/R;1;0
+2030-04-27;MH Refeições;Elisa Agro;1;352
+2030-04-28;MH Refeições;Grupo Tamburi;1;605
+2030-04-28;MH Refeições;Vantage;1;137
+2030-04-28;MH Refeições;Rondon R/R;1;22
+2030-04-28;MH Refeições;Elisa Agro;1;330
+2030-04-29;MH Refeições;Grupo Tamburi;1;653
+2030-04-29;MH Refeições;Vantage;1;137
+2030-04-29;MH Refeições;Rondon R/R;1;0
+2030-04-29;MH Refeições;Elisa Agro;1;264
+2030-04-30;MH Refeições;Grupo Tamburi;1;556
+2030-04-30;MH Refeições;Vantage;1;137
+2030-04-30;MH Refeições;Rondon R/R;1;22
+2030-04-30;MH Refeições;Elisa Agro;1;396
+2030-05-01;MH Refeições;Grupo Tamburi;1;508
+2030-05-01;MH Refeições;Vantage;1;137
+2030-05-01;MH Refeições;Rondon R/R;1;22
+2030-05-01;MH Refeições;Elisa Agro;1;264
+2030-05-02;MH Refeições;Grupo Tamburi;1;629
+2030-05-02;MH Refeições;Vantage;1;110
+2030-05-02;MH Refeições;Rondon R/R;1;0
+2030-05-02;MH Refeições;Elisa Agro;1;264
+2030-05-03;MH Refeições;Grupo Tamburi;1;701
+2030-05-03;MH Refeições;Vantage;1;110
+2030-05-03;MH Refeições;Rondon R/R;1;22
+2030-05-03;MH Refeições;Elisa Agro;1;286
+2030-05-04;MH Refeições;Grupo Tamburi;1;701
+2030-05-04;MH Refeições;Vantage;1;137
+2030-05-04;MH Refeições;Rondon R/R;1;22
+2030-05-04;MH Refeições;Elisa Agro;1;286
+2030-05-05;MH Refeições;Grupo Tamburi;1;484
+2030-05-05;MH Refeições;Vantage;1;137
+2030-05-05;MH Refeições;Rondon R/R;1;0
+2030-05-05;MH Refeições;Elisa Agro;1;396
+2030-05-06;MH Refeições;Grupo Tamburi;1;605
+2030-05-06;MH Refeições;Vantage;1;137
+2030-05-06;MH Refeições;Rondon R/R;1;0
+2030-05-06;MH Refeições;Elisa Agro;1;352
+2030-05-07;MH Refeições;Grupo Tamburi;1;677
+2030-05-07;MH Refeições;Vantage;1;110
+2030-05-07;MH Refeições;Rondon R/R;1;0
+2030-05-07;MH Refeições;Elisa Agro;1;220
+2030-05-08;MH Refeições;Grupo Tamburi;1;653
+2030-05-08;MH Refeições;Vantage;1;110
+2030-05-08;MH Refeições;Rondon R/R;1;22
+2030-05-08;MH Refeições;Elisa Agro;1;352
+2030-05-09;MH Refeições;Grupo Tamburi;1;484
+2030-05-09;MH Refeições;Vantage;1;137
+2030-05-09;MH Refeições;Rondon R/R;1;0
+2030-05-09;MH Refeições;Elisa Agro;1;374
+2030-05-10;MH Refeições;Grupo Tamburi;1;532
+2030-05-10;MH Refeições;Vantage;1;137
+2030-05-10;MH Refeições;Rondon R/R;1;0
+2030-05-10;MH Refeições;Elisa Agro;1;330
+2030-05-11;MH Refeições;Grupo Tamburi;1;653
+2030-05-11;MH Refeições;Vantage;1;137
+2030-05-11;MH Refeições;Rondon R/R;1;22
+2030-05-11;MH Refeições;Elisa Agro;1;220
+2030-05-12;MH Refeições;Grupo Tamburi;1;701
+2030-05-12;MH Refeições;Vantage;1;110
+2030-05-12;MH Refeições;Rondon R/R;1;0
+2030-05-12;MH Refeições;Elisa Agro;1;352
+2030-05-13;MH Refeições;Grupo Tamburi;1;629
+2030-05-13;MH Refeições;Vantage;1;110
+2030-05-13;MH Refeições;Rondon R/R;1;22
+2030-05-13;MH Refeições;Elisa Agro;1;220
+2030-05-14;MH Refeições;Grupo Tamburi;1;508
+2030-05-14;MH Refeições;Vantage;1;110
+2030-05-14;MH Refeições;Rondon R/R;1;0
+2030-05-14;MH Refeições;Elisa Agro;1;330
+2030-05-15;MH Refeições;Grupo Tamburi;1;605
+2030-05-15;MH Refeições;Vantage;1;137
+2030-05-15;MH Refeições;Rondon R/R;1;0
+2030-05-15;MH Refeições;Elisa Agro;1;264
+2030-05-16;MH Refeições;Grupo Tamburi;1;677
+2030-05-16;MH Refeições;Vantage;1;110
+2030-05-16;MH Refeições;Rondon R/R;1;0
+2030-05-16;MH Refeições;Elisa Agro;1;352
+2030-05-17;MH Refeições;Grupo Tamburi;1;532
+2030-05-17;MH Refeições;Vantage;1;137
+2030-05-17;MH Refeições;Rondon R/R;1;0
+2030-05-17;MH Refeições;Elisa Agro;1;242
+2030-05-18;MH Refeições;Grupo Tamburi;1;508
+2030-05-18;MH Refeições;Vantage;1;110
+2030-05-18;MH Refeições;Rondon R/R;1;0
+2030-05-18;MH Refeições;Elisa Agro;1;330
+2030-05-19;MH Refeições;Grupo Tamburi;1;677
+2030-05-19;MH Refeições;Vantage;1;137
+2030-05-19;MH Refeições;Rondon R/R;1;0
+2030-05-19;MH Refeições;Elisa Agro;1;264
+2030-05-20;MH Refeições;Grupo Tamburi;1;484
+2030-05-20;MH Refeições;Vantage;1;110
+2030-05-20;MH Refeições;Rondon R/R;1;22
+2030-05-20;MH Refeições;Elisa Agro;1;264
+2030-05-21;MH Refeições;Grupo Tamburi;1;508
+2030-05-21;MH Refeições;Vantage;1;137
+2030-05-21;MH Refeições;Rondon R/R;1;0
+2030-05-21;MH Refeições;Elisa Agro;1;286
+2030-05-22;MH Refeições;Grupo Tamburi;1;677
+2030-05-22;MH Refeições;Vantage;1;137
+2030-05-22;MH Refeições;Rondon R/R;1;22
+2030-05-22;MH Refeições;Elisa Agro;1;352
+2030-05-23;MH Refeições;Grupo Tamburi;1;701
+2030-05-23;MH Refeições;Vantage;1;110
+2030-05-23;MH Refeições;Rondon R/R;1;22
+2030-05-23;MH Refeições;Elisa Agro;1;396
+2030-05-24;MH Refeições;Grupo Tamburi;1;677
+2030-05-24;MH Refeições;Vantage;1;110
+2030-05-24;MH Refeições;Rondon R/R;1;0
+2030-05-24;MH Refeições;Elisa Agro;1;264
+2030-05-25;MH Refeições;Grupo Tamburi;1;556
+2030-05-25;MH Refeições;Vantage;1;110
+2030-05-25;MH Refeições;Rondon R/R;1;22
+2030-05-25;MH Refeições;Elisa Agro;1;374
+2030-05-26;MH Refeições;Grupo Tamburi;1;508
+2030-05-26;MH Refeições;Vantage;1;137
+2030-05-26;MH Refeições;Rondon R/R;1;22
+2030-05-26;MH Refeições;Elisa Agro;1;418
+2030-05-27;MH Refeições;Grupo Tamburi;1;629
+2030-05-27;MH Refeições;Vantage;1;110
+2030-05-27;MH Refeições;Rondon R/R;1;22
+2030-05-27;MH Refeições;Elisa Agro;1;330
+2030-05-28;MH Refeições;Grupo Tamburi;1;556
+2030-05-28;MH Refeições;Vantage;1;110
+2030-05-28;MH Refeições;Rondon R/R;1;22
+2030-05-28;MH Refeições;Elisa Agro;1;286
+2030-05-29;MH Refeições;Grupo Tamburi;1;653
+2030-05-29;MH Refeições;Vantage;1;137
+2030-05-29;MH Refeições;Rondon R/R;1;0
+2030-05-29;MH Refeições;Elisa Agro;1;220
+2030-05-30;MH Refeições;Grupo Tamburi;1;556
+2030-05-30;MH Refeições;Vantage;1;110
+2030-05-30;MH Refeições;Rondon R/R;1;0
+2030-05-30;MH Refeições;Elisa Agro;1;374
+2030-05-31;MH Refeições;Grupo Tamburi;1;508
+2030-05-31;MH Refeições;Vantage;1;110
+2030-05-31;MH Refeições;Rondon R/R;1;0
+2030-05-31;MH Refeições;Elisa Agro;1;396
+2030-06-01;MH Refeições;Grupo Tamburi;1;580
+2030-06-01;MH Refeições;Vantage;1;120
+2030-06-01;MH Refeições;Rondon R/R;1;24
+2030-06-01;MH Refeições;Elisa Agro;1;384
+2030-06-02;MH Refeições;Grupo Tamburi;1;686
+2030-06-02;MH Refeições;Vantage;1;150
+2030-06-02;MH Refeições;Rondon R/R;1;0
+2030-06-02;MH Refeições;Elisa Agro;1;360
+2030-06-03;MH Refeições;Grupo Tamburi;1;739
+2030-06-03;MH Refeições;Vantage;1;120
+2030-06-03;MH Refeições;Rondon R/R;1;0
+2030-06-03;MH Refeições;Elisa Agro;1;264
+2030-06-04;MH Refeições;Grupo Tamburi;1;686
+2030-06-04;MH Refeições;Vantage;1;120
+2030-06-04;MH Refeições;Rondon R/R;1;0
+2030-06-04;MH Refeições;Elisa Agro;1;432
+2030-06-05;MH Refeições;Grupo Tamburi;1;765
+2030-06-05;MH Refeições;Vantage;1;120
+2030-06-05;MH Refeições;Rondon R/R;1;24
+2030-06-05;MH Refeições;Elisa Agro;1;336
+2030-06-06;MH Refeições;Grupo Tamburi;1;686
+2030-06-06;MH Refeições;Vantage;1;150
+2030-06-06;MH Refeições;Rondon R/R;1;24
+2030-06-06;MH Refeições;Elisa Agro;1;264
+2030-06-07;MH Refeições;Grupo Tamburi;1;554
+2030-06-07;MH Refeições;Vantage;1;150
+2030-06-07;MH Refeições;Rondon R/R;1;24
+2030-06-07;MH Refeições;Elisa Agro;1;312
+2030-06-08;MH Refeições;Grupo Tamburi;1;580
+2030-06-08;MH Refeições;Vantage;1;120
+2030-06-08;MH Refeições;Rondon R/R;1;0
+2030-06-08;MH Refeições;Elisa Agro;1;408
+2030-06-09;MH Refeições;Grupo Tamburi;1;660
+2030-06-09;MH Refeições;Vantage;1;120
+2030-06-09;MH Refeições;Rondon R/R;1;0
+2030-06-09;MH Refeições;Elisa Agro;1;432
+2030-06-10;MH Refeições;Grupo Tamburi;1;686
+2030-06-10;MH Refeições;Vantage;1;120
+2030-06-10;MH Refeições;Rondon R/R;1;24
+2030-06-10;MH Refeições;Elisa Agro;1;384
+2030-06-11;MH Refeições;Grupo Tamburi;1;686
+2030-06-11;MH Refeições;Vantage;1;150
+2030-06-11;MH Refeições;Rondon R/R;1;0
+2030-06-11;MH Refeições;Elisa Agro;1;360
+2030-06-12;MH Refeições;Grupo Tamburi;1;686
+2030-06-12;MH Refeições;Vantage;1;150
+2030-06-12;MH Refeições;Rondon R/R;1;24
+2030-06-12;MH Refeições;Elisa Agro;1;288
+2030-06-13;MH Refeições;Grupo Tamburi;1;686
+2030-06-13;MH Refeições;Vantage;1;150
+2030-06-13;MH Refeições;Rondon R/R;1;24
+2030-06-13;MH Refeições;Elisa Agro;1;240
+2030-06-14;MH Refeições;Grupo Tamburi;1;739
+2030-06-14;MH Refeições;Vantage;1;150
+2030-06-14;MH Refeições;Rondon R/R;1;0
+2030-06-14;MH Refeições;Elisa Agro;1;384
+2030-06-15;MH Refeições;Grupo Tamburi;1;528
+2030-06-15;MH Refeições;Vantage;1;120
+2030-06-15;MH Refeições;Rondon R/R;1;24
+2030-06-15;MH Refeições;Elisa Agro;1;312
+2030-06-16;MH Refeições;Grupo Tamburi;1;633
+2030-06-16;MH Refeições;Vantage;1;150
+2030-06-16;MH Refeições;Rondon R/R;1;0
+2030-06-16;MH Refeições;Elisa Agro;1;240
+2030-06-17;MH Refeições;Grupo Tamburi;1;633
+2030-06-17;MH Refeições;Vantage;1;120
+2030-06-17;MH Refeições;Rondon R/R;1;24
+2030-06-17;MH Refeições;Elisa Agro;1;360
+2030-06-18;MH Refeições;Grupo Tamburi;1;739
+2030-06-18;MH Refeições;Vantage;1;120
+2030-06-18;MH Refeições;Rondon R/R;1;24
+2030-06-18;MH Refeições;Elisa Agro;1;360
+2030-06-19;MH Refeições;Grupo Tamburi;1;686
+2030-06-19;MH Refeições;Vantage;1;150
+2030-06-19;MH Refeições;Rondon R/R;1;24
+2030-06-19;MH Refeições;Elisa Agro;1;288
+2030-06-20;MH Refeições;Grupo Tamburi;1;528
+2030-06-20;MH Refeições;Vantage;1;150
+2030-06-20;MH Refeições;Rondon R/R;1;0
+2030-06-20;MH Refeições;Elisa Agro;1;288
+2030-06-21;MH Refeições;Grupo Tamburi;1;633
+2030-06-21;MH Refeições;Vantage;1;150
+2030-06-21;MH Refeições;Rondon R/R;1;0
+2030-06-21;MH Refeições;Elisa Agro;1;408
+2030-06-22;MH Refeições;Grupo Tamburi;1;554
+2030-06-22;MH Refeições;Vantage;1;150
+2030-06-22;MH Refeições;Rondon R/R;1;24
+2030-06-22;MH Refeições;Elisa Agro;1;456
+2030-06-23;MH Refeições;Grupo Tamburi;1;633
+2030-06-23;MH Refeições;Vantage;1;120
+2030-06-23;MH Refeições;Rondon R/R;1;24
+2030-06-23;MH Refeições;Elisa Agro;1;336
+2030-06-24;MH Refeições;Grupo Tamburi;1;739
+2030-06-24;MH Refeições;Vantage;1;120
+2030-06-24;MH Refeições;Rondon R/R;1;0
+2030-06-24;MH Refeições;Elisa Agro;1;336
+2030-06-25;MH Refeições;Grupo Tamburi;1;765
+2030-06-25;MH Refeições;Vantage;1;150
+2030-06-25;MH Refeições;Rondon R/R;1;0
+2030-06-25;MH Refeições;Elisa Agro;1;264
+2030-06-26;MH Refeições;Grupo Tamburi;1;528
+2030-06-26;MH Refeições;Vantage;1;120
+2030-06-26;MH Refeições;Rondon R/R;1;24
+2030-06-26;MH Refeições;Elisa Agro;1;240
+2030-06-27;MH Refeições;Grupo Tamburi;1;528
+2030-06-27;MH Refeições;Vantage;1;150
+2030-06-27;MH Refeições;Rondon R/R;1;0
+2030-06-27;MH Refeições;Elisa Agro;1;240
+2030-06-28;MH Refeições;Grupo Tamburi;1;686
+2030-06-28;MH Refeições;Vantage;1;120
+2030-06-28;MH Refeições;Rondon R/R;1;0
+2030-06-28;MH Refeições;Elisa Agro;1;312
+2030-06-29;MH Refeições;Grupo Tamburi;1;580
+2030-06-29;MH Refeições;Vantage;1;120
+2030-06-29;MH Refeições;Rondon R/R;1;0
+2030-06-29;MH Refeições;Elisa Agro;1;432
+2030-06-30;MH Refeições;Grupo Tamburi;1;765
+2030-06-30;MH Refeições;Vantage;1;120
+2030-06-30;MH Refeições;Rondon R/R;1;24
+2030-06-30;MH Refeições;Elisa Agro;1;288
+2030-07-01;MH Refeições;Grupo Tamburi;1;616
+2030-07-01;MH Refeições;Vantage;1;175
+2030-07-01;MH Refeições;Rondon R/R;1;0
+2030-07-01;MH Refeições;Elisa Agro;1;308
+2030-07-02;MH Refeições;Grupo Tamburi;1;800
+2030-07-02;MH Refeições;Vantage;1;175
+2030-07-02;MH Refeições;Rondon R/R;1;28
+2030-07-02;MH Refeições;Elisa Agro;1;448
+2030-07-03;MH Refeições;Grupo Tamburi;1;677
+2030-07-03;MH Refeições;Vantage;1;140
+2030-07-03;MH Refeições;Rondon R/R;1;0
+2030-07-03;MH Refeições;Elisa Agro;1;475
+2030-07-04;MH Refeições;Grupo Tamburi;1;677
+2030-07-04;MH Refeições;Vantage;1;140
+2030-07-04;MH Refeições;Rondon R/R;1;0
+2030-07-04;MH Refeições;Elisa Agro;1;532
+2030-07-05;MH Refeições;Grupo Tamburi;1;770
+2030-07-05;MH Refeições;Vantage;1;175
+2030-07-05;MH Refeições;Rondon R/R;1;0
+2030-07-05;MH Refeições;Elisa Agro;1;448
+2030-07-06;MH Refeições;Grupo Tamburi;1;862
+2030-07-06;MH Refeições;Vantage;1;140
+2030-07-06;MH Refeições;Rondon R/R;1;0
+2030-07-06;MH Refeições;Elisa Agro;1;280
+2030-07-07;MH Refeições;Grupo Tamburi;1;893
+2030-07-07;MH Refeições;Vantage;1;175
+2030-07-07;MH Refeições;Rondon R/R;1;28
+2030-07-07;MH Refeições;Elisa Agro;1;392
+2030-07-08;MH Refeições;Grupo Tamburi;1;677
+2030-07-08;MH Refeições;Vantage;1;140
+2030-07-08;MH Refeições;Rondon R/R;1;28
+2030-07-08;MH Refeições;Elisa Agro;1;336
+2030-07-09;MH Refeições;Grupo Tamburi;1;893
+2030-07-09;MH Refeições;Vantage;1;140
+2030-07-09;MH Refeições;Rondon R/R;1;28
+2030-07-09;MH Refeições;Elisa Agro;1;532
+2030-07-10;MH Refeições;Grupo Tamburi;1;862
+2030-07-10;MH Refeições;Vantage;1;175
+2030-07-10;MH Refeições;Rondon R/R;1;0
+2030-07-10;MH Refeições;Elisa Agro;1;308
+2030-07-11;MH Refeições;Grupo Tamburi;1;831
+2030-07-11;MH Refeições;Vantage;1;140
+2030-07-11;MH Refeições;Rondon R/R;1;0
+2030-07-11;MH Refeições;Elisa Agro;1;503
+2030-07-12;MH Refeições;Grupo Tamburi;1;646
+2030-07-12;MH Refeições;Vantage;1;175
+2030-07-12;MH Refeições;Rondon R/R;1;28
+2030-07-12;MH Refeições;Elisa Agro;1;503
+2030-07-13;MH Refeições;Grupo Tamburi;1;708
+2030-07-13;MH Refeições;Vantage;1;140
+2030-07-13;MH Refeições;Rondon R/R;1;0
+2030-07-13;MH Refeições;Elisa Agro;1;475
+2030-07-14;MH Refeições;Grupo Tamburi;1;708
+2030-07-14;MH Refeições;Vantage;1;175
+2030-07-14;MH Refeições;Rondon R/R;1;0
+2030-07-14;MH Refeições;Elisa Agro;1;503
+2030-07-15;MH Refeições;Grupo Tamburi;1;646
+2030-07-15;MH Refeições;Vantage;1;140
+2030-07-15;MH Refeições;Rondon R/R;1;28
+2030-07-15;MH Refeições;Elisa Agro;1;532
+2030-07-16;MH Refeições;Grupo Tamburi;1;616
+2030-07-16;MH Refeições;Vantage;1;140
+2030-07-16;MH Refeições;Rondon R/R;1;0
+2030-07-16;MH Refeições;Elisa Agro;1;392
+2030-07-17;MH Refeições;Grupo Tamburi;1;646
+2030-07-17;MH Refeições;Vantage;1;175
+2030-07-17;MH Refeições;Rondon R/R;1;0
+2030-07-17;MH Refeições;Elisa Agro;1;364
+2030-07-18;MH Refeições;Grupo Tamburi;1;616
+2030-07-18;MH Refeições;Vantage;1;175
+2030-07-18;MH Refeições;Rondon R/R;1;0
+2030-07-18;MH Refeições;Elisa Agro;1;503
+2030-07-19;MH Refeições;Grupo Tamburi;1;800
+2030-07-19;MH Refeições;Vantage;1;140
+2030-07-19;MH Refeições;Rondon R/R;1;0
+2030-07-19;MH Refeições;Elisa Agro;1;420
+2030-07-20;MH Refeições;Grupo Tamburi;1;616
+2030-07-20;MH Refeições;Vantage;1;175
+2030-07-20;MH Refeições;Rondon R/R;1;0
+2030-07-20;MH Refeições;Elisa Agro;1;475
+2030-07-21;MH Refeições;Grupo Tamburi;1;616
+2030-07-21;MH Refeições;Vantage;1;175
+2030-07-21;MH Refeições;Rondon R/R;1;28
+2030-07-21;MH Refeições;Elisa Agro;1;308
+2030-07-22;MH Refeições;Grupo Tamburi;1;893
+2030-07-22;MH Refeições;Vantage;1;175
+2030-07-22;MH Refeições;Rondon R/R;1;28
+2030-07-22;MH Refeições;Elisa Agro;1;336
+2030-07-23;MH Refeições;Grupo Tamburi;1;708
+2030-07-23;MH Refeições;Vantage;1;140
+2030-07-23;MH Refeições;Rondon R/R;1;0
+2030-07-23;MH Refeições;Elisa Agro;1;336
+2030-07-24;MH Refeições;Grupo Tamburi;1;646
+2030-07-24;MH Refeições;Vantage;1;140
+2030-07-24;MH Refeições;Rondon R/R;1;28
+2030-07-24;MH Refeições;Elisa Agro;1;308
+2030-07-25;MH Refeições;Grupo Tamburi;1;677
+2030-07-25;MH Refeições;Vantage;1;175
+2030-07-25;MH Refeições;Rondon R/R;1;28
+2030-07-25;MH Refeições;Elisa Agro;1;336
+2030-07-26;MH Refeições;Grupo Tamburi;1;739
+2030-07-26;MH Refeições;Vantage;1;140
+2030-07-26;MH Refeições;Rondon R/R;1;28
+2030-07-26;MH Refeições;Elisa Agro;1;532
+2030-07-27;MH Refeições;Grupo Tamburi;1;862
+2030-07-27;MH Refeições;Vantage;1;140
+2030-07-27;MH Refeições;Rondon R/R;1;0
+2030-07-27;MH Refeições;Elisa Agro;1;503
+2030-07-28;MH Refeições;Grupo Tamburi;1;739
+2030-07-28;MH Refeições;Vantage;1;140
+2030-07-28;MH Refeições;Rondon R/R;1;0
+2030-07-28;MH Refeições;Elisa Agro;1;280
+2030-07-29;MH Refeições;Grupo Tamburi;1;677
+2030-07-29;MH Refeições;Vantage;1;175
+2030-07-29;MH Refeições;Rondon R/R;1;28
+2030-07-29;MH Refeições;Elisa Agro;1;420
+2030-07-30;MH Refeições;Grupo Tamburi;1;831
+2030-07-30;MH Refeições;Vantage;1;140
+2030-07-30;MH Refeições;Rondon R/R;1;28
+2030-07-30;MH Refeições;Elisa Agro;1;280
+2030-07-31;MH Refeições;Grupo Tamburi;1;646
+2030-07-31;MH Refeições;Vantage;1;140
+2030-07-31;MH Refeições;Rondon R/R;1;0
+2030-07-31;MH Refeições;Elisa Agro;1;503
+2030-08-01;MH Refeições;Grupo Tamburi;1;657
+2030-08-01;MH Refeições;Vantage;1;130
+2030-08-01;MH Refeições;Rondon R/R;1;0
+2030-08-01;MH Refeições;Elisa Agro;1;442
+2030-08-02;MH Refeições;Grupo Tamburi;1;800
+2030-08-02;MH Refeições;Vantage;1;130
+2030-08-02;MH Refeições;Rondon R/R;1;26
+2030-08-02;MH Refeições;Elisa Agro;1;390
+2030-08-03;MH Refeições;Grupo Tamburi;1;829
+2030-08-03;MH Refeições;Vantage;1;162
+2030-08-03;MH Refeições;Rondon R/R;1;0
+2030-08-03;MH Refeições;Elisa Agro;1;416
+2030-08-04;MH Refeições;Grupo Tamburi;1;686
+2030-08-04;MH Refeições;Vantage;1;130
+2030-08-04;MH Refeições;Rondon R/R;1;0
+2030-08-04;MH Refeições;Elisa Agro;1;468
+2030-08-05;MH Refeições;Grupo Tamburi;1;829
+2030-08-05;MH Refeições;Vantage;1;162
+2030-08-05;MH Refeições;Rondon R/R;1;0
+2030-08-05;MH Refeições;Elisa Agro;1;390
+2030-08-06;MH Refeições;Grupo Tamburi;1;686
+2030-08-06;MH Refeições;Vantage;1;162
+2030-08-06;MH Refeições;Rondon R/R;1;0
+2030-08-06;MH Refeições;Elisa Agro;1;494
+2030-08-07;MH Refeições;Grupo Tamburi;1;772
+2030-08-07;MH Refeições;Vantage;1;162
+2030-08-07;MH Refeições;Rondon R/R;1;26
+2030-08-07;MH Refeições;Elisa Agro;1;416
+2030-08-08;MH Refeições;Grupo Tamburi;1;715
+2030-08-08;MH Refeições;Vantage;1;162
+2030-08-08;MH Refeições;Rondon R/R;1;0
+2030-08-08;MH Refeições;Elisa Agro;1;468
+2030-08-09;MH Refeições;Grupo Tamburi;1;772
+2030-08-09;MH Refeições;Vantage;1;130
+2030-08-09;MH Refeições;Rondon R/R;1;0
+2030-08-09;MH Refeições;Elisa Agro;1;364
+2030-08-10;MH Refeições;Grupo Tamburi;1;743
+2030-08-10;MH Refeições;Vantage;1;162
+2030-08-10;MH Refeições;Rondon R/R;1;26
+2030-08-10;MH Refeições;Elisa Agro;1;338
+2030-08-11;MH Refeições;Grupo Tamburi;1;572
+2030-08-11;MH Refeições;Vantage;1;162
+2030-08-11;MH Refeições;Rondon R/R;1;26
+2030-08-11;MH Refeições;Elisa Agro;1;312
+2030-08-12;MH Refeições;Grupo Tamburi;1;629
+2030-08-12;MH Refeições;Vantage;1;130
+2030-08-12;MH Refeições;Rondon R/R;1;26
+2030-08-12;MH Refeições;Elisa Agro;1;494
+2030-08-13;MH Refeições;Grupo Tamburi;1;772
+2030-08-13;MH Refeições;Vantage;1;130
+2030-08-13;MH Refeições;Rondon R/R;1;0
+2030-08-13;MH Refeições;Elisa Agro;1;468
+2030-08-14;MH Refeições;Grupo Tamburi;1;743
+2030-08-14;MH Refeições;Vantage;1;162
+2030-08-14;MH Refeições;Rondon R/R;1;26
+2030-08-14;MH Refeições;Elisa Agro;1;364
+2030-08-15;MH Refeições;Grupo Tamburi;1;772
+2030-08-15;MH Refeições;Vantage;1;162
+2030-08-15;MH Refeições;Rondon R/R;1;26
+2030-08-15;MH Refeições;Elisa Agro;1;416
+2030-08-16;MH Refeições;Grupo Tamburi;1;800
+2030-08-16;MH Refeições;Vantage;1;130
+2030-08-16;MH Refeições;Rondon R/R;1;0
+2030-08-16;MH Refeições;Elisa Agro;1;286
+2030-08-17;MH Refeições;Grupo Tamburi;1;743
+2030-08-17;MH Refeições;Vantage;1;162
+2030-08-17;MH Refeições;Rondon R/R;1;26
+2030-08-17;MH Refeições;Elisa Agro;1;312
+2030-08-18;MH Refeições;Grupo Tamburi;1;743
+2030-08-18;MH Refeições;Vantage;1;162
+2030-08-18;MH Refeições;Rondon R/R;1;0
+2030-08-18;MH Refeições;Elisa Agro;1;468
+2030-08-19;MH Refeições;Grupo Tamburi;1;629
+2030-08-19;MH Refeições;Vantage;1;162
+2030-08-19;MH Refeições;Rondon R/R;1;26
+2030-08-19;MH Refeições;Elisa Agro;1;312
+2030-08-20;MH Refeições;Grupo Tamburi;1;800
+2030-08-20;MH Refeições;Vantage;1;130
+2030-08-20;MH Refeições;Rondon R/R;1;26
+2030-08-20;MH Refeições;Elisa Agro;1;364
+2030-08-21;MH Refeições;Grupo Tamburi;1;715
+2030-08-21;MH Refeições;Vantage;1;162
+2030-08-21;MH Refeições;Rondon R/R;1;0
+2030-08-21;MH Refeições;Elisa Agro;1;468
+2030-08-22;MH Refeições;Grupo Tamburi;1;686
+2030-08-22;MH Refeições;Vantage;1;162
+2030-08-22;MH Refeições;Rondon R/R;1;26
+2030-08-22;MH Refeições;Elisa Agro;1;390
+2030-08-23;MH Refeições;Grupo Tamburi;1;686
+2030-08-23;MH Refeições;Vantage;1;130
+2030-08-23;MH Refeições;Rondon R/R;1;26
+2030-08-23;MH Refeições;Elisa Agro;1;286
+2030-08-24;MH Refeições;Grupo Tamburi;1;800
+2030-08-24;MH Refeições;Vantage;1;130
+2030-08-24;MH Refeições;Rondon R/R;1;0
+2030-08-24;MH Refeições;Elisa Agro;1;286
+2030-08-25;MH Refeições;Grupo Tamburi;1;800
+2030-08-25;MH Refeições;Vantage;1;130
+2030-08-25;MH Refeições;Rondon R/R;1;0
+2030-08-25;MH Refeições;Elisa Agro;1;494
+2030-08-26;MH Refeições;Grupo Tamburi;1;572
+2030-08-26;MH Refeições;Vantage;1;130
+2030-08-26;MH Refeições;Rondon R/R;1;26
+2030-08-26;MH Refeições;Elisa Agro;1;312
+2030-08-27;MH Refeições;Grupo Tamburi;1;572
+2030-08-27;MH Refeições;Vantage;1;162
+2030-08-27;MH Refeições;Rondon R/R;1;26
+2030-08-27;MH Refeições;Elisa Agro;1;364
+2030-08-28;MH Refeições;Grupo Tamburi;1;657
+2030-08-28;MH Refeições;Vantage;1;162
+2030-08-28;MH Refeições;Rondon R/R;1;0
+2030-08-28;MH Refeições;Elisa Agro;1;442
+2030-08-29;MH Refeições;Grupo Tamburi;1;572
+2030-08-29;MH Refeições;Vantage;1;162
+2030-08-29;MH Refeições;Rondon R/R;1;0
+2030-08-29;MH Refeições;Elisa Agro;1;312
+2030-08-30;MH Refeições;Grupo Tamburi;1;829
+2030-08-30;MH Refeições;Vantage;1;162
+2030-08-30;MH Refeições;Rondon R/R;1;0
+2030-08-30;MH Refeições;Elisa Agro;1;260
+2030-08-31;MH Refeições;Grupo Tamburi;1;772
+2030-08-31;MH Refeições;Vantage;1;162
+2030-08-31;MH Refeições;Rondon R/R;1;0
+2030-08-31;MH Refeições;Elisa Agro;1;364
+2030-09-01;MH Refeições;Grupo Tamburi;1;743
+2030-09-01;MH Refeições;Vantage;1;130
+2030-09-01;MH Refeições;Rondon R/R;1;0
+2030-09-01;MH Refeições;Elisa Agro;1;442
+2030-09-02;MH Refeições;Grupo Tamburi;1;772
+2030-09-02;MH Refeições;Vantage;1;162
+2030-09-02;MH Refeições;Rondon R/R;1;26
+2030-09-02;MH Refeições;Elisa Agro;1;468
+2030-09-03;MH Refeições;Grupo Tamburi;1;800
+2030-09-03;MH Refeições;Vantage;1;162
+2030-09-03;MH Refeições;Rondon R/R;1;26
+2030-09-03;MH Refeições;Elisa Agro;1;468
+2030-09-04;MH Refeições;Grupo Tamburi;1;657
+2030-09-04;MH Refeições;Vantage;1;162
+2030-09-04;MH Refeições;Rondon R/R;1;0
+2030-09-04;MH Refeições;Elisa Agro;1;364
+2030-09-05;MH Refeições;Grupo Tamburi;1;800
+2030-09-05;MH Refeições;Vantage;1;130
+2030-09-05;MH Refeições;Rondon R/R;1;26
+2030-09-05;MH Refeições;Elisa Agro;1;312
+2030-09-06;MH Refeições;Grupo Tamburi;1;686
+2030-09-06;MH Refeições;Vantage;1;130
+2030-09-06;MH Refeições;Rondon R/R;1;26
+2030-09-06;MH Refeições;Elisa Agro;1;286
+2030-09-07;MH Refeições;Grupo Tamburi;1;686
+2030-09-07;MH Refeições;Vantage;1;162
+2030-09-07;MH Refeições;Rondon R/R;1;26
+2030-09-07;MH Refeições;Elisa Agro;1;338
+2030-09-08;MH Refeições;Grupo Tamburi;1;800
+2030-09-08;MH Refeições;Vantage;1;130
+2030-09-08;MH Refeições;Rondon R/R;1;0
+2030-09-08;MH Refeições;Elisa Agro;1;312
+2030-09-09;MH Refeições;Grupo Tamburi;1;657
+2030-09-09;MH Refeições;Vantage;1;162
+2030-09-09;MH Refeições;Rondon R/R;1;0
+2030-09-09;MH Refeições;Elisa Agro;1;364
+2030-09-10;MH Refeições;Grupo Tamburi;1;600
+2030-09-10;MH Refeições;Vantage;1;162
+2030-09-10;MH Refeições;Rondon R/R;1;26
+2030-09-10;MH Refeições;Elisa Agro;1;364
+2030-09-11;MH Refeições;Grupo Tamburi;1;600
+2030-09-11;MH Refeições;Vantage;1;162
+2030-09-11;MH Refeições;Rondon R/R;1;0
+2030-09-11;MH Refeições;Elisa Agro;1;416
+2030-09-12;MH Refeições;Grupo Tamburi;1;629
+2030-09-12;MH Refeições;Vantage;1;130
+2030-09-12;MH Refeições;Rondon R/R;1;0
+2030-09-12;MH Refeições;Elisa Agro;1;416
+2030-09-13;MH Refeições;Grupo Tamburi;1;829
+2030-09-13;MH Refeições;Vantage;1;162
+2030-09-13;MH Refeições;Rondon R/R;1;26
+2030-09-13;MH Refeições;Elisa Agro;1;286
+2030-09-14;MH Refeições;Grupo Tamburi;1;743
+2030-09-14;MH Refeições;Vantage;1;162
+2030-09-14;MH Refeições;Rondon R/R;1;26
+2030-09-14;MH Refeições;Elisa Agro;1;286
+2030-09-15;MH Refeições;Grupo Tamburi;1;657
+2030-09-15;MH Refeições;Vantage;1;130
+2030-09-15;MH Refeições;Rondon R/R;1;26
+2030-09-15;MH Refeições;Elisa Agro;1;286
+2030-09-16;MH Refeições;Grupo Tamburi;1;686
+2030-09-16;MH Refeições;Vantage;1;162
+2030-09-16;MH Refeições;Rondon R/R;1;26
+2030-09-16;MH Refeições;Elisa Agro;1;286
+2030-09-17;MH Refeições;Grupo Tamburi;1;743
+2030-09-17;MH Refeições;Vantage;1;130
+2030-09-17;MH Refeições;Rondon R/R;1;0
+2030-09-17;MH Refeições;Elisa Agro;1;364
+2030-09-18;MH Refeições;Grupo Tamburi;1;715
+2030-09-18;MH Refeições;Vantage;1;130
+2030-09-18;MH Refeições;Rondon R/R;1;0
+2030-09-18;MH Refeições;Elisa Agro;1;416
+2030-09-19;MH Refeições;Grupo Tamburi;1;600
+2030-09-19;MH Refeições;Vantage;1;162
+2030-09-19;MH Refeições;Rondon R/R;1;26
+2030-09-19;MH Refeições;Elisa Agro;1;494
+2030-09-20;MH Refeições;Grupo Tamburi;1;629
+2030-09-20;MH Refeições;Vantage;1;162
+2030-09-20;MH Refeições;Rondon R/R;1;26
+2030-09-20;MH Refeições;Elisa Agro;1;442
+2030-09-21;MH Refeições;Grupo Tamburi;1;629
+2030-09-21;MH Refeições;Vantage;1;130
+2030-09-21;MH Refeições;Rondon R/R;1;26
+2030-09-21;MH Refeições;Elisa Agro;1;338
+2030-09-22;MH Refeições;Grupo Tamburi;1;686
+2030-09-22;MH Refeições;Vantage;1;162
+2030-09-22;MH Refeições;Rondon R/R;1;0
+2030-09-22;MH Refeições;Elisa Agro;1;390
+2030-09-23;MH Refeições;Grupo Tamburi;1;772
+2030-09-23;MH Refeições;Vantage;1;162
+2030-09-23;MH Refeições;Rondon R/R;1;26
+2030-09-23;MH Refeições;Elisa Agro;1;312
+2030-09-24;MH Refeições;Grupo Tamburi;1;600
+2030-09-24;MH Refeições;Vantage;1;162
+2030-09-24;MH Refeições;Rondon R/R;1;0
+2030-09-24;MH Refeições;Elisa Agro;1;416
+2030-09-25;MH Refeições;Grupo Tamburi;1;572
+2030-09-25;MH Refeições;Vantage;1;162
+2030-09-25;MH Refeições;Rondon R/R;1;0
+2030-09-25;MH Refeições;Elisa Agro;1;364
+2030-09-26;MH Refeições;Grupo Tamburi;1;743
+2030-09-26;MH Refeições;Vantage;1;162
+2030-09-26;MH Refeições;Rondon R/R;1;0
+2030-09-26;MH Refeições;Elisa Agro;1;390
+2030-09-27;MH Refeições;Grupo Tamburi;1;772
+2030-09-27;MH Refeições;Vantage;1;162
+2030-09-27;MH Refeições;Rondon R/R;1;26
+2030-09-27;MH Refeições;Elisa Agro;1;442
+2030-09-28;MH Refeições;Grupo Tamburi;1;572
+2030-09-28;MH Refeições;Vantage;1;130
+2030-09-28;MH Refeições;Rondon R/R;1;26
+2030-09-28;MH Refeições;Elisa Agro;1;260
+2030-09-29;MH Refeições;Grupo Tamburi;1;743
+2030-09-29;MH Refeições;Vantage;1;130
+2030-09-29;MH Refeições;Rondon R/R;1;0
+2030-09-29;MH Refeições;Elisa Agro;1;494
+2030-09-30;MH Refeições;Grupo Tamburi;1;686
+2030-09-30;MH Refeições;Vantage;1;130
+2030-09-30;MH Refeições;Rondon R/R;1;26
+2030-09-30;MH Refeições;Elisa Agro;1;416
+2030-10-01;MH Refeições;Grupo Tamburi;1;528
+2030-10-01;MH Refeições;Vantage;1;120
+2030-10-01;MH Refeições;Rondon R/R;1;24
+2030-10-01;MH Refeições;Elisa Agro;1;360
+2030-10-02;MH Refeições;Grupo Tamburi;1;528
+2030-10-02;MH Refeições;Vantage;1;150
+2030-10-02;MH Refeições;Rondon R/R;1;24
+2030-10-02;MH Refeições;Elisa Agro;1;408
+2030-10-03;MH Refeições;Grupo Tamburi;1;660
+2030-10-03;MH Refeições;Vantage;1;150
+2030-10-03;MH Refeições;Rondon R/R;1;24
+2030-10-03;MH Refeições;Elisa Agro;1;336
+2030-10-04;MH Refeições;Grupo Tamburi;1;739
+2030-10-04;MH Refeições;Vantage;1;150
+2030-10-04;MH Refeições;Rondon R/R;1;24
+2030-10-04;MH Refeições;Elisa Agro;1;288
+2030-10-05;MH Refeições;Grupo Tamburi;1;528
+2030-10-05;MH Refeições;Vantage;1;120
+2030-10-05;MH Refeições;Rondon R/R;1;24
+2030-10-05;MH Refeições;Elisa Agro;1;264
+2030-10-06;MH Refeições;Grupo Tamburi;1;633
+2030-10-06;MH Refeições;Vantage;1;150
+2030-10-06;MH Refeições;Rondon R/R;1;24
+2030-10-06;MH Refeições;Elisa Agro;1;408
+2030-10-07;MH Refeições;Grupo Tamburi;1;580
+2030-10-07;MH Refeições;Vantage;1;150
+2030-10-07;MH Refeições;Rondon R/R;1;0
+2030-10-07;MH Refeições;Elisa Agro;1;312
+2030-10-08;MH Refeições;Grupo Tamburi;1;633
+2030-10-08;MH Refeições;Vantage;1;120
+2030-10-08;MH Refeições;Rondon R/R;1;24
+2030-10-08;MH Refeições;Elisa Agro;1;384
+2030-10-09;MH Refeições;Grupo Tamburi;1;554
+2030-10-09;MH Refeições;Vantage;1;150
+2030-10-09;MH Refeições;Rondon R/R;1;24
+2030-10-09;MH Refeições;Elisa Agro;1;456
+2030-10-10;MH Refeições;Grupo Tamburi;1;633
+2030-10-10;MH Refeições;Vantage;1;120
+2030-10-10;MH Refeições;Rondon R/R;1;24
+2030-10-10;MH Refeições;Elisa Agro;1;432
+2030-10-11;MH Refeições;Grupo Tamburi;1;765
+2030-10-11;MH Refeições;Vantage;1;150
+2030-10-11;MH Refeições;Rondon R/R;1;24
+2030-10-11;MH Refeições;Elisa Agro;1;336
+2030-10-12;MH Refeições;Grupo Tamburi;1;712
+2030-10-12;MH Refeições;Vantage;1;120
+2030-10-12;MH Refeições;Rondon R/R;1;0
+2030-10-12;MH Refeições;Elisa Agro;1;336
+2030-10-13;MH Refeições;Grupo Tamburi;1;633
+2030-10-13;MH Refeições;Vantage;1;150
+2030-10-13;MH Refeições;Rondon R/R;1;0
+2030-10-13;MH Refeições;Elisa Agro;1;264
+2030-10-14;MH Refeições;Grupo Tamburi;1;633
+2030-10-14;MH Refeições;Vantage;1;150
+2030-10-14;MH Refeições;Rondon R/R;1;0
+2030-10-14;MH Refeições;Elisa Agro;1;264
+2030-10-15;MH Refeições;Grupo Tamburi;1;712
+2030-10-15;MH Refeições;Vantage;1;150
+2030-10-15;MH Refeições;Rondon R/R;1;24
+2030-10-15;MH Refeições;Elisa Agro;1;312
+2030-10-16;MH Refeições;Grupo Tamburi;1;660
+2030-10-16;MH Refeições;Vantage;1;150
+2030-10-16;MH Refeições;Rondon R/R;1;24
+2030-10-16;MH Refeições;Elisa Agro;1;360
+2030-10-17;MH Refeições;Grupo Tamburi;1;528
+2030-10-17;MH Refeições;Vantage;1;150
+2030-10-17;MH Refeições;Rondon R/R;1;0
+2030-10-17;MH Refeições;Elisa Agro;1;336
+2030-10-18;MH Refeições;Grupo Tamburi;1;712
+2030-10-18;MH Refeições;Vantage;1;150
+2030-10-18;MH Refeições;Rondon R/R;1;0
+2030-10-18;MH Refeições;Elisa Agro;1;336
+2030-10-19;MH Refeições;Grupo Tamburi;1;528
+2030-10-19;MH Refeições;Vantage;1;120
+2030-10-19;MH Refeições;Rondon R/R;1;0
+2030-10-19;MH Refeições;Elisa Agro;1;384
+2030-10-20;MH Refeições;Grupo Tamburi;1;712
+2030-10-20;MH Refeições;Vantage;1;120
+2030-10-20;MH Refeições;Rondon R/R;1;24
+2030-10-20;MH Refeições;Elisa Agro;1;336
+2030-10-21;MH Refeições;Grupo Tamburi;1;607
+2030-10-21;MH Refeições;Vantage;1;150
+2030-10-21;MH Refeições;Rondon R/R;1;24
+2030-10-21;MH Refeições;Elisa Agro;1;432
+2030-10-22;MH Refeições;Grupo Tamburi;1;712
+2030-10-22;MH Refeições;Vantage;1;120
+2030-10-22;MH Refeições;Rondon R/R;1;0
+2030-10-22;MH Refeições;Elisa Agro;1;360
+2030-10-23;MH Refeições;Grupo Tamburi;1;739
+2030-10-23;MH Refeições;Vantage;1;120
+2030-10-23;MH Refeições;Rondon R/R;1;24
+2030-10-23;MH Refeições;Elisa Agro;1;264
+2030-10-24;MH Refeições;Grupo Tamburi;1;554
+2030-10-24;MH Refeições;Vantage;1;120
+2030-10-24;MH Refeições;Rondon R/R;1;0
+2030-10-24;MH Refeições;Elisa Agro;1;360
+2030-10-25;MH Refeições;Grupo Tamburi;1;528
+2030-10-25;MH Refeições;Vantage;1;150
+2030-10-25;MH Refeições;Rondon R/R;1;24
+2030-10-25;MH Refeições;Elisa Agro;1;288
+2030-10-26;MH Refeições;Grupo Tamburi;1;739
+2030-10-26;MH Refeições;Vantage;1;150
+2030-10-26;MH Refeições;Rondon R/R;1;0
+2030-10-26;MH Refeições;Elisa Agro;1;360
+2030-10-27;MH Refeições;Grupo Tamburi;1;739
+2030-10-27;MH Refeições;Vantage;1;150
+2030-10-27;MH Refeições;Rondon R/R;1;0
+2030-10-27;MH Refeições;Elisa Agro;1;312
+2030-10-28;MH Refeições;Grupo Tamburi;1;686
+2030-10-28;MH Refeições;Vantage;1;150
+2030-10-28;MH Refeições;Rondon R/R;1;24
+2030-10-28;MH Refeições;Elisa Agro;1;336
+2030-10-29;MH Refeições;Grupo Tamburi;1;607
+2030-10-29;MH Refeições;Vantage;1;150
+2030-10-29;MH Refeições;Rondon R/R;1;0
+2030-10-29;MH Refeições;Elisa Agro;1;384
+2030-10-30;MH Refeições;Grupo Tamburi;1;580
+2030-10-30;MH Refeições;Vantage;1;150
+2030-10-30;MH Refeições;Rondon R/R;1;24
+2030-10-30;MH Refeições;Elisa Agro;1;336
+2030-10-31;MH Refeições;Grupo Tamburi;1;765
+2030-10-31;MH Refeições;Vantage;1;150
+2030-10-31;MH Refeições;Rondon R/R;1;24
+2030-10-31;MH Refeições;Elisa Agro;1;312
+2030-11-01;MH Refeições;Grupo Tamburi;1;580
+2030-11-01;MH Refeições;Vantage;1;110
+2030-11-01;MH Refeições;Rondon R/R;1;22
+2030-11-01;MH Refeições;Elisa Agro;1;374
+2030-11-02;MH Refeições;Grupo Tamburi;1;677
+2030-11-02;MH Refeições;Vantage;1;137
+2030-11-02;MH Refeições;Rondon R/R;1;22
+2030-11-02;MH Refeições;Elisa Agro;1;242
+2030-11-03;MH Refeições;Grupo Tamburi;1;484
+2030-11-03;MH Refeições;Vantage;1;137
+2030-11-03;MH Refeições;Rondon R/R;1;22
+2030-11-03;MH Refeições;Elisa Agro;1;220
+2030-11-04;MH Refeições;Grupo Tamburi;1;653
+2030-11-04;MH Refeições;Vantage;1;110
+2030-11-04;MH Refeições;Rondon R/R;1;22
+2030-11-04;MH Refeições;Elisa Agro;1;396
+2030-11-05;MH Refeições;Grupo Tamburi;1;508
+2030-11-05;MH Refeições;Vantage;1;137
+2030-11-05;MH Refeições;Rondon R/R;1;22
+2030-11-05;MH Refeições;Elisa Agro;1;220
+2030-11-06;MH Refeições;Grupo Tamburi;1;677
+2030-11-06;MH Refeições;Vantage;1;137
+2030-11-06;MH Refeições;Rondon R/R;1;22
+2030-11-06;MH Refeições;Elisa Agro;1;396
+2030-11-07;MH Refeições;Grupo Tamburi;1;701
+2030-11-07;MH Refeições;Vantage;1;137
+2030-11-07;MH Refeições;Rondon R/R;1;0
+2030-11-07;MH Refeições;Elisa Agro;1;396
+2030-11-08;MH Refeições;Grupo Tamburi;1;653
+2030-11-08;MH Refeições;Vantage;1;137
+2030-11-08;MH Refeições;Rondon R/R;1;0
+2030-11-08;MH Refeições;Elisa Agro;1;308
+2030-11-09;MH Refeições;Grupo Tamburi;1;532
+2030-11-09;MH Refeições;Vantage;1;137
+2030-11-09;MH Refeições;Rondon R/R;1;0
+2030-11-09;MH Refeições;Elisa Agro;1;220
+2030-11-10;MH Refeições;Grupo Tamburi;1;653
+2030-11-10;MH Refeições;Vantage;1;137
+2030-11-10;MH Refeições;Rondon R/R;1;0
+2030-11-10;MH Refeições;Elisa Agro;1;374
+2030-11-11;MH Refeições;Grupo Tamburi;1;580
+2030-11-11;MH Refeições;Vantage;1;110
+2030-11-11;MH Refeições;Rondon R/R;1;0
+2030-11-11;MH Refeições;Elisa Agro;1;220
+2030-11-12;MH Refeições;Grupo Tamburi;1;605
+2030-11-12;MH Refeições;Vantage;1;137
+2030-11-12;MH Refeições;Rondon R/R;1;0
+2030-11-12;MH Refeições;Elisa Agro;1;264
+2030-11-13;MH Refeições;Grupo Tamburi;1;508
+2030-11-13;MH Refeições;Vantage;1;110
+2030-11-13;MH Refeições;Rondon R/R;1;0
+2030-11-13;MH Refeições;Elisa Agro;1;352
+2030-11-14;MH Refeições;Grupo Tamburi;1;484
+2030-11-14;MH Refeições;Vantage;1;137
+2030-11-14;MH Refeições;Rondon R/R;1;22
+2030-11-14;MH Refeições;Elisa Agro;1;286
+2030-11-15;MH Refeições;Grupo Tamburi;1;629
+2030-11-15;MH Refeições;Vantage;1;137
+2030-11-15;MH Refeições;Rondon R/R;1;0
+2030-11-15;MH Refeições;Elisa Agro;1;418
+2030-11-16;MH Refeições;Grupo Tamburi;1;484
+2030-11-16;MH Refeições;Vantage;1;110
+2030-11-16;MH Refeições;Rondon R/R;1;22
+2030-11-16;MH Refeições;Elisa Agro;1;242
+2030-11-17;MH Refeições;Grupo Tamburi;1;629
+2030-11-17;MH Refeições;Vantage;1;110
+2030-11-17;MH Refeições;Rondon R/R;1;22
+2030-11-17;MH Refeições;Elisa Agro;1;374
+2030-11-18;MH Refeições;Grupo Tamburi;1;508
+2030-11-18;MH Refeições;Vantage;1;137
+2030-11-18;MH Refeições;Rondon R/R;1;22
+2030-11-18;MH Refeições;Elisa Agro;1;242
+2030-11-19;MH Refeições;Grupo Tamburi;1;532
+2030-11-19;MH Refeições;Vantage;1;137
+2030-11-19;MH Refeições;Rondon R/R;1;0
+2030-11-19;MH Refeições;Elisa Agro;1;220
+2030-11-20;MH Refeições;Grupo Tamburi;1;701
+2030-11-20;MH Refeições;Vantage;1;137
+2030-11-20;MH Refeições;Rondon R/R;1;22
+2030-11-20;MH Refeições;Elisa Agro;1;308
+2030-11-21;MH Refeições;Grupo Tamburi;1;605
+2030-11-21;MH Refeições;Vantage;1;110
+2030-11-21;MH Refeições;Rondon R/R;1;0
+2030-11-21;MH Refeições;Elisa Agro;1;220
+2030-11-22;MH Refeições;Grupo Tamburi;1;532
+2030-11-22;MH Refeições;Vantage;1;110
+2030-11-22;MH Refeições;Rondon R/R;1;0
+2030-11-22;MH Refeições;Elisa Agro;1;330
+2030-11-23;MH Refeições;Grupo Tamburi;1;508
+2030-11-23;MH Refeições;Vantage;1;110
+2030-11-23;MH Refeições;Rondon R/R;1;0
+2030-11-23;MH Refeições;Elisa Agro;1;396
+2030-11-24;MH Refeições;Grupo Tamburi;1;629
+2030-11-24;MH Refeições;Vantage;1;110
+2030-11-24;MH Refeições;Rondon R/R;1;0
+2030-11-24;MH Refeições;Elisa Agro;1;374
+2030-11-25;MH Refeições;Grupo Tamburi;1;580
+2030-11-25;MH Refeições;Vantage;1;137
+2030-11-25;MH Refeições;Rondon R/R;1;22
+2030-11-25;MH Refeições;Elisa Agro;1;308
+2030-11-26;MH Refeições;Grupo Tamburi;1;556
+2030-11-26;MH Refeições;Vantage;1;110
+2030-11-26;MH Refeições;Rondon R/R;1;22
+2030-11-26;MH Refeições;Elisa Agro;1;352
+2030-11-27;MH Refeições;Grupo Tamburi;1;701
+2030-11-27;MH Refeições;Vantage;1;110
+2030-11-27;MH Refeições;Rondon R/R;1;0
+2030-11-27;MH Refeições;Elisa Agro;1;220
+2030-11-28;MH Refeições;Grupo Tamburi;1;580
+2030-11-28;MH Refeições;Vantage;1;137
+2030-11-28;MH Refeições;Rondon R/R;1;22
+2030-11-28;MH Refeições;Elisa Agro;1;242
+2030-11-29;MH Refeições;Grupo Tamburi;1;629
+2030-11-29;MH Refeições;Vantage;1;137
+2030-11-29;MH Refeições;Rondon R/R;1;22
+2030-11-29;MH Refeições;Elisa Agro;1;220
+2030-11-30;MH Refeições;Grupo Tamburi;1;508
+2030-11-30;MH Refeições;Vantage;1;110
+2030-11-30;MH Refeições;Rondon R/R;1;0
+2030-11-30;MH Refeições;Elisa Agro;1;220
+2030-12-01;MH Refeições;Grupo Tamburi;1;572
+2030-12-01;MH Refeições;Vantage;1;162
+2030-12-01;MH Refeições;Rondon R/R;1;26
+2030-12-01;MH Refeições;Elisa Agro;1;494
+2030-12-02;MH Refeições;Grupo Tamburi;1;657
+2030-12-02;MH Refeições;Vantage;1;130
+2030-12-02;MH Refeições;Rondon R/R;1;26
+2030-12-02;MH Refeições;Elisa Agro;1;390
+2030-12-03;MH Refeições;Grupo Tamburi;1;772
+2030-12-03;MH Refeições;Vantage;1;162
+2030-12-03;MH Refeições;Rondon R/R;1;0
+2030-12-03;MH Refeições;Elisa Agro;1;494
+2030-12-04;MH Refeições;Grupo Tamburi;1;715
+2030-12-04;MH Refeições;Vantage;1;162
+2030-12-04;MH Refeições;Rondon R/R;1;0
+2030-12-04;MH Refeições;Elisa Agro;1;390
+2030-12-05;MH Refeições;Grupo Tamburi;1;829
+2030-12-05;MH Refeições;Vantage;1;130
+2030-12-05;MH Refeições;Rondon R/R;1;0
+2030-12-05;MH Refeições;Elisa Agro;1;442
+2030-12-06;MH Refeições;Grupo Tamburi;1;629
+2030-12-06;MH Refeições;Vantage;1;130
+2030-12-06;MH Refeições;Rondon R/R;1;26
+2030-12-06;MH Refeições;Elisa Agro;1;364
+2030-12-07;MH Refeições;Grupo Tamburi;1;715
+2030-12-07;MH Refeições;Vantage;1;130
+2030-12-07;MH Refeições;Rondon R/R;1;26
+2030-12-07;MH Refeições;Elisa Agro;1;286
+2030-12-08;MH Refeições;Grupo Tamburi;1;686
+2030-12-08;MH Refeições;Vantage;1;130
+2030-12-08;MH Refeições;Rondon R/R;1;26
+2030-12-08;MH Refeições;Elisa Agro;1;286
+2030-12-09;MH Refeições;Grupo Tamburi;1;829
+2030-12-09;MH Refeições;Vantage;1;162
+2030-12-09;MH Refeições;Rondon R/R;1;0
+2030-12-09;MH Refeições;Elisa Agro;1;442
+2030-12-10;MH Refeições;Grupo Tamburi;1;715
+2030-12-10;MH Refeições;Vantage;1;130
+2030-12-10;MH Refeições;Rondon R/R;1;26
+2030-12-10;MH Refeições;Elisa Agro;1;312
+2030-12-11;MH Refeições;Grupo Tamburi;1;772
+2030-12-11;MH Refeições;Vantage;1;130
+2030-12-11;MH Refeições;Rondon R/R;1;0
+2030-12-11;MH Refeições;Elisa Agro;1;312
+2030-12-12;MH Refeições;Grupo Tamburi;1;829
+2030-12-12;MH Refeições;Vantage;1;130
+2030-12-12;MH Refeições;Rondon R/R;1;26
+2030-12-12;MH Refeições;Elisa Agro;1;442
+2030-12-13;MH Refeições;Grupo Tamburi;1;743
+2030-12-13;MH Refeições;Vantage;1;130
+2030-12-13;MH Refeições;Rondon R/R;1;0
+2030-12-13;MH Refeições;Elisa Agro;1;494
+2030-12-14;MH Refeições;Grupo Tamburi;1;600
+2030-12-14;MH Refeições;Vantage;1;162
+2030-12-14;MH Refeições;Rondon R/R;1;26
+2030-12-14;MH Refeições;Elisa Agro;1;416
+2030-12-15;MH Refeições;Grupo Tamburi;1;572
+2030-12-15;MH Refeições;Vantage;1;162
+2030-12-15;MH Refeições;Rondon R/R;1;26
+2030-12-15;MH Refeições;Elisa Agro;1;442
+2030-12-16;MH Refeições;Grupo Tamburi;1;600
+2030-12-16;MH Refeições;Vantage;1;130
+2030-12-16;MH Refeições;Rondon R/R;1;0
+2030-12-16;MH Refeições;Elisa Agro;1;260
+2030-12-17;MH Refeições;Grupo Tamburi;1;743
+2030-12-17;MH Refeições;Vantage;1;162
+2030-12-17;MH Refeições;Rondon R/R;1;0
+2030-12-17;MH Refeições;Elisa Agro;1;338
+2030-12-18;MH Refeições;Grupo Tamburi;1;657
+2030-12-18;MH Refeições;Vantage;1;162
+2030-12-18;MH Refeições;Rondon R/R;1;0
+2030-12-18;MH Refeições;Elisa Agro;1;286
+2030-12-19;MH Refeições;Grupo Tamburi;1;657
+2030-12-19;MH Refeições;Vantage;1;130
+2030-12-19;MH Refeições;Rondon R/R;1;0
+2030-12-19;MH Refeições;Elisa Agro;1;494
+2030-12-20;MH Refeições;Grupo Tamburi;1;572
+2030-12-20;MH Refeições;Vantage;1;162
+2030-12-20;MH Refeições;Rondon R/R;1;0
+2030-12-20;MH Refeições;Elisa Agro;1;286
+2030-12-21;MH Refeições;Grupo Tamburi;1;772
+2030-12-21;MH Refeições;Vantage;1;130
+2030-12-21;MH Refeições;Rondon R/R;1;26
+2030-12-21;MH Refeições;Elisa Agro;1;260
+2030-12-22;MH Refeições;Grupo Tamburi;1;715
+2030-12-22;MH Refeições;Vantage;1;130
+2030-12-22;MH Refeições;Rondon R/R;1;26
+2030-12-22;MH Refeições;Elisa Agro;1;494
+2030-12-23;MH Refeições;Grupo Tamburi;1;600
+2030-12-23;MH Refeições;Vantage;1;162
+2030-12-23;MH Refeições;Rondon R/R;1;0
+2030-12-23;MH Refeições;Elisa Agro;1;286
+2030-12-24;MH Refeições;Grupo Tamburi;1;686
+2030-12-24;MH Refeições;Vantage;1;162
+2030-12-24;MH Refeições;Rondon R/R;1;26
+2030-12-24;MH Refeições;Elisa Agro;1;390
+2030-12-25;MH Refeições;Grupo Tamburi;1;600
+2030-12-25;MH Refeições;Vantage;1;162
+2030-12-25;MH Refeições;Rondon R/R;1;0
+2030-12-25;MH Refeições;Elisa Agro;1;416
+2030-12-26;MH Refeições;Grupo Tamburi;1;772
+2030-12-26;MH Refeições;Vantage;1;130
+2030-12-26;MH Refeições;Rondon R/R;1;26
+2030-12-26;MH Refeições;Elisa Agro;1;312
+2030-12-27;MH Refeições;Grupo Tamburi;1;800
+2030-12-27;MH Refeições;Vantage;1;162
+2030-12-27;MH Refeições;Rondon R/R;1;0
+2030-12-27;MH Refeições;Elisa Agro;1;494
+2030-12-28;MH Refeições;Grupo Tamburi;1;800
+2030-12-28;MH Refeições;Vantage;1;130
+2030-12-28;MH Refeições;Rondon R/R;1;26
+2030-12-28;MH Refeições;Elisa Agro;1;390
+2030-12-29;MH Refeições;Grupo Tamburi;1;686
+2030-12-29;MH Refeições;Vantage;1;162
+2030-12-29;MH Refeições;Rondon R/R;1;0
+2030-12-29;MH Refeições;Elisa Agro;1;416
+2030-12-30;MH Refeições;Grupo Tamburi;1;800
+2030-12-30;MH Refeições;Vantage;1;162
+2030-12-30;MH Refeições;Rondon R/R;1;0
+2030-12-30;MH Refeições;Elisa Agro;1;312
+2030-12-31;MH Refeições;Grupo Tamburi;1;715
+2030-12-31;MH Refeições;Vantage;1;162
+2030-12-31;MH Refeições;Rondon R/R;1;0
+2030-12-31;MH Refeições;Elisa Agro;1;286
+2031-01-01;MH Refeições;Grupo Tamburi;1;765
+2031-01-01;MH Refeições;Vantage;1;120
+2031-01-01;MH Refeições;Rondon R/R;1;0
+2031-01-01;MH Refeições;Elisa Agro;1;240
+2031-01-02;MH Refeições;Grupo Tamburi;1;739
+2031-01-02;MH Refeições;Vantage;1;150
+2031-01-02;MH Refeições;Rondon R/R;1;0
+2031-01-02;MH Refeições;Elisa Agro;1;456
+2031-01-03;MH Refeições;Grupo Tamburi;1;660
+2031-01-03;MH Refeições;Vantage;1;120
+2031-01-03;MH Refeições;Rondon R/R;1;0
+2031-01-03;MH Refeições;Elisa Agro;1;312
+2031-01-04;MH Refeições;Grupo Tamburi;1;765
+2031-01-04;MH Refeições;Vantage;1;120
+2031-01-04;MH Refeições;Rondon R/R;1;0
+2031-01-04;MH Refeições;Elisa Agro;1;264
+2031-01-05;MH Refeições;Grupo Tamburi;1;580
+2031-01-05;MH Refeições;Vantage;1;150
+2031-01-05;MH Refeições;Rondon R/R;1;24
+2031-01-05;MH Refeições;Elisa Agro;1;384
+2031-01-06;MH Refeições;Grupo Tamburi;1;633
+2031-01-06;MH Refeições;Vantage;1;120
+2031-01-06;MH Refeições;Rondon R/R;1;24
+2031-01-06;MH Refeições;Elisa Agro;1;240
+2031-01-07;MH Refeições;Grupo Tamburi;1;554
+2031-01-07;MH Refeições;Vantage;1;120
+2031-01-07;MH Refeições;Rondon R/R;1;0
+2031-01-07;MH Refeições;Elisa Agro;1;288
+2031-01-08;MH Refeições;Grupo Tamburi;1;686
+2031-01-08;MH Refeições;Vantage;1;120
+2031-01-08;MH Refeições;Rondon R/R;1;24
+2031-01-08;MH Refeições;Elisa Agro;1;432
+2031-01-09;MH Refeições;Grupo Tamburi;1;765
+2031-01-09;MH Refeições;Vantage;1;150
+2031-01-09;MH Refeições;Rondon R/R;1;24
+2031-01-09;MH Refeições;Elisa Agro;1;432
+2031-01-10;MH Refeições;Grupo Tamburi;1;580
+2031-01-10;MH Refeições;Vantage;1;150
+2031-01-10;MH Refeições;Rondon R/R;1;0
+2031-01-10;MH Refeições;Elisa Agro;1;288
+2031-01-11;MH Refeições;Grupo Tamburi;1;607
+2031-01-11;MH Refeições;Vantage;1;120
+2031-01-11;MH Refeições;Rondon R/R;1;0
+2031-01-11;MH Refeições;Elisa Agro;1;312
+2031-01-12;MH Refeições;Grupo Tamburi;1;686
+2031-01-12;MH Refeições;Vantage;1;150
+2031-01-12;MH Refeições;Rondon R/R;1;0
+2031-01-12;MH Refeições;Elisa Agro;1;312
+2031-01-13;MH Refeições;Grupo Tamburi;1;633
+2031-01-13;MH Refeições;Vantage;1;150
+2031-01-13;MH Refeições;Rondon R/R;1;0
+2031-01-13;MH Refeições;Elisa Agro;1;240
+2031-01-14;MH Refeições;Grupo Tamburi;1;660
+2031-01-14;MH Refeições;Vantage;1;120
+2031-01-14;MH Refeições;Rondon R/R;1;24
+2031-01-14;MH Refeições;Elisa Agro;1;408
+2031-01-15;MH Refeições;Grupo Tamburi;1;633
+2031-01-15;MH Refeições;Vantage;1;150
+2031-01-15;MH Refeições;Rondon R/R;1;0
+2031-01-15;MH Refeições;Elisa Agro;1;264
+2031-01-16;MH Refeições;Grupo Tamburi;1;607
+2031-01-16;MH Refeições;Vantage;1;120
+2031-01-16;MH Refeições;Rondon R/R;1;0
+2031-01-16;MH Refeições;Elisa Agro;1;408
+2031-01-17;MH Refeições;Grupo Tamburi;1;739
+2031-01-17;MH Refeições;Vantage;1;150
+2031-01-17;MH Refeições;Rondon R/R;1;24
+2031-01-17;MH Refeições;Elisa Agro;1;360
+2031-01-18;MH Refeições;Grupo Tamburi;1;739
+2031-01-18;MH Refeições;Vantage;1;120
+2031-01-18;MH Refeições;Rondon R/R;1;24
+2031-01-18;MH Refeições;Elisa Agro;1;408
+2031-01-19;MH Refeições;Grupo Tamburi;1;633
+2031-01-19;MH Refeições;Vantage;1;150
+2031-01-19;MH Refeições;Rondon R/R;1;24
+2031-01-19;MH Refeições;Elisa Agro;1;456
+2031-01-20;MH Refeições;Grupo Tamburi;1;554
+2031-01-20;MH Refeições;Vantage;1;120
+2031-01-20;MH Refeições;Rondon R/R;1;0
+2031-01-20;MH Refeições;Elisa Agro;1;264
+2031-01-21;MH Refeições;Grupo Tamburi;1;765
+2031-01-21;MH Refeições;Vantage;1;150
+2031-01-21;MH Refeições;Rondon R/R;1;24
+2031-01-21;MH Refeições;Elisa Agro;1;336
+2031-01-22;MH Refeições;Grupo Tamburi;1;633
+2031-01-22;MH Refeições;Vantage;1;150
+2031-01-22;MH Refeições;Rondon R/R;1;0
+2031-01-22;MH Refeições;Elisa Agro;1;240
+2031-01-23;MH Refeições;Grupo Tamburi;1;660
+2031-01-23;MH Refeições;Vantage;1;120
+2031-01-23;MH Refeições;Rondon R/R;1;0
+2031-01-23;MH Refeições;Elisa Agro;1;456
+2031-01-24;MH Refeições;Grupo Tamburi;1;607
+2031-01-24;MH Refeições;Vantage;1;150
+2031-01-24;MH Refeições;Rondon R/R;1;24
+2031-01-24;MH Refeições;Elisa Agro;1;384
+2031-01-25;MH Refeições;Grupo Tamburi;1;660
+2031-01-25;MH Refeições;Vantage;1;120
+2031-01-25;MH Refeições;Rondon R/R;1;0
+2031-01-25;MH Refeições;Elisa Agro;1;336
+2031-01-26;MH Refeições;Grupo Tamburi;1;739
+2031-01-26;MH Refeições;Vantage;1;150
+2031-01-26;MH Refeições;Rondon R/R;1;0
+2031-01-26;MH Refeições;Elisa Agro;1;360
+2031-01-27;MH Refeições;Grupo Tamburi;1;765
+2031-01-27;MH Refeições;Vantage;1;120
+2031-01-27;MH Refeições;Rondon R/R;1;0
+2031-01-27;MH Refeições;Elisa Agro;1;312
+2031-01-28;MH Refeições;Grupo Tamburi;1;528
+2031-01-28;MH Refeições;Vantage;1;150
+2031-01-28;MH Refeições;Rondon R/R;1;0
+2031-01-28;MH Refeições;Elisa Agro;1;432
+2031-01-29;MH Refeições;Grupo Tamburi;1;580
+2031-01-29;MH Refeições;Vantage;1;150
+2031-01-29;MH Refeições;Rondon R/R;1;0
+2031-01-29;MH Refeições;Elisa Agro;1;432
+2031-01-30;MH Refeições;Grupo Tamburi;1;712
+2031-01-30;MH Refeições;Vantage;1;150
+2031-01-30;MH Refeições;Rondon R/R;1;0
+2031-01-30;MH Refeições;Elisa Agro;1;408
+2031-01-31;MH Refeições;Grupo Tamburi;1;765
+2031-01-31;MH Refeições;Vantage;1;150
+2031-01-31;MH Refeições;Rondon R/R;1;0
+2031-01-31;MH Refeições;Elisa Agro;1;456
+2031-02-01;MH Refeições;Grupo Tamburi;1;657
+2031-02-01;MH Refeições;Vantage;1;162
+2031-02-01;MH Refeições;Rondon R/R;1;26
+2031-02-01;MH Refeições;Elisa Agro;1;416
+2031-02-02;MH Refeições;Grupo Tamburi;1;572
+2031-02-02;MH Refeições;Vantage;1;162
+2031-02-02;MH Refeições;Rondon R/R;1;26
+2031-02-02;MH Refeições;Elisa Agro;1;286
+2031-02-03;MH Refeições;Grupo Tamburi;1;800
+2031-02-03;MH Refeições;Vantage;1;162
+2031-02-03;MH Refeições;Rondon R/R;1;0
+2031-02-03;MH Refeições;Elisa Agro;1;468
+2031-02-04;MH Refeições;Grupo Tamburi;1;629
+2031-02-04;MH Refeições;Vantage;1;162
+2031-02-04;MH Refeições;Rondon R/R;1;0
+2031-02-04;MH Refeições;Elisa Agro;1;364
+2031-02-05;MH Refeições;Grupo Tamburi;1;600
+2031-02-05;MH Refeições;Vantage;1;162
+2031-02-05;MH Refeições;Rondon R/R;1;26
+2031-02-05;MH Refeições;Elisa Agro;1;286
+2031-02-06;MH Refeições;Grupo Tamburi;1;600
+2031-02-06;MH Refeições;Vantage;1;162
+2031-02-06;MH Refeições;Rondon R/R;1;26
+2031-02-06;MH Refeições;Elisa Agro;1;364
+2031-02-07;MH Refeições;Grupo Tamburi;1;657
+2031-02-07;MH Refeições;Vantage;1;130
+2031-02-07;MH Refeições;Rondon R/R;1;0
+2031-02-07;MH Refeições;Elisa Agro;1;260
+2031-02-08;MH Refeições;Grupo Tamburi;1;772
+2031-02-08;MH Refeições;Vantage;1;130
+2031-02-08;MH Refeições;Rondon R/R;1;26
+2031-02-08;MH Refeições;Elisa Agro;1;494
+2031-02-09;MH Refeições;Grupo Tamburi;1;600
+2031-02-09;MH Refeições;Vantage;1;130
+2031-02-09;MH Refeições;Rondon R/R;1;26
+2031-02-09;MH Refeições;Elisa Agro;1;442
+2031-02-10;MH Refeições;Grupo Tamburi;1;572
+2031-02-10;MH Refeições;Vantage;1;162
+2031-02-10;MH Refeições;Rondon R/R;1;0
+2031-02-10;MH Refeições;Elisa Agro;1;494
+2031-02-11;MH Refeições;Grupo Tamburi;1;572
+2031-02-11;MH Refeições;Vantage;1;130
+2031-02-11;MH Refeições;Rondon R/R;1;0
+2031-02-11;MH Refeições;Elisa Agro;1;416
+2031-02-12;MH Refeições;Grupo Tamburi;1;715
+2031-02-12;MH Refeições;Vantage;1;162
+2031-02-12;MH Refeições;Rondon R/R;1;26
+2031-02-12;MH Refeições;Elisa Agro;1;494
+2031-02-13;MH Refeições;Grupo Tamburi;1;629
+2031-02-13;MH Refeições;Vantage;1;162
+2031-02-13;MH Refeições;Rondon R/R;1;0
+2031-02-13;MH Refeições;Elisa Agro;1;312
+2031-02-14;MH Refeições;Grupo Tamburi;1;629
+2031-02-14;MH Refeições;Vantage;1;162
+2031-02-14;MH Refeições;Rondon R/R;1;26
+2031-02-14;MH Refeições;Elisa Agro;1;312
+2031-02-15;MH Refeições;Grupo Tamburi;1;715
+2031-02-15;MH Refeições;Vantage;1;130
+2031-02-15;MH Refeições;Rondon R/R;1;0
+2031-02-15;MH Refeições;Elisa Agro;1;390
+2031-02-16;MH Refeições;Grupo Tamburi;1;715
+2031-02-16;MH Refeições;Vantage;1;130
+2031-02-16;MH Refeições;Rondon R/R;1;26
+2031-02-16;MH Refeições;Elisa Agro;1;442
+2031-02-17;MH Refeições;Grupo Tamburi;1;772
+2031-02-17;MH Refeições;Vantage;1;162
+2031-02-17;MH Refeições;Rondon R/R;1;0
+2031-02-17;MH Refeições;Elisa Agro;1;442
+2031-02-18;MH Refeições;Grupo Tamburi;1;772
+2031-02-18;MH Refeições;Vantage;1;162
+2031-02-18;MH Refeições;Rondon R/R;1;26
+2031-02-18;MH Refeições;Elisa Agro;1;494
+2031-02-19;MH Refeições;Grupo Tamburi;1;829
+2031-02-19;MH Refeições;Vantage;1;130
+2031-02-19;MH Refeições;Rondon R/R;1;26
+2031-02-19;MH Refeições;Elisa Agro;1;416
+2031-02-20;MH Refeições;Grupo Tamburi;1;829
+2031-02-20;MH Refeições;Vantage;1;162
+2031-02-20;MH Refeições;Rondon R/R;1;26
+2031-02-20;MH Refeições;Elisa Agro;1;338
+2031-02-21;MH Refeições;Grupo Tamburi;1;600
+2031-02-21;MH Refeições;Vantage;1;162
+2031-02-21;MH Refeições;Rondon R/R;1;26
+2031-02-21;MH Refeições;Elisa Agro;1;390
+2031-02-22;MH Refeições;Grupo Tamburi;1;800
+2031-02-22;MH Refeições;Vantage;1;130
+2031-02-22;MH Refeições;Rondon R/R;1;26
+2031-02-22;MH Refeições;Elisa Agro;1;468
+2031-02-23;MH Refeições;Grupo Tamburi;1;829
+2031-02-23;MH Refeições;Vantage;1;130
+2031-02-23;MH Refeições;Rondon R/R;1;0
+2031-02-23;MH Refeições;Elisa Agro;1;338
+2031-02-24;MH Refeições;Grupo Tamburi;1;743
+2031-02-24;MH Refeições;Vantage;1;162
+2031-02-24;MH Refeições;Rondon R/R;1;26
+2031-02-24;MH Refeições;Elisa Agro;1;494
+2031-02-25;MH Refeições;Grupo Tamburi;1;829
+2031-02-25;MH Refeições;Vantage;1;162
+2031-02-25;MH Refeições;Rondon R/R;1;26
+2031-02-25;MH Refeições;Elisa Agro;1;416
+2031-02-26;MH Refeições;Grupo Tamburi;1;829
+2031-02-26;MH Refeições;Vantage;1;162
+2031-02-26;MH Refeições;Rondon R/R;1;26
+2031-02-26;MH Refeições;Elisa Agro;1;468
+2031-02-27;MH Refeições;Grupo Tamburi;1;657
+2031-02-27;MH Refeições;Vantage;1;130
+2031-02-27;MH Refeições;Rondon R/R;1;0
+2031-02-27;MH Refeições;Elisa Agro;1;260
+2031-02-28;MH Refeições;Grupo Tamburi;1;572
+2031-02-28;MH Refeições;Vantage;1;130
+2031-02-28;MH Refeições;Rondon R/R;1;0
+2031-02-28;MH Refeições;Elisa Agro;1;416
+2031-03-01;MH Refeições;Grupo Tamburi;1;616
+2031-03-01;MH Refeições;Vantage;1;125
+2031-03-01;MH Refeições;Rondon R/R;1;0
+2031-03-01;MH Refeições;Elisa Agro;1;280
+2031-03-02;MH Refeições;Grupo Tamburi;1;638
+2031-03-02;MH Refeições;Vantage;1;125
+2031-03-02;MH Refeições;Rondon R/R;1;20
+2031-03-02;MH Refeições;Elisa Agro;1;280
+2031-03-03;MH Refeições;Grupo Tamburi;1;506
+2031-03-03;MH Refeições;Vantage;1;100
+2031-03-03;MH Refeições;Rondon R/R;1;20
+2031-03-03;MH Refeições;Elisa Agro;1;220
+2031-03-04;MH Refeições;Grupo Tamburi;1;550
+2031-03-04;MH Refeições;Vantage;1;100
+2031-03-04;MH Refeições;Rondon R/R;1;20
+2031-03-04;MH Refeições;Elisa Agro;1;380
+2031-03-05;MH Refeições;Grupo Tamburi;1;528
+2031-03-05;MH Refeições;Vantage;1;125
+2031-03-05;MH Refeições;Rondon R/R;1;0
+2031-03-05;MH Refeições;Elisa Agro;1;260
+2031-03-06;MH Refeições;Grupo Tamburi;1;594
+2031-03-06;MH Refeições;Vantage;1;100
+2031-03-06;MH Refeições;Rondon R/R;1;20
+2031-03-06;MH Refeições;Elisa Agro;1;340
+2031-03-07;MH Refeições;Grupo Tamburi;1;616
+2031-03-07;MH Refeições;Vantage;1;125
+2031-03-07;MH Refeições;Rondon R/R;1;20
+2031-03-07;MH Refeições;Elisa Agro;1;320
+2031-03-08;MH Refeições;Grupo Tamburi;1;528
+2031-03-08;MH Refeições;Vantage;1;125
+2031-03-08;MH Refeições;Rondon R/R;1;20
+2031-03-08;MH Refeições;Elisa Agro;1;260
+2031-03-09;MH Refeições;Grupo Tamburi;1;528
+2031-03-09;MH Refeições;Vantage;1;100
+2031-03-09;MH Refeições;Rondon R/R;1;20
+2031-03-09;MH Refeições;Elisa Agro;1;220
+2031-03-10;MH Refeições;Grupo Tamburi;1;506
+2031-03-10;MH Refeições;Vantage;1;125
+2031-03-10;MH Refeições;Rondon R/R;1;20
+2031-03-10;MH Refeições;Elisa Agro;1;280
+2031-03-11;MH Refeições;Grupo Tamburi;1;616
+2031-03-11;MH Refeições;Vantage;1;125
+2031-03-11;MH Refeições;Rondon R/R;1;20
+2031-03-11;MH Refeições;Elisa Agro;1;240
+2031-03-12;MH Refeições;Grupo Tamburi;1;638
+2031-03-12;MH Refeições;Vantage;1;125
+2031-03-12;MH Refeições;Rondon R/R;1;20
+2031-03-12;MH Refeições;Elisa Agro;1;300
+2031-03-13;MH Refeições;Grupo Tamburi;1;462
+2031-03-13;MH Refeições;Vantage;1;100
+2031-03-13;MH Refeições;Rondon R/R;1;0
+2031-03-13;MH Refeições;Elisa Agro;1;340
+2031-03-14;MH Refeições;Grupo Tamburi;1;594
+2031-03-14;MH Refeições;Vantage;1;125
+2031-03-14;MH Refeições;Rondon R/R;1;0
+2031-03-14;MH Refeições;Elisa Agro;1;220
+2031-03-15;MH Refeições;Grupo Tamburi;1;616
+2031-03-15;MH Refeições;Vantage;1;125
+2031-03-15;MH Refeições;Rondon R/R;1;20
+2031-03-15;MH Refeições;Elisa Agro;1;200
+2031-03-16;MH Refeições;Grupo Tamburi;1;484
+2031-03-16;MH Refeições;Vantage;1;100
+2031-03-16;MH Refeições;Rondon R/R;1;0
+2031-03-16;MH Refeições;Elisa Agro;1;340
+2031-03-17;MH Refeições;Grupo Tamburi;1;638
+2031-03-17;MH Refeições;Vantage;1;125
+2031-03-17;MH Refeições;Rondon R/R;1;0
+2031-03-17;MH Refeições;Elisa Agro;1;280
+2031-03-18;MH Refeições;Grupo Tamburi;1;528
+2031-03-18;MH Refeições;Vantage;1;100
+2031-03-18;MH Refeições;Rondon R/R;1;20
+2031-03-18;MH Refeições;Elisa Agro;1;360
+2031-03-19;MH Refeições;Grupo Tamburi;1;594
+2031-03-19;MH Refeições;Vantage;1;125
+2031-03-19;MH Refeições;Rondon R/R;1;20
+2031-03-19;MH Refeições;Elisa Agro;1;300
+2031-03-20;MH Refeições;Grupo Tamburi;1;572
+2031-03-20;MH Refeições;Vantage;1;100
+2031-03-20;MH Refeições;Rondon R/R;1;0
+2031-03-20;MH Refeições;Elisa Agro;1;260
+2031-03-21;MH Refeições;Grupo Tamburi;1;638
+2031-03-21;MH Refeições;Vantage;1;100
+2031-03-21;MH Refeições;Rondon R/R;1;0
+2031-03-21;MH Refeições;Elisa Agro;1;300
+2031-03-22;MH Refeições;Grupo Tamburi;1;506
+2031-03-22;MH Refeições;Vantage;1;100
+2031-03-22;MH Refeições;Rondon R/R;1;0
+2031-03-22;MH Refeições;Elisa Agro;1;220
+2031-03-23;MH Refeições;Grupo Tamburi;1;616
+2031-03-23;MH Refeições;Vantage;1;100
+2031-03-23;MH Refeições;Rondon R/R;1;0
+2031-03-23;MH Refeições;Elisa Agro;1;240
+2031-03-24;MH Refeições;Grupo Tamburi;1;528
+2031-03-24;MH Refeições;Vantage;1;125
+2031-03-24;MH Refeições;Rondon R/R;1;0
+2031-03-24;MH Refeições;Elisa Agro;1;220
+2031-03-25;MH Refeições;Grupo Tamburi;1;506
+2031-03-25;MH Refeições;Vantage;1;100
+2031-03-25;MH Refeições;Rondon R/R;1;0
+2031-03-25;MH Refeições;Elisa Agro;1;200
+2031-03-26;MH Refeições;Grupo Tamburi;1;638
+2031-03-26;MH Refeições;Vantage;1;100
+2031-03-26;MH Refeições;Rondon R/R;1;0
+2031-03-26;MH Refeições;Elisa Agro;1;300
+2031-03-27;MH Refeições;Grupo Tamburi;1;528
+2031-03-27;MH Refeições;Vantage;1;100
+2031-03-27;MH Refeições;Rondon R/R;1;0
+2031-03-27;MH Refeições;Elisa Agro;1;300
+2031-03-28;MH Refeições;Grupo Tamburi;1;462
+2031-03-28;MH Refeições;Vantage;1;100
+2031-03-28;MH Refeições;Rondon R/R;1;0
+2031-03-28;MH Refeições;Elisa Agro;1;360
+2031-03-29;MH Refeições;Grupo Tamburi;1;638
+2031-03-29;MH Refeições;Vantage;1;125
+2031-03-29;MH Refeições;Rondon R/R;1;20
+2031-03-29;MH Refeições;Elisa Agro;1;380
+2031-03-30;MH Refeições;Grupo Tamburi;1;440
+2031-03-30;MH Refeições;Vantage;1;125
+2031-03-30;MH Refeições;Rondon R/R;1;0
+2031-03-30;MH Refeições;Elisa Agro;1;280
+2031-03-31;MH Refeições;Grupo Tamburi;1;528
+2031-03-31;MH Refeições;Vantage;1;100
+2031-03-31;MH Refeições;Rondon R/R;1;20
+2031-03-31;MH Refeições;Elisa Agro;1;200
+2031-04-01;MH Refeições;Grupo Tamburi;1;653
+2031-04-01;MH Refeições;Vantage;1;110
+2031-04-01;MH Refeições;Rondon R/R;1;22
+2031-04-01;MH Refeições;Elisa Agro;1;352
+2031-04-02;MH Refeições;Grupo Tamburi;1;556
+2031-04-02;MH Refeições;Vantage;1;137
+2031-04-02;MH Refeições;Rondon R/R;1;22
+2031-04-02;MH Refeições;Elisa Agro;1;330
+2031-04-03;MH Refeições;Grupo Tamburi;1;484
+2031-04-03;MH Refeições;Vantage;1;137
+2031-04-03;MH Refeições;Rondon R/R;1;22
+2031-04-03;MH Refeições;Elisa Agro;1;396
+2031-04-04;MH Refeições;Grupo Tamburi;1;605
+2031-04-04;MH Refeições;Vantage;1;110
+2031-04-04;MH Refeições;Rondon R/R;1;0
+2031-04-04;MH Refeições;Elisa Agro;1;264
+2031-04-05;MH Refeições;Grupo Tamburi;1;653
+2031-04-05;MH Refeições;Vantage;1;110
+2031-04-05;MH Refeições;Rondon R/R;1;22
+2031-04-05;MH Refeições;Elisa Agro;1;286
+2031-04-06;MH Refeições;Grupo Tamburi;1;556
+2031-04-06;MH Refeições;Vantage;1;137
+2031-04-06;MH Refeições;Rondon R/R;1;0
+2031-04-06;MH Refeições;Elisa Agro;1;286
+2031-04-07;MH Refeições;Grupo Tamburi;1;677
+2031-04-07;MH Refeições;Vantage;1;110
+2031-04-07;MH Refeições;Rondon R/R;1;0
+2031-04-07;MH Refeições;Elisa Agro;1;286
+2031-04-08;MH Refeições;Grupo Tamburi;1;653
+2031-04-08;MH Refeições;Vantage;1;137
+2031-04-08;MH Refeições;Rondon R/R;1;22
+2031-04-08;MH Refeições;Elisa Agro;1;242
+2031-04-09;MH Refeições;Grupo Tamburi;1;677
+2031-04-09;MH Refeições;Vantage;1;110
+2031-04-09;MH Refeições;Rondon R/R;1;22
+2031-04-09;MH Refeições;Elisa Agro;1;308
+2031-04-10;MH Refeições;Grupo Tamburi;1;629
+2031-04-10;MH Refeições;Vantage;1;137
+2031-04-10;MH Refeições;Rondon R/R;1;22
+2031-04-10;MH Refeições;Elisa Agro;1;220
+2031-04-11;MH Refeições;Grupo Tamburi;1;484
+2031-04-11;MH Refeições;Vantage;1;110
+2031-04-11;MH Refeições;Rondon R/R;1;22
+2031-04-11;MH Refeições;Elisa Agro;1;220
+2031-04-12;MH Refeições;Grupo Tamburi;1;508
+2031-04-12;MH Refeições;Vantage;1;137
+2031-04-12;MH Refeições;Rondon R/R;1;22
+2031-04-12;MH Refeições;Elisa Agro;1;396
+2031-04-13;MH Refeições;Grupo Tamburi;1;532
+2031-04-13;MH Refeições;Vantage;1;137
+2031-04-13;MH Refeições;Rondon R/R;1;0
+2031-04-13;MH Refeições;Elisa Agro;1;418
+2031-04-14;MH Refeições;Grupo Tamburi;1;605
+2031-04-14;MH Refeições;Vantage;1;110
+2031-04-14;MH Refeições;Rondon R/R;1;22
+2031-04-14;MH Refeições;Elisa Agro;1;308
+2031-04-15;MH Refeições;Grupo Tamburi;1;653
+2031-04-15;MH Refeições;Vantage;1;110
+2031-04-15;MH Refeições;Rondon R/R;1;0
+2031-04-15;MH Refeições;Elisa Agro;1;374
+2031-04-16;MH Refeições;Grupo Tamburi;1;653
+2031-04-16;MH Refeições;Vantage;1;110
+2031-04-16;MH Refeições;Rondon R/R;1;22
+2031-04-16;MH Refeições;Elisa Agro;1;308
+2031-04-17;MH Refeições;Grupo Tamburi;1;605
+2031-04-17;MH Refeições;Vantage;1;137
+2031-04-17;MH Refeições;Rondon R/R;1;22
+2031-04-17;MH Refeições;Elisa Agro;1;242
+2031-04-18;MH Refeições;Grupo Tamburi;1;532
+2031-04-18;MH Refeições;Vantage;1;137
+2031-04-18;MH Refeições;Rondon R/R;1;22
+2031-04-18;MH Refeições;Elisa Agro;1;286
+2031-04-19;MH Refeições;Grupo Tamburi;1;653
+2031-04-19;MH Refeições;Vantage;1;110
+2031-04-19;MH Refeições;Rondon R/R;1;0
+2031-04-19;MH Refeições;Elisa Agro;1;242
+2031-04-20;MH Refeições;Grupo Tamburi;1;532
+2031-04-20;MH Refeições;Vantage;1;137
+2031-04-20;MH Refeições;Rondon R/R;1;0
+2031-04-20;MH Refeições;Elisa Agro;1;352
+2031-04-21;MH Refeições;Grupo Tamburi;1;605
+2031-04-21;MH Refeições;Vantage;1;110
+2031-04-21;MH Refeições;Rondon R/R;1;22
+2031-04-21;MH Refeições;Elisa Agro;1;374
+2031-04-22;MH Refeições;Grupo Tamburi;1;701
+2031-04-22;MH Refeições;Vantage;1;137
+2031-04-22;MH Refeições;Rondon R/R;1;22
+2031-04-22;MH Refeições;Elisa Agro;1;330
+2031-04-23;MH Refeições;Grupo Tamburi;1;605
+2031-04-23;MH Refeições;Vantage;1;137
+2031-04-23;MH Refeições;Rondon R/R;1;22
+2031-04-23;MH Refeições;Elisa Agro;1;418
+2031-04-24;MH Refeições;Grupo Tamburi;1;580
+2031-04-24;MH Refeições;Vantage;1;110
+2031-04-24;MH Refeições;Rondon R/R;1;22
+2031-04-24;MH Refeições;Elisa Agro;1;286
+2031-04-25;MH Refeições;Grupo Tamburi;1;701
+2031-04-25;MH Refeições;Vantage;1;137
+2031-04-25;MH Refeições;Rondon R/R;1;22
+2031-04-25;MH Refeições;Elisa Agro;1;286
+2031-04-26;MH Refeições;Grupo Tamburi;1;556
+2031-04-26;MH Refeições;Vantage;1;110
+2031-04-26;MH Refeições;Rondon R/R;1;22
+2031-04-26;MH Refeições;Elisa Agro;1;242
+2031-04-27;MH Refeições;Grupo Tamburi;1;677
+2031-04-27;MH Refeições;Vantage;1;110
+2031-04-27;MH Refeições;Rondon R/R;1;0
+2031-04-27;MH Refeições;Elisa Agro;1;374
+2031-04-28;MH Refeições;Grupo Tamburi;1;508
+2031-04-28;MH Refeições;Vantage;1;137
+2031-04-28;MH Refeições;Rondon R/R;1;22
+2031-04-28;MH Refeições;Elisa Agro;1;286
+2031-04-29;MH Refeições;Grupo Tamburi;1;508
+2031-04-29;MH Refeições;Vantage;1;137
+2031-04-29;MH Refeições;Rondon R/R;1;22
+2031-04-29;MH Refeições;Elisa Agro;1;396
+2031-04-30;MH Refeições;Grupo Tamburi;1;629
+2031-04-30;MH Refeições;Vantage;1;137
+2031-04-30;MH Refeições;Rondon R/R;1;22
+2031-04-30;MH Refeições;Elisa Agro;1;308
+2031-05-01;MH Refeições;Grupo Tamburi;1;580
+2031-05-01;MH Refeições;Vantage;1;110
+2031-05-01;MH Refeições;Rondon R/R;1;0
+2031-05-01;MH Refeições;Elisa Agro;1;418
+2031-05-02;MH Refeições;Grupo Tamburi;1;508
+2031-05-02;MH Refeições;Vantage;1;137
+2031-05-02;MH Refeições;Rondon R/R;1;22
+2031-05-02;MH Refeições;Elisa Agro;1;330
+2031-05-03;MH Refeições;Grupo Tamburi;1;532
+2031-05-03;MH Refeições;Vantage;1;137
+2031-05-03;MH Refeições;Rondon R/R;1;22
+2031-05-03;MH Refeições;Elisa Agro;1;308
+2031-05-04;MH Refeições;Grupo Tamburi;1;532
+2031-05-04;MH Refeições;Vantage;1;137
+2031-05-04;MH Refeições;Rondon R/R;1;0
+2031-05-04;MH Refeições;Elisa Agro;1;418
+2031-05-05;MH Refeições;Grupo Tamburi;1;580
+2031-05-05;MH Refeições;Vantage;1;110
+2031-05-05;MH Refeições;Rondon R/R;1;0
+2031-05-05;MH Refeições;Elisa Agro;1;352
+2031-05-06;MH Refeições;Grupo Tamburi;1;484
+2031-05-06;MH Refeições;Vantage;1;137
+2031-05-06;MH Refeições;Rondon R/R;1;22
+2031-05-06;MH Refeições;Elisa Agro;1;220
+2031-05-07;MH Refeições;Grupo Tamburi;1;677
+2031-05-07;MH Refeições;Vantage;1;137
+2031-05-07;MH Refeições;Rondon R/R;1;22
+2031-05-07;MH Refeições;Elisa Agro;1;308
+2031-05-08;MH Refeições;Grupo Tamburi;1;701
+2031-05-08;MH Refeições;Vantage;1;110
+2031-05-08;MH Refeições;Rondon R/R;1;22
+2031-05-08;MH Refeições;Elisa Agro;1;330
+2031-05-09;MH Refeições;Grupo Tamburi;1;701
+2031-05-09;MH Refeições;Vantage;1;137
+2031-05-09;MH Refeições;Rondon R/R;1;0
+2031-05-09;MH Refeições;Elisa Agro;1;286
+2031-05-10;MH Refeições;Grupo Tamburi;1;508
+2031-05-10;MH Refeições;Vantage;1;137
+2031-05-10;MH Refeições;Rondon R/R;1;0
+2031-05-10;MH Refeições;Elisa Agro;1;374
+2031-05-11;MH Refeições;Grupo Tamburi;1;605
+2031-05-11;MH Refeições;Vantage;1;110
+2031-05-11;MH Refeições;Rondon R/R;1;0
+2031-05-11;MH Refeições;Elisa Agro;1;308
+2031-05-12;MH Refeições;Grupo Tamburi;1;580
+2031-05-12;MH Refeições;Vantage;1;137
+2031-05-12;MH Refeições;Rondon R/R;1;22
+2031-05-12;MH Refeições;Elisa Agro;1;418
+2031-05-13;MH Refeições;Grupo Tamburi;1;653
+2031-05-13;MH Refeições;Vantage;1;137
+2031-05-13;MH Refeições;Rondon R/R;1;0
+2031-05-13;MH Refeições;Elisa Agro;1;374
+2031-05-14;MH Refeições;Grupo Tamburi;1;508
+2031-05-14;MH Refeições;Vantage;1;110
+2031-05-14;MH Refeições;Rondon R/R;1;0
+2031-05-14;MH Refeições;Elisa Agro;1;374
+2031-05-15;MH Refeições;Grupo Tamburi;1;508
+2031-05-15;MH Refeições;Vantage;1;137
+2031-05-15;MH Refeições;Rondon R/R;1;0
+2031-05-15;MH Refeições;Elisa Agro;1;374
+2031-05-16;MH Refeições;Grupo Tamburi;1;605
+2031-05-16;MH Refeições;Vantage;1;137
+2031-05-16;MH Refeições;Rondon R/R;1;0
+2031-05-16;MH Refeições;Elisa Agro;1;330
+2031-05-17;MH Refeições;Grupo Tamburi;1;701
+2031-05-17;MH Refeições;Vantage;1;137
+2031-05-17;MH Refeições;Rondon R/R;1;22
+2031-05-17;MH Refeições;Elisa Agro;1;330
+2031-05-18;MH Refeições;Grupo Tamburi;1;677
+2031-05-18;MH Refeições;Vantage;1;137
+2031-05-18;MH Refeições;Rondon R/R;1;0
+2031-05-18;MH Refeições;Elisa Agro;1;308
+2031-05-19;MH Refeições;Grupo Tamburi;1;484
+2031-05-19;MH Refeições;Vantage;1;110
+2031-05-19;MH Refeições;Rondon R/R;1;22
+2031-05-19;MH Refeições;Elisa Agro;1;308
+2031-05-20;MH Refeições;Grupo Tamburi;1;580
+2031-05-20;MH Refeições;Vantage;1;110
+2031-05-20;MH Refeições;Rondon R/R;1;22
+2031-05-20;MH Refeições;Elisa Agro;1;242
+2031-05-21;MH Refeições;Grupo Tamburi;1;508
+2031-05-21;MH Refeições;Vantage;1;110
+2031-05-21;MH Refeições;Rondon R/R;1;22
+2031-05-21;MH Refeições;Elisa Agro;1;418
+2031-05-22;MH Refeições;Grupo Tamburi;1;701
+2031-05-22;MH Refeições;Vantage;1;110
+2031-05-22;MH Refeições;Rondon R/R;1;22
+2031-05-22;MH Refeições;Elisa Agro;1;330
+2031-05-23;MH Refeições;Grupo Tamburi;1;484
+2031-05-23;MH Refeições;Vantage;1;137
+2031-05-23;MH Refeições;Rondon R/R;1;0
+2031-05-23;MH Refeições;Elisa Agro;1;374
+2031-05-24;MH Refeições;Grupo Tamburi;1;556
+2031-05-24;MH Refeições;Vantage;1;137
+2031-05-24;MH Refeições;Rondon R/R;1;0
+2031-05-24;MH Refeições;Elisa Agro;1;396
+2031-05-25;MH Refeições;Grupo Tamburi;1;532
+2031-05-25;MH Refeições;Vantage;1;110
+2031-05-25;MH Refeições;Rondon R/R;1;0
+2031-05-25;MH Refeições;Elisa Agro;1;352
+2031-05-26;MH Refeições;Grupo Tamburi;1;653
+2031-05-26;MH Refeições;Vantage;1;110
+2031-05-26;MH Refeições;Rondon R/R;1;0
+2031-05-26;MH Refeições;Elisa Agro;1;330
+2031-05-27;MH Refeições;Grupo Tamburi;1;629
+2031-05-27;MH Refeições;Vantage;1;137
+2031-05-27;MH Refeições;Rondon R/R;1;0
+2031-05-27;MH Refeições;Elisa Agro;1;352
+2031-05-28;MH Refeições;Grupo Tamburi;1;605
+2031-05-28;MH Refeições;Vantage;1;110
+2031-05-28;MH Refeições;Rondon R/R;1;22
+2031-05-28;MH Refeições;Elisa Agro;1;396
+2031-05-29;MH Refeições;Grupo Tamburi;1;629
+2031-05-29;MH Refeições;Vantage;1;137
+2031-05-29;MH Refeições;Rondon R/R;1;0
+2031-05-29;MH Refeições;Elisa Agro;1;220
+2031-05-30;MH Refeições;Grupo Tamburi;1;484
+2031-05-30;MH Refeições;Vantage;1;137
+2031-05-30;MH Refeições;Rondon R/R;1;22
+2031-05-30;MH Refeições;Elisa Agro;1;352
+2031-05-31;MH Refeições;Grupo Tamburi;1;677
+2031-05-31;MH Refeições;Vantage;1;110
+2031-05-31;MH Refeições;Rondon R/R;1;0
+2031-05-31;MH Refeições;Elisa Agro;1;374
+2031-06-01;MH Refeições;Grupo Tamburi;1;580
+2031-06-01;MH Refeições;Vantage;1;150
+2031-06-01;MH Refeições;Rondon R/R;1;24
+2031-06-01;MH Refeições;Elisa Agro;1;312
+2031-06-02;MH Refeições;Grupo Tamburi;1;633
+2031-06-02;MH Refeições;Vantage;1;150
+2031-06-02;MH Refeições;Rondon R/R;1;24
+2031-06-02;MH Refeições;Elisa Agro;1;288
+2031-06-03;MH Refeições;Grupo Tamburi;1;739
+2031-06-03;MH Refeições;Vantage;1;120
+2031-06-03;MH Refeições;Rondon R/R;1;0
+2031-06-03;MH Refeições;Elisa Agro;1;264
+2031-06-04;MH Refeições;Grupo Tamburi;1;633
+2031-06-04;MH Refeições;Vantage;1;150
+2031-06-04;MH Refeições;Rondon R/R;1;0
+2031-06-04;MH Refeições;Elisa Agro;1;408
+2031-06-05;MH Refeições;Grupo Tamburi;1;712
+2031-06-05;MH Refeições;Vantage;1;150
+2031-06-05;MH Refeições;Rondon R/R;1;0
+2031-06-05;MH Refeições;Elisa Agro;1;312
+2031-06-06;MH Refeições;Grupo Tamburi;1;660
+2031-06-06;MH Refeições;Vantage;1;120
+2031-06-06;MH Refeições;Rondon R/R;1;0
+2031-06-06;MH Refeições;Elisa Agro;1;384
+2031-06-07;MH Refeições;Grupo Tamburi;1;633
+2031-06-07;MH Refeições;Vantage;1;120
+2031-06-07;MH Refeições;Rondon R/R;1;0
+2031-06-07;MH Refeições;Elisa Agro;1;408
+2031-06-08;MH Refeições;Grupo Tamburi;1;554
+2031-06-08;MH Refeições;Vantage;1;120
+2031-06-08;MH Refeições;Rondon R/R;1;0
+2031-06-08;MH Refeições;Elisa Agro;1;360
+2031-06-09;MH Refeições;Grupo Tamburi;1;739
+2031-06-09;MH Refeições;Vantage;1;150
+2031-06-09;MH Refeições;Rondon R/R;1;0
+2031-06-09;MH Refeições;Elisa Agro;1;408
+2031-06-10;MH Refeições;Grupo Tamburi;1;528
+2031-06-10;MH Refeições;Vantage;1;120
+2031-06-10;MH Refeições;Rondon R/R;1;24
+2031-06-10;MH Refeições;Elisa Agro;1;456
+2031-06-11;MH Refeições;Grupo Tamburi;1;580
+2031-06-11;MH Refeições;Vantage;1;120
+2031-06-11;MH Refeições;Rondon R/R;1;0
+2031-06-11;MH Refeições;Elisa Agro;1;384
+2031-06-12;MH Refeições;Grupo Tamburi;1;580
+2031-06-12;MH Refeições;Vantage;1;120
+2031-06-12;MH Refeições;Rondon R/R;1;24
+2031-06-12;MH Refeições;Elisa Agro;1;288
+2031-06-13;MH Refeições;Grupo Tamburi;1;686
+2031-06-13;MH Refeições;Vantage;1;120
+2031-06-13;MH Refeições;Rondon R/R;1;0
+2031-06-13;MH Refeições;Elisa Agro;1;432
+2031-06-14;MH Refeições;Grupo Tamburi;1;554
+2031-06-14;MH Refeições;Vantage;1;120
+2031-06-14;MH Refeições;Rondon R/R;1;0
+2031-06-14;MH Refeições;Elisa Agro;1;264
+2031-06-15;MH Refeições;Grupo Tamburi;1;607
+2031-06-15;MH Refeições;Vantage;1;120
+2031-06-15;MH Refeições;Rondon R/R;1;24
+2031-06-15;MH Refeições;Elisa Agro;1;240
+2031-06-16;MH Refeições;Grupo Tamburi;1;765
+2031-06-16;MH Refeições;Vantage;1;120
+2031-06-16;MH Refeições;Rondon R/R;1;24
+2031-06-16;MH Refeições;Elisa Agro;1;384
+2031-06-17;MH Refeições;Grupo Tamburi;1;712
+2031-06-17;MH Refeições;Vantage;1;150
+2031-06-17;MH Refeições;Rondon R/R;1;24
+2031-06-17;MH Refeições;Elisa Agro;1;360
+2031-06-18;MH Refeições;Grupo Tamburi;1;554
+2031-06-18;MH Refeições;Vantage;1;120
+2031-06-18;MH Refeições;Rondon R/R;1;0
+2031-06-18;MH Refeições;Elisa Agro;1;456
+2031-06-19;MH Refeições;Grupo Tamburi;1;686
+2031-06-19;MH Refeições;Vantage;1;120
+2031-06-19;MH Refeições;Rondon R/R;1;0
+2031-06-19;MH Refeições;Elisa Agro;1;264
+2031-06-20;MH Refeições;Grupo Tamburi;1;607
+2031-06-20;MH Refeições;Vantage;1;120
+2031-06-20;MH Refeições;Rondon R/R;1;24
+2031-06-20;MH Refeições;Elisa Agro;1;432
+2031-06-21;MH Refeições;Grupo Tamburi;1;739
+2031-06-21;MH Refeições;Vantage;1;120
+2031-06-21;MH Refeições;Rondon R/R;1;0
+2031-06-21;MH Refeições;Elisa Agro;1;336
+2031-06-22;MH Refeições;Grupo Tamburi;1;528
+2031-06-22;MH Refeições;Vantage;1;120
+2031-06-22;MH Refeições;Rondon R/R;1;24
+2031-06-22;MH Refeições;Elisa Agro;1;432
+2031-06-23;MH Refeições;Grupo Tamburi;1;580
+2031-06-23;MH Refeições;Vantage;1;120
+2031-06-23;MH Refeições;Rondon R/R;1;0
+2031-06-23;MH Refeições;Elisa Agro;1;360
+2031-06-24;MH Refeições;Grupo Tamburi;1;633
+2031-06-24;MH Refeições;Vantage;1;120
+2031-06-24;MH Refeições;Rondon R/R;1;24
+2031-06-24;MH Refeições;Elisa Agro;1;336
+2031-06-25;MH Refeições;Grupo Tamburi;1;633
+2031-06-25;MH Refeições;Vantage;1;120
+2031-06-25;MH Refeições;Rondon R/R;1;24
+2031-06-25;MH Refeições;Elisa Agro;1;240
+2031-06-26;MH Refeições;Grupo Tamburi;1;765
+2031-06-26;MH Refeições;Vantage;1;120
+2031-06-26;MH Refeições;Rondon R/R;1;0
+2031-06-26;MH Refeições;Elisa Agro;1;432
+2031-06-27;MH Refeições;Grupo Tamburi;1;580
+2031-06-27;MH Refeições;Vantage;1;120
+2031-06-27;MH Refeições;Rondon R/R;1;24
+2031-06-27;MH Refeições;Elisa Agro;1;312
+2031-06-28;MH Refeições;Grupo Tamburi;1;712
+2031-06-28;MH Refeições;Vantage;1;150
+2031-06-28;MH Refeições;Rondon R/R;1;24
+2031-06-28;MH Refeições;Elisa Agro;1;456
+2031-06-29;MH Refeições;Grupo Tamburi;1;633
+2031-06-29;MH Refeições;Vantage;1;120
+2031-06-29;MH Refeições;Rondon R/R;1;0
+2031-06-29;MH Refeições;Elisa Agro;1;312
+2031-06-30;MH Refeições;Grupo Tamburi;1;580
+2031-06-30;MH Refeições;Vantage;1;150
+2031-06-30;MH Refeições;Rondon R/R;1;24
+2031-06-30;MH Refeições;Elisa Agro;1;264
+2031-07-01;MH Refeições;Grupo Tamburi;1;739
+2031-07-01;MH Refeições;Vantage;1;140
+2031-07-01;MH Refeições;Rondon R/R;1;28
+2031-07-01;MH Refeições;Elisa Agro;1;503
+2031-07-02;MH Refeições;Grupo Tamburi;1;739
+2031-07-02;MH Refeições;Vantage;1;140
+2031-07-02;MH Refeições;Rondon R/R;1;0
+2031-07-02;MH Refeições;Elisa Agro;1;280
+2031-07-03;MH Refeições;Grupo Tamburi;1;646
+2031-07-03;MH Refeições;Vantage;1;175
+2031-07-03;MH Refeições;Rondon R/R;1;28
+2031-07-03;MH Refeições;Elisa Agro;1;503
+2031-07-04;MH Refeições;Grupo Tamburi;1;831
+2031-07-04;MH Refeições;Vantage;1;140
+2031-07-04;MH Refeições;Rondon R/R;1;28
+2031-07-04;MH Refeições;Elisa Agro;1;336
+2031-07-05;MH Refeições;Grupo Tamburi;1;708
+2031-07-05;MH Refeições;Vantage;1;175
+2031-07-05;MH Refeições;Rondon R/R;1;28
+2031-07-05;MH Refeições;Elisa Agro;1;364
+2031-07-06;MH Refeições;Grupo Tamburi;1;893
+2031-07-06;MH Refeições;Vantage;1;140
+2031-07-06;MH Refeições;Rondon R/R;1;28
+2031-07-06;MH Refeições;Elisa Agro;1;475
+2031-07-07;MH Refeições;Grupo Tamburi;1;862
+2031-07-07;MH Refeições;Vantage;1;175
+2031-07-07;MH Refeições;Rondon R/R;1;0
+2031-07-07;MH Refeições;Elisa Agro;1;336
+2031-07-08;MH Refeições;Grupo Tamburi;1;800
+2031-07-08;MH Refeições;Vantage;1;140
+2031-07-08;MH Refeições;Rondon R/R;1;28
+2031-07-08;MH Refeições;Elisa Agro;1;420
+2031-07-09;MH Refeições;Grupo Tamburi;1;708
+2031-07-09;MH Refeições;Vantage;1;140
+2031-07-09;MH Refeições;Rondon R/R;1;28
+2031-07-09;MH Refeições;Elisa Agro;1;280
+2031-07-10;MH Refeições;Grupo Tamburi;1;862
+2031-07-10;MH Refeições;Vantage;1;175
+2031-07-10;MH Refeições;Rondon R/R;1;0
+2031-07-10;MH Refeições;Elisa Agro;1;308
+2031-07-11;MH Refeições;Grupo Tamburi;1;800
+2031-07-11;MH Refeições;Vantage;1;175
+2031-07-11;MH Refeições;Rondon R/R;1;28
+2031-07-11;MH Refeições;Elisa Agro;1;280
+2031-07-12;MH Refeições;Grupo Tamburi;1;616
+2031-07-12;MH Refeições;Vantage;1;175
+2031-07-12;MH Refeições;Rondon R/R;1;0
+2031-07-12;MH Refeições;Elisa Agro;1;448
+2031-07-13;MH Refeições;Grupo Tamburi;1;677
+2031-07-13;MH Refeições;Vantage;1;175
+2031-07-13;MH Refeições;Rondon R/R;1;28
+2031-07-13;MH Refeições;Elisa Agro;1;448
+2031-07-14;MH Refeições;Grupo Tamburi;1;708
+2031-07-14;MH Refeições;Vantage;1;175
+2031-07-14;MH Refeições;Rondon R/R;1;28
+2031-07-14;MH Refeições;Elisa Agro;1;308
+2031-07-15;MH Refeições;Grupo Tamburi;1;677
+2031-07-15;MH Refeições;Vantage;1;175
+2031-07-15;MH Refeições;Rondon R/R;1;0
+2031-07-15;MH Refeições;Elisa Agro;1;336
+2031-07-16;MH Refeições;Grupo Tamburi;1;616
+2031-07-16;MH Refeições;Vantage;1;175
+2031-07-16;MH Refeições;Rondon R/R;1;0
+2031-07-16;MH Refeições;Elisa Agro;1;280
+2031-07-17;MH Refeições;Grupo Tamburi;1;800
+2031-07-17;MH Refeições;Vantage;1;140
+2031-07-17;MH Refeições;Rondon R/R;1;28
+2031-07-17;MH Refeições;Elisa Agro;1;364
+2031-07-18;MH Refeições;Grupo Tamburi;1;646
+2031-07-18;MH Refeições;Vantage;1;175
+2031-07-18;MH Refeições;Rondon R/R;1;28
+2031-07-18;MH Refeições;Elisa Agro;1;336
+2031-07-19;MH Refeições;Grupo Tamburi;1;646
+2031-07-19;MH Refeições;Vantage;1;175
+2031-07-19;MH Refeições;Rondon R/R;1;28
+2031-07-19;MH Refeições;Elisa Agro;1;392
+2031-07-20;MH Refeições;Grupo Tamburi;1;677
+2031-07-20;MH Refeições;Vantage;1;175
+2031-07-20;MH Refeições;Rondon R/R;1;28
+2031-07-20;MH Refeições;Elisa Agro;1;448
+2031-07-21;MH Refeições;Grupo Tamburi;1;677
+2031-07-21;MH Refeições;Vantage;1;140
+2031-07-21;MH Refeições;Rondon R/R;1;0
+2031-07-21;MH Refeições;Elisa Agro;1;392
+2031-07-22;MH Refeições;Grupo Tamburi;1;616
+2031-07-22;MH Refeições;Vantage;1;140
+2031-07-22;MH Refeições;Rondon R/R;1;0
+2031-07-22;MH Refeições;Elisa Agro;1;392
+2031-07-23;MH Refeições;Grupo Tamburi;1;800
+2031-07-23;MH Refeições;Vantage;1;140
+2031-07-23;MH Refeições;Rondon R/R;1;0
+2031-07-23;MH Refeições;Elisa Agro;1;475
+2031-07-24;MH Refeições;Grupo Tamburi;1;708
+2031-07-24;MH Refeições;Vantage;1;175
+2031-07-24;MH Refeições;Rondon R/R;1;0
+2031-07-24;MH Refeições;Elisa Agro;1;280
+2031-07-25;MH Refeições;Grupo Tamburi;1;770
+2031-07-25;MH Refeições;Vantage;1;140
+2031-07-25;MH Refeições;Rondon R/R;1;0
+2031-07-25;MH Refeições;Elisa Agro;1;364
+2031-07-26;MH Refeições;Grupo Tamburi;1;800
+2031-07-26;MH Refeições;Vantage;1;140
+2031-07-26;MH Refeições;Rondon R/R;1;28
+2031-07-26;MH Refeições;Elisa Agro;1;280
+2031-07-27;MH Refeições;Grupo Tamburi;1;646
+2031-07-27;MH Refeições;Vantage;1;140
+2031-07-27;MH Refeições;Rondon R/R;1;28
+2031-07-27;MH Refeições;Elisa Agro;1;448
+2031-07-28;MH Refeições;Grupo Tamburi;1;646
+2031-07-28;MH Refeições;Vantage;1;175
+2031-07-28;MH Refeições;Rondon R/R;1;0
+2031-07-28;MH Refeições;Elisa Agro;1;475
+2031-07-29;MH Refeições;Grupo Tamburi;1;862
+2031-07-29;MH Refeições;Vantage;1;175
+2031-07-29;MH Refeições;Rondon R/R;1;28
+2031-07-29;MH Refeições;Elisa Agro;1;336
+2031-07-30;MH Refeições;Grupo Tamburi;1;646
+2031-07-30;MH Refeições;Vantage;1;140
+2031-07-30;MH Refeições;Rondon R/R;1;0
+2031-07-30;MH Refeições;Elisa Agro;1;308
+2031-07-31;MH Refeições;Grupo Tamburi;1;708
+2031-07-31;MH Refeições;Vantage;1;140
+2031-07-31;MH Refeições;Rondon R/R;1;28
+2031-07-31;MH Refeições;Elisa Agro;1;475
+2031-08-01;MH Refeições;Grupo Tamburi;1;629
+2031-08-01;MH Refeições;Vantage;1;162
+2031-08-01;MH Refeições;Rondon R/R;1;0
+2031-08-01;MH Refeições;Elisa Agro;1;338
+2031-08-02;MH Refeições;Grupo Tamburi;1;772
+2031-08-02;MH Refeições;Vantage;1;130
+2031-08-02;MH Refeições;Rondon R/R;1;26
+2031-08-02;MH Refeições;Elisa Agro;1;338
+2031-08-03;MH Refeições;Grupo Tamburi;1;686
+2031-08-03;MH Refeições;Vantage;1;130
+2031-08-03;MH Refeições;Rondon R/R;1;26
+2031-08-03;MH Refeições;Elisa Agro;1;416
+2031-08-04;MH Refeições;Grupo Tamburi;1;686
+2031-08-04;MH Refeições;Vantage;1;162
+2031-08-04;MH Refeições;Rondon R/R;1;26
+2031-08-04;MH Refeições;Elisa Agro;1;390
+2031-08-05;MH Refeições;Grupo Tamburi;1;686
+2031-08-05;MH Refeições;Vantage;1;162
+2031-08-05;MH Refeições;Rondon R/R;1;26
+2031-08-05;MH Refeições;Elisa Agro;1;312
+2031-08-06;MH Refeições;Grupo Tamburi;1;800
+2031-08-06;MH Refeições;Vantage;1;162
+2031-08-06;MH Refeições;Rondon R/R;1;26
+2031-08-06;MH Refeições;Elisa Agro;1;494
+2031-08-07;MH Refeições;Grupo Tamburi;1;657
+2031-08-07;MH Refeições;Vantage;1;130
+2031-08-07;MH Refeições;Rondon R/R;1;26
+2031-08-07;MH Refeições;Elisa Agro;1;312
+2031-08-08;MH Refeições;Grupo Tamburi;1;772
+2031-08-08;MH Refeições;Vantage;1;162
+2031-08-08;MH Refeições;Rondon R/R;1;0
+2031-08-08;MH Refeições;Elisa Agro;1;286
+2031-08-09;MH Refeições;Grupo Tamburi;1;715
+2031-08-09;MH Refeições;Vantage;1;130
+2031-08-09;MH Refeições;Rondon R/R;1;0
+2031-08-09;MH Refeições;Elisa Agro;1;260
+2031-08-10;MH Refeições;Grupo Tamburi;1;743
+2031-08-10;MH Refeições;Vantage;1;130
+2031-08-10;MH Refeições;Rondon R/R;1;26
+2031-08-10;MH Refeições;Elisa Agro;1;494
+2031-08-11;MH Refeições;Grupo Tamburi;1;657
+2031-08-11;MH Refeições;Vantage;1;162
+2031-08-11;MH Refeições;Rondon R/R;1;0
+2031-08-11;MH Refeições;Elisa Agro;1;338
+2031-08-12;MH Refeições;Grupo Tamburi;1;657
+2031-08-12;MH Refeições;Vantage;1;130
+2031-08-12;MH Refeições;Rondon R/R;1;0
+2031-08-12;MH Refeições;Elisa Agro;1;390
+2031-08-13;MH Refeições;Grupo Tamburi;1;829
+2031-08-13;MH Refeições;Vantage;1;130
+2031-08-13;MH Refeições;Rondon R/R;1;0
+2031-08-13;MH Refeições;Elisa Agro;1;338
+2031-08-14;MH Refeições;Grupo Tamburi;1;600
+2031-08-14;MH Refeições;Vantage;1;162
+2031-08-14;MH Refeições;Rondon R/R;1;0
+2031-08-14;MH Refeições;Elisa Agro;1;442
+2031-08-15;MH Refeições;Grupo Tamburi;1;800
+2031-08-15;MH Refeições;Vantage;1;130
+2031-08-15;MH Refeições;Rondon R/R;1;26
+2031-08-15;MH Refeições;Elisa Agro;1;416
+2031-08-16;MH Refeições;Grupo Tamburi;1;715
+2031-08-16;MH Refeições;Vantage;1;162
+2031-08-16;MH Refeições;Rondon R/R;1;0
+2031-08-16;MH Refeições;Elisa Agro;1;312
+2031-08-17;MH Refeições;Grupo Tamburi;1;572
+2031-08-17;MH Refeições;Vantage;1;130
+2031-08-17;MH Refeições;Rondon R/R;1;26
+2031-08-17;MH Refeições;Elisa Agro;1;338
+2031-08-18;MH Refeições;Grupo Tamburi;1;715
+2031-08-18;MH Refeições;Vantage;1;130
+2031-08-18;MH Refeições;Rondon R/R;1;26
+2031-08-18;MH Refeições;Elisa Agro;1;260
+2031-08-19;MH Refeições;Grupo Tamburi;1;743
+2031-08-19;MH Refeições;Vantage;1;162
+2031-08-19;MH Refeições;Rondon R/R;1;26
+2031-08-19;MH Refeições;Elisa Agro;1;390
+2031-08-20;MH Refeições;Grupo Tamburi;1;686
+2031-08-20;MH Refeições;Vantage;1;130
+2031-08-20;MH Refeições;Rondon R/R;1;26
+2031-08-20;MH Refeições;Elisa Agro;1;442
+2031-08-21;MH Refeições;Grupo Tamburi;1;686
+2031-08-21;MH Refeições;Vantage;1;162
+2031-08-21;MH Refeições;Rondon R/R;1;26
+2031-08-21;MH Refeições;Elisa Agro;1;364
+2031-08-22;MH Refeições;Grupo Tamburi;1;715
+2031-08-22;MH Refeições;Vantage;1;162
+2031-08-22;MH Refeições;Rondon R/R;1;26
+2031-08-22;MH Refeições;Elisa Agro;1;494
+2031-08-23;MH Refeições;Grupo Tamburi;1;743
+2031-08-23;MH Refeições;Vantage;1;162
+2031-08-23;MH Refeições;Rondon R/R;1;26
+2031-08-23;MH Refeições;Elisa Agro;1;312
+2031-08-24;MH Refeições;Grupo Tamburi;1;743
+2031-08-24;MH Refeições;Vantage;1;130
+2031-08-24;MH Refeições;Rondon R/R;1;0
+2031-08-24;MH Refeições;Elisa Agro;1;494
+2031-08-25;MH Refeições;Grupo Tamburi;1;629
+2031-08-25;MH Refeições;Vantage;1;162
+2031-08-25;MH Refeições;Rondon R/R;1;0
+2031-08-25;MH Refeições;Elisa Agro;1;442
+2031-08-26;MH Refeições;Grupo Tamburi;1;772
+2031-08-26;MH Refeições;Vantage;1;162
+2031-08-26;MH Refeições;Rondon R/R;1;0
+2031-08-26;MH Refeições;Elisa Agro;1;390
+2031-08-27;MH Refeições;Grupo Tamburi;1;772
+2031-08-27;MH Refeições;Vantage;1;130
+2031-08-27;MH Refeições;Rondon R/R;1;0
+2031-08-27;MH Refeições;Elisa Agro;1;442
+2031-08-28;MH Refeições;Grupo Tamburi;1;829
+2031-08-28;MH Refeições;Vantage;1;130
+2031-08-28;MH Refeições;Rondon R/R;1;26
+2031-08-28;MH Refeições;Elisa Agro;1;390
+2031-08-29;MH Refeições;Grupo Tamburi;1;600
+2031-08-29;MH Refeições;Vantage;1;162
+2031-08-29;MH Refeições;Rondon R/R;1;0
+2031-08-29;MH Refeições;Elisa Agro;1;494
+2031-08-30;MH Refeições;Grupo Tamburi;1;629
+2031-08-30;MH Refeições;Vantage;1;162
+2031-08-30;MH Refeições;Rondon R/R;1;0
+2031-08-30;MH Refeições;Elisa Agro;1;442
+2031-08-31;MH Refeições;Grupo Tamburi;1;629
+2031-08-31;MH Refeições;Vantage;1;130
+2031-08-31;MH Refeições;Rondon R/R;1;26
+2031-08-31;MH Refeições;Elisa Agro;1;338
+2031-09-01;MH Refeições;Grupo Tamburi;1;772
+2031-09-01;MH Refeições;Vantage;1;130
+2031-09-01;MH Refeições;Rondon R/R;1;26
+2031-09-01;MH Refeições;Elisa Agro;1;286
+2031-09-02;MH Refeições;Grupo Tamburi;1;743
+2031-09-02;MH Refeições;Vantage;1;162
+2031-09-02;MH Refeições;Rondon R/R;1;26
+2031-09-02;MH Refeições;Elisa Agro;1;312
+2031-09-03;MH Refeições;Grupo Tamburi;1;715
+2031-09-03;MH Refeições;Vantage;1;162
+2031-09-03;MH Refeições;Rondon R/R;1;0
+2031-09-03;MH Refeições;Elisa Agro;1;338
+2031-09-04;MH Refeições;Grupo Tamburi;1;829
+2031-09-04;MH Refeições;Vantage;1;162
+2031-09-04;MH Refeições;Rondon R/R;1;26
+2031-09-04;MH Refeições;Elisa Agro;1;416
+2031-09-05;MH Refeições;Grupo Tamburi;1;600
+2031-09-05;MH Refeições;Vantage;1;162
+2031-09-05;MH Refeições;Rondon R/R;1;26
+2031-09-05;MH Refeições;Elisa Agro;1;338
+2031-09-06;MH Refeições;Grupo Tamburi;1;715
+2031-09-06;MH Refeições;Vantage;1;162
+2031-09-06;MH Refeições;Rondon R/R;1;26
+2031-09-06;MH Refeições;Elisa Agro;1;468
+2031-09-07;MH Refeições;Grupo Tamburi;1;829
+2031-09-07;MH Refeições;Vantage;1;130
+2031-09-07;MH Refeições;Rondon R/R;1;26
+2031-09-07;MH Refeições;Elisa Agro;1;260
+2031-09-08;MH Refeições;Grupo Tamburi;1;600
+2031-09-08;MH Refeições;Vantage;1;162
+2031-09-08;MH Refeições;Rondon R/R;1;26
+2031-09-08;MH Refeições;Elisa Agro;1;286
+2031-09-09;MH Refeições;Grupo Tamburi;1;743
+2031-09-09;MH Refeições;Vantage;1;162
+2031-09-09;MH Refeições;Rondon R/R;1;0
+2031-09-09;MH Refeições;Elisa Agro;1;338
+2031-09-10;MH Refeições;Grupo Tamburi;1;686
+2031-09-10;MH Refeições;Vantage;1;130
+2031-09-10;MH Refeições;Rondon R/R;1;26
+2031-09-10;MH Refeições;Elisa Agro;1;468
+2031-09-11;MH Refeições;Grupo Tamburi;1;629
+2031-09-11;MH Refeições;Vantage;1;130
+2031-09-11;MH Refeições;Rondon R/R;1;26
+2031-09-11;MH Refeições;Elisa Agro;1;364
+2031-09-12;MH Refeições;Grupo Tamburi;1;772
+2031-09-12;MH Refeições;Vantage;1;130
+2031-09-12;MH Refeições;Rondon R/R;1;0
+2031-09-12;MH Refeições;Elisa Agro;1;468
+2031-09-13;MH Refeições;Grupo Tamburi;1;686
+2031-09-13;MH Refeições;Vantage;1;162
+2031-09-13;MH Refeições;Rondon R/R;1;0
+2031-09-13;MH Refeições;Elisa Agro;1;468
+2031-09-14;MH Refeições;Grupo Tamburi;1;743
+2031-09-14;MH Refeições;Vantage;1;162
+2031-09-14;MH Refeições;Rondon R/R;1;26
+2031-09-14;MH Refeições;Elisa Agro;1;468
+2031-09-15;MH Refeições;Grupo Tamburi;1;686
+2031-09-15;MH Refeições;Vantage;1;130
+2031-09-15;MH Refeições;Rondon R/R;1;0
+2031-09-15;MH Refeições;Elisa Agro;1;494
+2031-09-16;MH Refeições;Grupo Tamburi;1;629
+2031-09-16;MH Refeições;Vantage;1;130
+2031-09-16;MH Refeições;Rondon R/R;1;26
+2031-09-16;MH Refeições;Elisa Agro;1;416
+2031-09-17;MH Refeições;Grupo Tamburi;1;829
+2031-09-17;MH Refeições;Vantage;1;130
+2031-09-17;MH Refeições;Rondon R/R;1;26
+2031-09-17;MH Refeições;Elisa Agro;1;416
+2031-09-18;MH Refeições;Grupo Tamburi;1;686
+2031-09-18;MH Refeições;Vantage;1;162
+2031-09-18;MH Refeições;Rondon R/R;1;26
+2031-09-18;MH Refeições;Elisa Agro;1;260
+2031-09-19;MH Refeições;Grupo Tamburi;1;829
+2031-09-19;MH Refeições;Vantage;1;162
+2031-09-19;MH Refeições;Rondon R/R;1;26
+2031-09-19;MH Refeições;Elisa Agro;1;286
+2031-09-20;MH Refeições;Grupo Tamburi;1;715
+2031-09-20;MH Refeições;Vantage;1;130
+2031-09-20;MH Refeições;Rondon R/R;1;26
+2031-09-20;MH Refeições;Elisa Agro;1;468
+2031-09-21;MH Refeições;Grupo Tamburi;1;657
+2031-09-21;MH Refeições;Vantage;1;130
+2031-09-21;MH Refeições;Rondon R/R;1;26
+2031-09-21;MH Refeições;Elisa Agro;1;338
+2031-09-22;MH Refeições;Grupo Tamburi;1;829
+2031-09-22;MH Refeições;Vantage;1;162
+2031-09-22;MH Refeições;Rondon R/R;1;26
+2031-09-22;MH Refeições;Elisa Agro;1;338
+2031-09-23;MH Refeições;Grupo Tamburi;1;600
+2031-09-23;MH Refeições;Vantage;1;162
+2031-09-23;MH Refeições;Rondon R/R;1;26
+2031-09-23;MH Refeições;Elisa Agro;1;494
+2031-09-24;MH Refeições;Grupo Tamburi;1;829
+2031-09-24;MH Refeições;Vantage;1;130
+2031-09-24;MH Refeições;Rondon R/R;1;26
+2031-09-24;MH Refeições;Elisa Agro;1;286
+2031-09-25;MH Refeições;Grupo Tamburi;1;829
+2031-09-25;MH Refeições;Vantage;1;162
+2031-09-25;MH Refeições;Rondon R/R;1;26
+2031-09-25;MH Refeições;Elisa Agro;1;390
+2031-09-26;MH Refeições;Grupo Tamburi;1;772
+2031-09-26;MH Refeições;Vantage;1;162
+2031-09-26;MH Refeições;Rondon R/R;1;0
+2031-09-26;MH Refeições;Elisa Agro;1;260
+2031-09-27;MH Refeições;Grupo Tamburi;1;800
+2031-09-27;MH Refeições;Vantage;1;162
+2031-09-27;MH Refeições;Rondon R/R;1;0
+2031-09-27;MH Refeições;Elisa Agro;1;312
+2031-09-28;MH Refeições;Grupo Tamburi;1;657
+2031-09-28;MH Refeições;Vantage;1;130
+2031-09-28;MH Refeições;Rondon R/R;1;0
+2031-09-28;MH Refeições;Elisa Agro;1;260
+2031-09-29;MH Refeições;Grupo Tamburi;1;657
+2031-09-29;MH Refeições;Vantage;1;130
+2031-09-29;MH Refeições;Rondon R/R;1;26
+2031-09-29;MH Refeições;Elisa Agro;1;416
+2031-09-30;MH Refeições;Grupo Tamburi;1;743
+2031-09-30;MH Refeições;Vantage;1;130
+2031-09-30;MH Refeições;Rondon R/R;1;26
+2031-09-30;MH Refeições;Elisa Agro;1;338
+2031-10-01;MH Refeições;Grupo Tamburi;1;633
+2031-10-01;MH Refeições;Vantage;1;120
+2031-10-01;MH Refeições;Rondon R/R;1;0
+2031-10-01;MH Refeições;Elisa Agro;1;456
+2031-10-02;MH Refeições;Grupo Tamburi;1;739
+2031-10-02;MH Refeições;Vantage;1;150
+2031-10-02;MH Refeições;Rondon R/R;1;24
+2031-10-02;MH Refeições;Elisa Agro;1;312
+2031-10-03;MH Refeições;Grupo Tamburi;1;633
+2031-10-03;MH Refeições;Vantage;1;120
+2031-10-03;MH Refeições;Rondon R/R;1;24
+2031-10-03;MH Refeições;Elisa Agro;1;240
+2031-10-04;MH Refeições;Grupo Tamburi;1;765
+2031-10-04;MH Refeições;Vantage;1;150
+2031-10-04;MH Refeições;Rondon R/R;1;0
+2031-10-04;MH Refeições;Elisa Agro;1;360
+2031-10-05;MH Refeições;Grupo Tamburi;1;765
+2031-10-05;MH Refeições;Vantage;1;150
+2031-10-05;MH Refeições;Rondon R/R;1;24
+2031-10-05;MH Refeições;Elisa Agro;1;240
+2031-10-06;MH Refeições;Grupo Tamburi;1;739
+2031-10-06;MH Refeições;Vantage;1;120
+2031-10-06;MH Refeições;Rondon R/R;1;24
+2031-10-06;MH Refeições;Elisa Agro;1;432
+2031-10-07;MH Refeições;Grupo Tamburi;1;712
+2031-10-07;MH Refeições;Vantage;1;120
+2031-10-07;MH Refeições;Rondon R/R;1;0
+2031-10-07;MH Refeições;Elisa Agro;1;288
+2031-10-08;MH Refeições;Grupo Tamburi;1;739
+2031-10-08;MH Refeições;Vantage;1;150
+2031-10-08;MH Refeições;Rondon R/R;1;24
+2031-10-08;MH Refeições;Elisa Agro;1;288
+2031-10-09;MH Refeições;Grupo Tamburi;1;580
+2031-10-09;MH Refeições;Vantage;1;120
+2031-10-09;MH Refeições;Rondon R/R;1;24
+2031-10-09;MH Refeições;Elisa Agro;1;432
+2031-10-10;MH Refeições;Grupo Tamburi;1;580
+2031-10-10;MH Refeições;Vantage;1;150
+2031-10-10;MH Refeições;Rondon R/R;1;24
+2031-10-10;MH Refeições;Elisa Agro;1;312
+2031-10-11;MH Refeições;Grupo Tamburi;1;712
+2031-10-11;MH Refeições;Vantage;1;150
+2031-10-11;MH Refeições;Rondon R/R;1;0
+2031-10-11;MH Refeições;Elisa Agro;1;360
+2031-10-12;MH Refeições;Grupo Tamburi;1;633
+2031-10-12;MH Refeições;Vantage;1;120
+2031-10-12;MH Refeições;Rondon R/R;1;0
+2031-10-12;MH Refeições;Elisa Agro;1;408
+2031-10-13;MH Refeições;Grupo Tamburi;1;554
+2031-10-13;MH Refeições;Vantage;1;120
+2031-10-13;MH Refeições;Rondon R/R;1;0
+2031-10-13;MH Refeições;Elisa Agro;1;240
+2031-10-14;MH Refeições;Grupo Tamburi;1;765
+2031-10-14;MH Refeições;Vantage;1;150
+2031-10-14;MH Refeições;Rondon R/R;1;0
+2031-10-14;MH Refeições;Elisa Agro;1;432
+2031-10-15;MH Refeições;Grupo Tamburi;1;607
+2031-10-15;MH Refeições;Vantage;1;120
+2031-10-15;MH Refeições;Rondon R/R;1;0
+2031-10-15;MH Refeições;Elisa Agro;1;240
+2031-10-16;MH Refeições;Grupo Tamburi;1;686
+2031-10-16;MH Refeições;Vantage;1;150
+2031-10-16;MH Refeições;Rondon R/R;1;0
+2031-10-16;MH Refeições;Elisa Agro;1;456
+2031-10-17;MH Refeições;Grupo Tamburi;1;554
+2031-10-17;MH Refeições;Vantage;1;150
+2031-10-17;MH Refeições;Rondon R/R;1;24
+2031-10-17;MH Refeições;Elisa Agro;1;432
+2031-10-18;MH Refeições;Grupo Tamburi;1;528
+2031-10-18;MH Refeições;Vantage;1;120
+2031-10-18;MH Refeições;Rondon R/R;1;0
+2031-10-18;MH Refeições;Elisa Agro;1;336
+2031-10-19;MH Refeições;Grupo Tamburi;1;580
+2031-10-19;MH Refeições;Vantage;1;150
+2031-10-19;MH Refeições;Rondon R/R;1;24
+2031-10-19;MH Refeições;Elisa Agro;1;264
+2031-10-20;MH Refeições;Grupo Tamburi;1;765
+2031-10-20;MH Refeições;Vantage;1;150
+2031-10-20;MH Refeições;Rondon R/R;1;0
+2031-10-20;MH Refeições;Elisa Agro;1;336
+2031-10-21;MH Refeições;Grupo Tamburi;1;554
+2031-10-21;MH Refeições;Vantage;1;150
+2031-10-21;MH Refeições;Rondon R/R;1;24
+2031-10-21;MH Refeições;Elisa Agro;1;384
+2031-10-22;MH Refeições;Grupo Tamburi;1;739
+2031-10-22;MH Refeições;Vantage;1;150
+2031-10-22;MH Refeições;Rondon R/R;1;24
+2031-10-22;MH Refeições;Elisa Agro;1;384
+2031-10-23;MH Refeições;Grupo Tamburi;1;765
+2031-10-23;MH Refeições;Vantage;1;150
+2031-10-23;MH Refeições;Rondon R/R;1;0
+2031-10-23;MH Refeições;Elisa Agro;1;360
+2031-10-24;MH Refeições;Grupo Tamburi;1;554
+2031-10-24;MH Refeições;Vantage;1;150
+2031-10-24;MH Refeições;Rondon R/R;1;24
+2031-10-24;MH Refeições;Elisa Agro;1;432
+2031-10-25;MH Refeições;Grupo Tamburi;1;607
+2031-10-25;MH Refeições;Vantage;1;120
+2031-10-25;MH Refeições;Rondon R/R;1;24
+2031-10-25;MH Refeições;Elisa Agro;1;384
+2031-10-26;MH Refeições;Grupo Tamburi;1;686
+2031-10-26;MH Refeições;Vantage;1;120
+2031-10-26;MH Refeições;Rondon R/R;1;0
+2031-10-26;MH Refeições;Elisa Agro;1;384
+2031-10-27;MH Refeições;Grupo Tamburi;1;580
+2031-10-27;MH Refeições;Vantage;1;150
+2031-10-27;MH Refeições;Rondon R/R;1;24
+2031-10-27;MH Refeições;Elisa Agro;1;264
+2031-10-28;MH Refeições;Grupo Tamburi;1;554
+2031-10-28;MH Refeições;Vantage;1;150
+2031-10-28;MH Refeições;Rondon R/R;1;24
+2031-10-28;MH Refeições;Elisa Agro;1;336
+2031-10-29;MH Refeições;Grupo Tamburi;1;660
+2031-10-29;MH Refeições;Vantage;1;120
+2031-10-29;MH Refeições;Rondon R/R;1;0
+2031-10-29;MH Refeições;Elisa Agro;1;240
+2031-10-30;MH Refeições;Grupo Tamburi;1;633
+2031-10-30;MH Refeições;Vantage;1;150
+2031-10-30;MH Refeições;Rondon R/R;1;24
+2031-10-30;MH Refeições;Elisa Agro;1;264
+2031-10-31;MH Refeições;Grupo Tamburi;1;660
+2031-10-31;MH Refeições;Vantage;1;120
+2031-10-31;MH Refeições;Rondon R/R;1;0
+2031-10-31;MH Refeições;Elisa Agro;1;408
+2031-11-01;MH Refeições;Grupo Tamburi;1;508
+2031-11-01;MH Refeições;Vantage;1;110
+2031-11-01;MH Refeições;Rondon R/R;1;0
+2031-11-01;MH Refeições;Elisa Agro;1;242
+2031-11-02;MH Refeições;Grupo Tamburi;1;556
+2031-11-02;MH Refeições;Vantage;1;110
+2031-11-02;MH Refeições;Rondon R/R;1;0
+2031-11-02;MH Refeições;Elisa Agro;1;418
+2031-11-03;MH Refeições;Grupo Tamburi;1;556
+2031-11-03;MH Refeições;Vantage;1;137
+2031-11-03;MH Refeições;Rondon R/R;1;0
+2031-11-03;MH Refeições;Elisa Agro;1;286
+2031-11-04;MH Refeições;Grupo Tamburi;1;653
+2031-11-04;MH Refeições;Vantage;1;137
+2031-11-04;MH Refeições;Rondon R/R;1;0
+2031-11-04;MH Refeições;Elisa Agro;1;242
+2031-11-05;MH Refeições;Grupo Tamburi;1;508
+2031-11-05;MH Refeições;Vantage;1;110
+2031-11-05;MH Refeições;Rondon R/R;1;22
+2031-11-05;MH Refeições;Elisa Agro;1;308
+2031-11-06;MH Refeições;Grupo Tamburi;1;484
+2031-11-06;MH Refeições;Vantage;1;137
+2031-11-06;MH Refeições;Rondon R/R;1;22
+2031-11-06;MH Refeições;Elisa Agro;1;396
+2031-11-07;MH Refeições;Grupo Tamburi;1;653
+2031-11-07;MH Refeições;Vantage;1;110
+2031-11-07;MH Refeições;Rondon R/R;1;0
+2031-11-07;MH Refeições;Elisa Agro;1;264
+2031-11-08;MH Refeições;Grupo Tamburi;1;605
+2031-11-08;MH Refeições;Vantage;1;137
+2031-11-08;MH Refeições;Rondon R/R;1;0
+2031-11-08;MH Refeições;Elisa Agro;1;396
+2031-11-09;MH Refeições;Grupo Tamburi;1;701
+2031-11-09;MH Refeições;Vantage;1;137
+2031-11-09;MH Refeições;Rondon R/R;1;22
+2031-11-09;MH Refeições;Elisa Agro;1;286
+2031-11-10;MH Refeições;Grupo Tamburi;1;701
+2031-11-10;MH Refeições;Vantage;1;137
+2031-11-10;MH Refeições;Rondon R/R;1;22
+2031-11-10;MH Refeições;Elisa Agro;1;374
+2031-11-11;MH Refeições;Grupo Tamburi;1;580
+2031-11-11;MH Refeições;Vantage;1;110
+2031-11-11;MH Refeições;Rondon R/R;1;0
+2031-11-11;MH Refeições;Elisa Agro;1;308
+2031-11-12;MH Refeições;Grupo Tamburi;1;532
+2031-11-12;MH Refeições;Vantage;1;137
+2031-11-12;MH Refeições;Rondon R/R;1;0
+2031-11-12;MH Refeições;Elisa Agro;1;264
+2031-11-13;MH Refeições;Grupo Tamburi;1;580
+2031-11-13;MH Refeições;Vantage;1;137
+2031-11-13;MH Refeições;Rondon R/R;1;0
+2031-11-13;MH Refeições;Elisa Agro;1;242
+2031-11-14;MH Refeições;Grupo Tamburi;1;605
+2031-11-14;MH Refeições;Vantage;1;110
+2031-11-14;MH Refeições;Rondon R/R;1;22
+2031-11-14;MH Refeições;Elisa Agro;1;418
+2031-11-15;MH Refeições;Grupo Tamburi;1;605
+2031-11-15;MH Refeições;Vantage;1;137
+2031-11-15;MH Refeições;Rondon R/R;1;22
+2031-11-15;MH Refeições;Elisa Agro;1;308
+2031-11-16;MH Refeições;Grupo Tamburi;1;653
+2031-11-16;MH Refeições;Vantage;1;110
+2031-11-16;MH Refeições;Rondon R/R;1;0
+2031-11-16;MH Refeições;Elisa Agro;1;374
+2031-11-17;MH Refeições;Grupo Tamburi;1;605
+2031-11-17;MH Refeições;Vantage;1;137
+2031-11-17;MH Refeições;Rondon R/R;1;0
+2031-11-17;MH Refeições;Elisa Agro;1;352
+2031-11-18;MH Refeições;Grupo Tamburi;1;629
+2031-11-18;MH Refeições;Vantage;1;110
+2031-11-18;MH Refeições;Rondon R/R;1;0
+2031-11-18;MH Refeições;Elisa Agro;1;396
+2031-11-19;MH Refeições;Grupo Tamburi;1;677
+2031-11-19;MH Refeições;Vantage;1;110
+2031-11-19;MH Refeições;Rondon R/R;1;0
+2031-11-19;MH Refeições;Elisa Agro;1;374
+2031-11-20;MH Refeições;Grupo Tamburi;1;605
+2031-11-20;MH Refeições;Vantage;1;137
+2031-11-20;MH Refeições;Rondon R/R;1;0
+2031-11-20;MH Refeições;Elisa Agro;1;264
+2031-11-21;MH Refeições;Grupo Tamburi;1;484
+2031-11-21;MH Refeições;Vantage;1;110
+2031-11-21;MH Refeições;Rondon R/R;1;0
+2031-11-21;MH Refeições;Elisa Agro;1;220
+2031-11-22;MH Refeições;Grupo Tamburi;1;629
+2031-11-22;MH Refeições;Vantage;1;110
+2031-11-22;MH Refeições;Rondon R/R;1;22
+2031-11-22;MH Refeições;Elisa Agro;1;286
+2031-11-23;MH Refeições;Grupo Tamburi;1;532
+2031-11-23;MH Refeições;Vantage;1;110
+2031-11-23;MH Refeições;Rondon R/R;1;0
+2031-11-23;MH Refeições;Elisa Agro;1;330
+2031-11-24;MH Refeições;Grupo Tamburi;1;677
+2031-11-24;MH Refeições;Vantage;1;137
+2031-11-24;MH Refeições;Rondon R/R;1;0
+2031-11-24;MH Refeições;Elisa Agro;1;308
+2031-11-25;MH Refeições;Grupo Tamburi;1;677
+2031-11-25;MH Refeições;Vantage;1;137
+2031-11-25;MH Refeições;Rondon R/R;1;0
+2031-11-25;MH Refeições;Elisa Agro;1;352
+2031-11-26;MH Refeições;Grupo Tamburi;1;677
+2031-11-26;MH Refeições;Vantage;1;110
+2031-11-26;MH Refeições;Rondon R/R;1;22
+2031-11-26;MH Refeições;Elisa Agro;1;308
+2031-11-27;MH Refeições;Grupo Tamburi;1;484
+2031-11-27;MH Refeições;Vantage;1;137
+2031-11-27;MH Refeições;Rondon R/R;1;0
+2031-11-27;MH Refeições;Elisa Agro;1;308
+2031-11-28;MH Refeições;Grupo Tamburi;1;532
+2031-11-28;MH Refeições;Vantage;1;137
+2031-11-28;MH Refeições;Rondon R/R;1;22
+2031-11-28;MH Refeições;Elisa Agro;1;264
+2031-11-29;MH Refeições;Grupo Tamburi;1;484
+2031-11-29;MH Refeições;Vantage;1;137
+2031-11-29;MH Refeições;Rondon R/R;1;0
+2031-11-29;MH Refeições;Elisa Agro;1;374
+2031-11-30;MH Refeições;Grupo Tamburi;1;605
+2031-11-30;MH Refeições;Vantage;1;137
+2031-11-30;MH Refeições;Rondon R/R;1;0
+2031-11-30;MH Refeições;Elisa Agro;1;396
+2031-12-01;MH Refeições;Grupo Tamburi;1;829
+2031-12-01;MH Refeições;Vantage;1;162
+2031-12-01;MH Refeições;Rondon R/R;1;26
+2031-12-01;MH Refeições;Elisa Agro;1;286
+2031-12-02;MH Refeições;Grupo Tamburi;1;657
+2031-12-02;MH Refeições;Vantage;1;130
+2031-12-02;MH Refeições;Rondon R/R;1;0
+2031-12-02;MH Refeições;Elisa Agro;1;364
+2031-12-03;MH Refeições;Grupo Tamburi;1;829
+2031-12-03;MH Refeições;Vantage;1;162
+2031-12-03;MH Refeições;Rondon R/R;1;0
+2031-12-03;MH Refeições;Elisa Agro;1;494
+2031-12-04;MH Refeições;Grupo Tamburi;1;800
+2031-12-04;MH Refeições;Vantage;1;162
+2031-12-04;MH Refeições;Rondon R/R;1;0
+2031-12-04;MH Refeições;Elisa Agro;1;442
+2031-12-05;MH Refeições;Grupo Tamburi;1;772
+2031-12-05;MH Refeições;Vantage;1;130
+2031-12-05;MH Refeições;Rondon R/R;1;26
+2031-12-05;MH Refeições;Elisa Agro;1;390
+2031-12-06;MH Refeições;Grupo Tamburi;1;657
+2031-12-06;MH Refeições;Vantage;1;162
+2031-12-06;MH Refeições;Rondon R/R;1;0
+2031-12-06;MH Refeições;Elisa Agro;1;364
+2031-12-07;MH Refeições;Grupo Tamburi;1;572
+2031-12-07;MH Refeições;Vantage;1;130
+2031-12-07;MH Refeições;Rondon R/R;1;0
+2031-12-07;MH Refeições;Elisa Agro;1;312
+2031-12-08;MH Refeições;Grupo Tamburi;1;715
+2031-12-08;MH Refeições;Vantage;1;130
+2031-12-08;MH Refeições;Rondon R/R;1;26
+2031-12-08;MH Refeições;Elisa Agro;1;494
+2031-12-09;MH Refeições;Grupo Tamburi;1;772
+2031-12-09;MH Refeições;Vantage;1;162
+2031-12-09;MH Refeições;Rondon R/R;1;0
+2031-12-09;MH Refeições;Elisa Agro;1;338
+2031-12-10;MH Refeições;Grupo Tamburi;1;657
+2031-12-10;MH Refeições;Vantage;1;130
+2031-12-10;MH Refeições;Rondon R/R;1;26
+2031-12-10;MH Refeições;Elisa Agro;1;260
+2031-12-11;MH Refeições;Grupo Tamburi;1;772
+2031-12-11;MH Refeições;Vantage;1;130
+2031-12-11;MH Refeições;Rondon R/R;1;0
+2031-12-11;MH Refeições;Elisa Agro;1;442
+2031-12-12;MH Refeições;Grupo Tamburi;1;800
+2031-12-12;MH Refeições;Vantage;1;130
+2031-12-12;MH Refeições;Rondon R/R;1;26
+2031-12-12;MH Refeições;Elisa Agro;1;390
+2031-12-13;MH Refeições;Grupo Tamburi;1;572
+2031-12-13;MH Refeições;Vantage;1;162
+2031-12-13;MH Refeições;Rondon R/R;1;26
+2031-12-13;MH Refeições;Elisa Agro;1;442
+2031-12-14;MH Refeições;Grupo Tamburi;1;829
+2031-12-14;MH Refeições;Vantage;1;130
+2031-12-14;MH Refeições;Rondon R/R;1;26
+2031-12-14;MH Refeições;Elisa Agro;1;442
+2031-12-15;MH Refeições;Grupo Tamburi;1;829
+2031-12-15;MH Refeições;Vantage;1;162
+2031-12-15;MH Refeições;Rondon R/R;1;0
+2031-12-15;MH Refeições;Elisa Agro;1;286
+2031-12-16;MH Refeições;Grupo Tamburi;1;772
+2031-12-16;MH Refeições;Vantage;1;162
+2031-12-16;MH Refeições;Rondon R/R;1;0
+2031-12-16;MH Refeições;Elisa Agro;1;286
+2031-12-17;MH Refeições;Grupo Tamburi;1;686
+2031-12-17;MH Refeições;Vantage;1;162
+2031-12-17;MH Refeições;Rondon R/R;1;26
+2031-12-17;MH Refeições;Elisa Agro;1;442
+2031-12-18;MH Refeições;Grupo Tamburi;1;715
+2031-12-18;MH Refeições;Vantage;1;130
+2031-12-18;MH Refeições;Rondon R/R;1;26
+2031-12-18;MH Refeições;Elisa Agro;1;286
+2031-12-19;MH Refeições;Grupo Tamburi;1;657
+2031-12-19;MH Refeições;Vantage;1;130
+2031-12-19;MH Refeições;Rondon R/R;1;26
+2031-12-19;MH Refeições;Elisa Agro;1;364
+2031-12-20;MH Refeições;Grupo Tamburi;1;657
+2031-12-20;MH Refeições;Vantage;1;130
+2031-12-20;MH Refeições;Rondon R/R;1;0
+2031-12-20;MH Refeições;Elisa Agro;1;494
+2031-12-21;MH Refeições;Grupo Tamburi;1;572
+2031-12-21;MH Refeições;Vantage;1;130
+2031-12-21;MH Refeições;Rondon R/R;1;0
+2031-12-21;MH Refeições;Elisa Agro;1;494
+2031-12-22;MH Refeições;Grupo Tamburi;1;800
+2031-12-22;MH Refeições;Vantage;1;162
+2031-12-22;MH Refeições;Rondon R/R;1;0
+2031-12-22;MH Refeições;Elisa Agro;1;468
+2031-12-23;MH Refeições;Grupo Tamburi;1;657
+2031-12-23;MH Refeições;Vantage;1;162
+2031-12-23;MH Refeições;Rondon R/R;1;0
+2031-12-23;MH Refeições;Elisa Agro;1;312
+2031-12-24;MH Refeições;Grupo Tamburi;1;600
+2031-12-24;MH Refeições;Vantage;1;162
+2031-12-24;MH Refeições;Rondon R/R;1;26
+2031-12-24;MH Refeições;Elisa Agro;1;494
+2031-12-25;MH Refeições;Grupo Tamburi;1;572
+2031-12-25;MH Refeições;Vantage;1;130
+2031-12-25;MH Refeições;Rondon R/R;1;0
+2031-12-25;MH Refeições;Elisa Agro;1;312
+2031-12-26;MH Refeições;Grupo Tamburi;1;572
+2031-12-26;MH Refeições;Vantage;1;130
+2031-12-26;MH Refeições;Rondon R/R;1;26
+2031-12-26;MH Refeições;Elisa Agro;1;338
+2031-12-27;MH Refeições;Grupo Tamburi;1;686
+2031-12-27;MH Refeições;Vantage;1;130
+2031-12-27;MH Refeições;Rondon R/R;1;0
+2031-12-27;MH Refeições;Elisa Agro;1;442
+2031-12-28;MH Refeições;Grupo Tamburi;1;743
+2031-12-28;MH Refeições;Vantage;1;162
+2031-12-28;MH Refeições;Rondon R/R;1;0
+2031-12-28;MH Refeições;Elisa Agro;1;260
+2031-12-29;MH Refeições;Grupo Tamburi;1;800
+2031-12-29;MH Refeições;Vantage;1;130
+2031-12-29;MH Refeições;Rondon R/R;1;0
+2031-12-29;MH Refeições;Elisa Agro;1;416
+2031-12-30;MH Refeições;Grupo Tamburi;1;829
+2031-12-30;MH Refeições;Vantage;1;130
+2031-12-30;MH Refeições;Rondon R/R;1;0
+2031-12-30;MH Refeições;Elisa Agro;1;442
+2031-12-31;MH Refeições;Grupo Tamburi;1;657
+2031-12-31;MH Refeições;Vantage;1;130
+2031-12-31;MH Refeições;Rondon R/R;1;26
+2031-12-31;MH Refeições;Elisa Agro;1;338
+2032-01-01;MH Refeições;Grupo Tamburi;1;739
+2032-01-01;MH Refeições;Vantage;1;150
+2032-01-01;MH Refeições;Rondon R/R;1;0
+2032-01-01;MH Refeições;Elisa Agro;1;408
+2032-01-02;MH Refeições;Grupo Tamburi;1;765
+2032-01-02;MH Refeições;Vantage;1;150
+2032-01-02;MH Refeições;Rondon R/R;1;24
+2032-01-02;MH Refeições;Elisa Agro;1;264
+2032-01-03;MH Refeições;Grupo Tamburi;1;660
+2032-01-03;MH Refeições;Vantage;1;120
+2032-01-03;MH Refeições;Rondon R/R;1;0
+2032-01-03;MH Refeições;Elisa Agro;1;240
+2032-01-04;MH Refeições;Grupo Tamburi;1;528
+2032-01-04;MH Refeições;Vantage;1;120
+2032-01-04;MH Refeições;Rondon R/R;1;24
+2032-01-04;MH Refeições;Elisa Agro;1;456
+2032-01-05;MH Refeições;Grupo Tamburi;1;712
+2032-01-05;MH Refeições;Vantage;1;120
+2032-01-05;MH Refeições;Rondon R/R;1;24
+2032-01-05;MH Refeições;Elisa Agro;1;336
+2032-01-06;MH Refeições;Grupo Tamburi;1;712
+2032-01-06;MH Refeições;Vantage;1;120
+2032-01-06;MH Refeições;Rondon R/R;1;24
+2032-01-06;MH Refeições;Elisa Agro;1;336
+2032-01-07;MH Refeições;Grupo Tamburi;1;686
+2032-01-07;MH Refeições;Vantage;1;150
+2032-01-07;MH Refeições;Rondon R/R;1;24
+2032-01-07;MH Refeições;Elisa Agro;1;408
+2032-01-08;MH Refeições;Grupo Tamburi;1;528
+2032-01-08;MH Refeições;Vantage;1;120
+2032-01-08;MH Refeições;Rondon R/R;1;0
+2032-01-08;MH Refeições;Elisa Agro;1;360
+2032-01-09;MH Refeições;Grupo Tamburi;1;765
+2032-01-09;MH Refeições;Vantage;1;120
+2032-01-09;MH Refeições;Rondon R/R;1;24
+2032-01-09;MH Refeições;Elisa Agro;1;336
+2032-01-10;MH Refeições;Grupo Tamburi;1;580
+2032-01-10;MH Refeições;Vantage;1;120
+2032-01-10;MH Refeições;Rondon R/R;1;0
+2032-01-10;MH Refeições;Elisa Agro;1;240
+2032-01-11;MH Refeições;Grupo Tamburi;1;739
+2032-01-11;MH Refeições;Vantage;1;120
+2032-01-11;MH Refeições;Rondon R/R;1;0
+2032-01-11;MH Refeições;Elisa Agro;1;384
+2032-01-12;MH Refeições;Grupo Tamburi;1;607
+2032-01-12;MH Refeições;Vantage;1;120
+2032-01-12;MH Refeições;Rondon R/R;1;0
+2032-01-12;MH Refeições;Elisa Agro;1;336
+2032-01-13;MH Refeições;Grupo Tamburi;1;686
+2032-01-13;MH Refeições;Vantage;1;120
+2032-01-13;MH Refeições;Rondon R/R;1;24
+2032-01-13;MH Refeições;Elisa Agro;1;240
+2032-01-14;MH Refeições;Grupo Tamburi;1;686
+2032-01-14;MH Refeições;Vantage;1;150
+2032-01-14;MH Refeições;Rondon R/R;1;0
+2032-01-14;MH Refeições;Elisa Agro;1;240
+2032-01-15;MH Refeições;Grupo Tamburi;1;633
+2032-01-15;MH Refeições;Vantage;1;120
+2032-01-15;MH Refeições;Rondon R/R;1;24
+2032-01-15;MH Refeições;Elisa Agro;1;408
+2032-01-16;MH Refeições;Grupo Tamburi;1;633
+2032-01-16;MH Refeições;Vantage;1;120
+2032-01-16;MH Refeições;Rondon R/R;1;24
+2032-01-16;MH Refeições;Elisa Agro;1;432
+2032-01-17;MH Refeições;Grupo Tamburi;1;580
+2032-01-17;MH Refeições;Vantage;1;120
+2032-01-17;MH Refeições;Rondon R/R;1;24
+2032-01-17;MH Refeições;Elisa Agro;1;264
+2032-01-18;MH Refeições;Grupo Tamburi;1;554
+2032-01-18;MH Refeições;Vantage;1;150
+2032-01-18;MH Refeições;Rondon R/R;1;0
+2032-01-18;MH Refeições;Elisa Agro;1;312
+2032-01-19;MH Refeições;Grupo Tamburi;1;712
+2032-01-19;MH Refeições;Vantage;1;120
+2032-01-19;MH Refeições;Rondon R/R;1;24
+2032-01-19;MH Refeições;Elisa Agro;1;432
+2032-01-20;MH Refeições;Grupo Tamburi;1;607
+2032-01-20;MH Refeições;Vantage;1;120
+2032-01-20;MH Refeições;Rondon R/R;1;24
+2032-01-20;MH Refeições;Elisa Agro;1;456
+2032-01-21;MH Refeições;Grupo Tamburi;1;712
+2032-01-21;MH Refeições;Vantage;1;150
+2032-01-21;MH Refeições;Rondon R/R;1;0
+2032-01-21;MH Refeições;Elisa Agro;1;432
+2032-01-22;MH Refeições;Grupo Tamburi;1;528
+2032-01-22;MH Refeições;Vantage;1;150
+2032-01-22;MH Refeições;Rondon R/R;1;24
+2032-01-22;MH Refeições;Elisa Agro;1;432
+2032-01-23;MH Refeições;Grupo Tamburi;1;712
+2032-01-23;MH Refeições;Vantage;1;120
+2032-01-23;MH Refeições;Rondon R/R;1;0
+2032-01-23;MH Refeições;Elisa Agro;1;408
+2032-01-24;MH Refeições;Grupo Tamburi;1;554
+2032-01-24;MH Refeições;Vantage;1;150
+2032-01-24;MH Refeições;Rondon R/R;1;24
+2032-01-24;MH Refeições;Elisa Agro;1;432
+2032-01-25;MH Refeições;Grupo Tamburi;1;765
+2032-01-25;MH Refeições;Vantage;1;120
+2032-01-25;MH Refeições;Rondon R/R;1;24
+2032-01-25;MH Refeições;Elisa Agro;1;336
+2032-01-26;MH Refeições;Grupo Tamburi;1;765
+2032-01-26;MH Refeições;Vantage;1;150
+2032-01-26;MH Refeições;Rondon R/R;1;0
+2032-01-26;MH Refeições;Elisa Agro;1;408
+2032-01-27;MH Refeições;Grupo Tamburi;1;686
+2032-01-27;MH Refeições;Vantage;1;150
+2032-01-27;MH Refeições;Rondon R/R;1;0
+2032-01-27;MH Refeições;Elisa Agro;1;288
+2032-01-28;MH Refeições;Grupo Tamburi;1;633
+2032-01-28;MH Refeições;Vantage;1;120
+2032-01-28;MH Refeições;Rondon R/R;1;0
+2032-01-28;MH Refeições;Elisa Agro;1;384
+2032-01-29;MH Refeições;Grupo Tamburi;1;686
+2032-01-29;MH Refeições;Vantage;1;120
+2032-01-29;MH Refeições;Rondon R/R;1;24
+2032-01-29;MH Refeições;Elisa Agro;1;432
+2032-01-30;MH Refeições;Grupo Tamburi;1;633
+2032-01-30;MH Refeições;Vantage;1;120
+2032-01-30;MH Refeições;Rondon R/R;1;0
+2032-01-30;MH Refeições;Elisa Agro;1;288
+2032-01-31;MH Refeições;Grupo Tamburi;1;765
+2032-01-31;MH Refeições;Vantage;1;150
+2032-01-31;MH Refeições;Rondon R/R;1;24
+2032-01-31;MH Refeições;Elisa Agro;1;264
+2032-02-01;MH Refeições;Grupo Tamburi;1;629
+2032-02-01;MH Refeições;Vantage;1;130
+2032-02-01;MH Refeições;Rondon R/R;1;0
+2032-02-01;MH Refeições;Elisa Agro;1;260
+2032-02-02;MH Refeições;Grupo Tamburi;1;772
+2032-02-02;MH Refeições;Vantage;1;162
+2032-02-02;MH Refeições;Rondon R/R;1;0
+2032-02-02;MH Refeições;Elisa Agro;1;442
+2032-02-03;MH Refeições;Grupo Tamburi;1;572
+2032-02-03;MH Refeições;Vantage;1;130
+2032-02-03;MH Refeições;Rondon R/R;1;26
+2032-02-03;MH Refeições;Elisa Agro;1;442
+2032-02-04;MH Refeições;Grupo Tamburi;1;829
+2032-02-04;MH Refeições;Vantage;1;162
+2032-02-04;MH Refeições;Rondon R/R;1;26
+2032-02-04;MH Refeições;Elisa Agro;1;260
+2032-02-05;MH Refeições;Grupo Tamburi;1;715
+2032-02-05;MH Refeições;Vantage;1;130
+2032-02-05;MH Refeições;Rondon R/R;1;26
+2032-02-05;MH Refeições;Elisa Agro;1;312
+2032-02-06;MH Refeições;Grupo Tamburi;1;772
+2032-02-06;MH Refeições;Vantage;1;162
+2032-02-06;MH Refeições;Rondon R/R;1;0
+2032-02-06;MH Refeições;Elisa Agro;1;494
+2032-02-07;MH Refeições;Grupo Tamburi;1;743
+2032-02-07;MH Refeições;Vantage;1;162
+2032-02-07;MH Refeições;Rondon R/R;1;26
+2032-02-07;MH Refeições;Elisa Agro;1;338
+2032-02-08;MH Refeições;Grupo Tamburi;1;686
+2032-02-08;MH Refeições;Vantage;1;130
+2032-02-08;MH Refeições;Rondon R/R;1;0
+2032-02-08;MH Refeições;Elisa Agro;1;338
+2032-02-09;MH Refeições;Grupo Tamburi;1;572
+2032-02-09;MH Refeições;Vantage;1;130
+2032-02-09;MH Refeições;Rondon R/R;1;26
+2032-02-09;MH Refeições;Elisa Agro;1;260
+2032-02-10;MH Refeições;Grupo Tamburi;1;800
+2032-02-10;MH Refeições;Vantage;1;162
+2032-02-10;MH Refeições;Rondon R/R;1;26
+2032-02-10;MH Refeições;Elisa Agro;1;494
+2032-02-11;MH Refeições;Grupo Tamburi;1;629
+2032-02-11;MH Refeições;Vantage;1;162
+2032-02-11;MH Refeições;Rondon R/R;1;0
+2032-02-11;MH Refeições;Elisa Agro;1;260
+2032-02-12;MH Refeições;Grupo Tamburi;1;715
+2032-02-12;MH Refeições;Vantage;1;162
+2032-02-12;MH Refeições;Rondon R/R;1;26
+2032-02-12;MH Refeições;Elisa Agro;1;442
+2032-02-13;MH Refeições;Grupo Tamburi;1;743
+2032-02-13;MH Refeições;Vantage;1;162
+2032-02-13;MH Refeições;Rondon R/R;1;0
+2032-02-13;MH Refeições;Elisa Agro;1;338
+2032-02-14;MH Refeições;Grupo Tamburi;1;629
+2032-02-14;MH Refeições;Vantage;1;130
+2032-02-14;MH Refeições;Rondon R/R;1;26
+2032-02-14;MH Refeições;Elisa Agro;1;260
+2032-02-15;MH Refeições;Grupo Tamburi;1;657
+2032-02-15;MH Refeições;Vantage;1;130
+2032-02-15;MH Refeições;Rondon R/R;1;0
+2032-02-15;MH Refeições;Elisa Agro;1;494
+2032-02-16;MH Refeições;Grupo Tamburi;1;657
+2032-02-16;MH Refeições;Vantage;1;130
+2032-02-16;MH Refeições;Rondon R/R;1;0
+2032-02-16;MH Refeições;Elisa Agro;1;312
+2032-02-17;MH Refeições;Grupo Tamburi;1;800
+2032-02-17;MH Refeições;Vantage;1;130
+2032-02-17;MH Refeições;Rondon R/R;1;0
+2032-02-17;MH Refeições;Elisa Agro;1;312
+2032-02-18;MH Refeições;Grupo Tamburi;1;743
+2032-02-18;MH Refeições;Vantage;1;162
+2032-02-18;MH Refeições;Rondon R/R;1;26
+2032-02-18;MH Refeições;Elisa Agro;1;364
+2032-02-19;MH Refeições;Grupo Tamburi;1;800
+2032-02-19;MH Refeições;Vantage;1;130
+2032-02-19;MH Refeições;Rondon R/R;1;26
+2032-02-19;MH Refeições;Elisa Agro;1;286
+2032-02-20;MH Refeições;Grupo Tamburi;1;657
+2032-02-20;MH Refeições;Vantage;1;162
+2032-02-20;MH Refeições;Rondon R/R;1;26
+2032-02-20;MH Refeições;Elisa Agro;1;286
+2032-02-21;MH Refeições;Grupo Tamburi;1;629
+2032-02-21;MH Refeições;Vantage;1;130
+2032-02-21;MH Refeições;Rondon R/R;1;0
+2032-02-21;MH Refeições;Elisa Agro;1;390
+2032-02-22;MH Refeições;Grupo Tamburi;1;600
+2032-02-22;MH Refeições;Vantage;1;130
+2032-02-22;MH Refeições;Rondon R/R;1;26
+2032-02-22;MH Refeições;Elisa Agro;1;364
+2032-02-23;MH Refeições;Grupo Tamburi;1;572
+2032-02-23;MH Refeições;Vantage;1;162
+2032-02-23;MH Refeições;Rondon R/R;1;26
+2032-02-23;MH Refeições;Elisa Agro;1;416
+2032-02-24;MH Refeições;Grupo Tamburi;1;686
+2032-02-24;MH Refeições;Vantage;1;162
+2032-02-24;MH Refeições;Rondon R/R;1;26
+2032-02-24;MH Refeições;Elisa Agro;1;364
+2032-02-25;MH Refeições;Grupo Tamburi;1;715
+2032-02-25;MH Refeições;Vantage;1;162
+2032-02-25;MH Refeições;Rondon R/R;1;0
+2032-02-25;MH Refeições;Elisa Agro;1;286
+2032-02-26;MH Refeições;Grupo Tamburi;1;657
+2032-02-26;MH Refeições;Vantage;1;162
+2032-02-26;MH Refeições;Rondon R/R;1;26
+2032-02-26;MH Refeições;Elisa Agro;1;390
+2032-02-27;MH Refeições;Grupo Tamburi;1;686
+2032-02-27;MH Refeições;Vantage;1;162
+2032-02-27;MH Refeições;Rondon R/R;1;0
+2032-02-27;MH Refeições;Elisa Agro;1;260
+2032-02-28;MH Refeições;Grupo Tamburi;1;800
+2032-02-28;MH Refeições;Vantage;1;130
+2032-02-28;MH Refeições;Rondon R/R;1;0
+2032-02-28;MH Refeições;Elisa Agro;1;260
+2032-02-29;MH Refeições;Grupo Tamburi;1;629
+2032-02-29;MH Refeições;Vantage;1;130
+2032-02-29;MH Refeições;Rondon R/R;1;26
+2032-02-29;MH Refeições;Elisa Agro;1;364
+2032-03-01;MH Refeições;Grupo Tamburi;1;616
+2032-03-01;MH Refeições;Vantage;1;125
+2032-03-01;MH Refeições;Rondon R/R;1;20
+2032-03-01;MH Refeições;Elisa Agro;1;340
+2032-03-02;MH Refeições;Grupo Tamburi;1;550
+2032-03-02;MH Refeições;Vantage;1;100
+2032-03-02;MH Refeições;Rondon R/R;1;20
+2032-03-02;MH Refeições;Elisa Agro;1;200
+2032-03-03;MH Refeições;Grupo Tamburi;1;572
+2032-03-03;MH Refeições;Vantage;1;125
+2032-03-03;MH Refeições;Rondon R/R;1;0
+2032-03-03;MH Refeições;Elisa Agro;1;260
+2032-03-04;MH Refeições;Grupo Tamburi;1;484
+2032-03-04;MH Refeições;Vantage;1;125
+2032-03-04;MH Refeições;Rondon R/R;1;20
+2032-03-04;MH Refeições;Elisa Agro;1;200
+2032-03-05;MH Refeições;Grupo Tamburi;1;594
+2032-03-05;MH Refeições;Vantage;1;125
+2032-03-05;MH Refeições;Rondon R/R;1;20
+2032-03-05;MH Refeições;Elisa Agro;1;220
+2032-03-06;MH Refeições;Grupo Tamburi;1;638
+2032-03-06;MH Refeições;Vantage;1;100
+2032-03-06;MH Refeições;Rondon R/R;1;20
+2032-03-06;MH Refeições;Elisa Agro;1;360
+2032-03-07;MH Refeições;Grupo Tamburi;1;594
+2032-03-07;MH Refeições;Vantage;1;100
+2032-03-07;MH Refeições;Rondon R/R;1;20
+2032-03-07;MH Refeições;Elisa Agro;1;200
+2032-03-08;MH Refeições;Grupo Tamburi;1;462
+2032-03-08;MH Refeições;Vantage;1;100
+2032-03-08;MH Refeições;Rondon R/R;1;0
+2032-03-08;MH Refeições;Elisa Agro;1;320
+2032-03-09;MH Refeições;Grupo Tamburi;1;462
+2032-03-09;MH Refeições;Vantage;1;125
+2032-03-09;MH Refeições;Rondon R/R;1;20
+2032-03-09;MH Refeições;Elisa Agro;1;320
+2032-03-10;MH Refeições;Grupo Tamburi;1;506
+2032-03-10;MH Refeições;Vantage;1;125
+2032-03-10;MH Refeições;Rondon R/R;1;0
+2032-03-10;MH Refeições;Elisa Agro;1;340
+2032-03-11;MH Refeições;Grupo Tamburi;1;638
+2032-03-11;MH Refeições;Vantage;1;100
+2032-03-11;MH Refeições;Rondon R/R;1;0
+2032-03-11;MH Refeições;Elisa Agro;1;300
+2032-03-12;MH Refeições;Grupo Tamburi;1;550
+2032-03-12;MH Refeições;Vantage;1;125
+2032-03-12;MH Refeições;Rondon R/R;1;0
+2032-03-12;MH Refeições;Elisa Agro;1;340
+2032-03-13;MH Refeições;Grupo Tamburi;1;506
+2032-03-13;MH Refeições;Vantage;1;125
+2032-03-13;MH Refeições;Rondon R/R;1;20
+2032-03-13;MH Refeições;Elisa Agro;1;320
+2032-03-14;MH Refeições;Grupo Tamburi;1;594
+2032-03-14;MH Refeições;Vantage;1;100
+2032-03-14;MH Refeições;Rondon R/R;1;0
+2032-03-14;MH Refeições;Elisa Agro;1;280
+2032-03-15;MH Refeições;Grupo Tamburi;1;572
+2032-03-15;MH Refeições;Vantage;1;100
+2032-03-15;MH Refeições;Rondon R/R;1;20
+2032-03-15;MH Refeições;Elisa Agro;1;380
+2032-03-16;MH Refeições;Grupo Tamburi;1;638
+2032-03-16;MH Refeições;Vantage;1;125
+2032-03-16;MH Refeições;Rondon R/R;1;20
+2032-03-16;MH Refeições;Elisa Agro;1;320
+2032-03-17;MH Refeições;Grupo Tamburi;1;462
+2032-03-17;MH Refeições;Vantage;1;100
+2032-03-17;MH Refeições;Rondon R/R;1;0
+2032-03-17;MH Refeições;Elisa Agro;1;340
+2032-03-18;MH Refeições;Grupo Tamburi;1;484
+2032-03-18;MH Refeições;Vantage;1;100
+2032-03-18;MH Refeições;Rondon R/R;1;20
+2032-03-18;MH Refeições;Elisa Agro;1;380
+2032-03-19;MH Refeições;Grupo Tamburi;1;506
+2032-03-19;MH Refeições;Vantage;1;100
+2032-03-19;MH Refeições;Rondon R/R;1;20
+2032-03-19;MH Refeições;Elisa Agro;1;300
+2032-03-20;MH Refeições;Grupo Tamburi;1;506
+2032-03-20;MH Refeições;Vantage;1;100
+2032-03-20;MH Refeições;Rondon R/R;1;0
+2032-03-20;MH Refeições;Elisa Agro;1;300
+2032-03-21;MH Refeições;Grupo Tamburi;1;506
+2032-03-21;MH Refeições;Vantage;1;125
+2032-03-21;MH Refeições;Rondon R/R;1;0
+2032-03-21;MH Refeições;Elisa Agro;1;200
+2032-03-22;MH Refeições;Grupo Tamburi;1;638
+2032-03-22;MH Refeições;Vantage;1;100
+2032-03-22;MH Refeições;Rondon R/R;1;20
+2032-03-22;MH Refeições;Elisa Agro;1;300
+2032-03-23;MH Refeições;Grupo Tamburi;1;638
+2032-03-23;MH Refeições;Vantage;1;125
+2032-03-23;MH Refeições;Rondon R/R;1;0
+2032-03-23;MH Refeições;Elisa Agro;1;260
+2032-03-24;MH Refeições;Grupo Tamburi;1;462
+2032-03-24;MH Refeições;Vantage;1;125
+2032-03-24;MH Refeições;Rondon R/R;1;20
+2032-03-24;MH Refeições;Elisa Agro;1;360
+2032-03-25;MH Refeições;Grupo Tamburi;1;484
+2032-03-25;MH Refeições;Vantage;1;125
+2032-03-25;MH Refeições;Rondon R/R;1;20
+2032-03-25;MH Refeições;Elisa Agro;1;280
+2032-03-26;MH Refeições;Grupo Tamburi;1;462
+2032-03-26;MH Refeições;Vantage;1;100
+2032-03-26;MH Refeições;Rondon R/R;1;0
+2032-03-26;MH Refeições;Elisa Agro;1;320
+2032-03-27;MH Refeições;Grupo Tamburi;1;616
+2032-03-27;MH Refeições;Vantage;1;125
+2032-03-27;MH Refeições;Rondon R/R;1;0
+2032-03-27;MH Refeições;Elisa Agro;1;260
+2032-03-28;MH Refeições;Grupo Tamburi;1;484
+2032-03-28;MH Refeições;Vantage;1;100
+2032-03-28;MH Refeições;Rondon R/R;1;20
+2032-03-28;MH Refeições;Elisa Agro;1;320
+2032-03-29;MH Refeições;Grupo Tamburi;1;484
+2032-03-29;MH Refeições;Vantage;1;125
+2032-03-29;MH Refeições;Rondon R/R;1;20
+2032-03-29;MH Refeições;Elisa Agro;1;260
+2032-03-30;MH Refeições;Grupo Tamburi;1;572
+2032-03-30;MH Refeições;Vantage;1;100
+2032-03-30;MH Refeições;Rondon R/R;1;20
+2032-03-30;MH Refeições;Elisa Agro;1;300
+2032-03-31;MH Refeições;Grupo Tamburi;1;462
+2032-03-31;MH Refeições;Vantage;1;100
+2032-03-31;MH Refeições;Rondon R/R;1;20
+2032-03-31;MH Refeições;Elisa Agro;1;280
+2032-04-01;MH Refeições;Grupo Tamburi;1;653
+2032-04-01;MH Refeições;Vantage;1;110
+2032-04-01;MH Refeições;Rondon R/R;1;22
+2032-04-01;MH Refeições;Elisa Agro;1;286
+2032-04-02;MH Refeições;Grupo Tamburi;1;508
+2032-04-02;MH Refeições;Vantage;1;137
+2032-04-02;MH Refeições;Rondon R/R;1;0
+2032-04-02;MH Refeições;Elisa Agro;1;418
+2032-04-03;MH Refeições;Grupo Tamburi;1;677
+2032-04-03;MH Refeições;Vantage;1;110
+2032-04-03;MH Refeições;Rondon R/R;1;22
+2032-04-03;MH Refeições;Elisa Agro;1;264
+2032-04-04;MH Refeições;Grupo Tamburi;1;701
+2032-04-04;MH Refeições;Vantage;1;110
+2032-04-04;MH Refeições;Rondon R/R;1;0
+2032-04-04;MH Refeições;Elisa Agro;1;264
+2032-04-05;MH Refeições;Grupo Tamburi;1;532
+2032-04-05;MH Refeições;Vantage;1;137
+2032-04-05;MH Refeições;Rondon R/R;1;0
+2032-04-05;MH Refeições;Elisa Agro;1;220
+2032-04-06;MH Refeições;Grupo Tamburi;1;532
+2032-04-06;MH Refeições;Vantage;1;110
+2032-04-06;MH Refeições;Rondon R/R;1;0
+2032-04-06;MH Refeições;Elisa Agro;1;220
+2032-04-07;MH Refeições;Grupo Tamburi;1;580
+2032-04-07;MH Refeições;Vantage;1;137
+2032-04-07;MH Refeições;Rondon R/R;1;22
+2032-04-07;MH Refeições;Elisa Agro;1;352
+2032-04-08;MH Refeições;Grupo Tamburi;1;701
+2032-04-08;MH Refeições;Vantage;1;137
+2032-04-08;MH Refeições;Rondon R/R;1;22
+2032-04-08;MH Refeições;Elisa Agro;1;418
+2032-04-09;MH Refeições;Grupo Tamburi;1;677
+2032-04-09;MH Refeições;Vantage;1;137
+2032-04-09;MH Refeições;Rondon R/R;1;22
+2032-04-09;MH Refeições;Elisa Agro;1;352
+2032-04-10;MH Refeições;Grupo Tamburi;1;484
+2032-04-10;MH Refeições;Vantage;1;110
+2032-04-10;MH Refeições;Rondon R/R;1;22
+2032-04-10;MH Refeições;Elisa Agro;1;264
+2032-04-11;MH Refeições;Grupo Tamburi;1;605
+2032-04-11;MH Refeições;Vantage;1;137
+2032-04-11;MH Refeições;Rondon R/R;1;22
+2032-04-11;MH Refeições;Elisa Agro;1;220
+2032-04-12;MH Refeições;Grupo Tamburi;1;508
+2032-04-12;MH Refeições;Vantage;1;110
+2032-04-12;MH Refeições;Rondon R/R;1;0
+2032-04-12;MH Refeições;Elisa Agro;1;352
+2032-04-13;MH Refeições;Grupo Tamburi;1;701
+2032-04-13;MH Refeições;Vantage;1;137
+2032-04-13;MH Refeições;Rondon R/R;1;0
+2032-04-13;MH Refeições;Elisa Agro;1;242
+2032-04-14;MH Refeições;Grupo Tamburi;1;653
+2032-04-14;MH Refeições;Vantage;1;110
+2032-04-14;MH Refeições;Rondon R/R;1;22
+2032-04-14;MH Refeições;Elisa Agro;1;286
+2032-04-15;MH Refeições;Grupo Tamburi;1;580
+2032-04-15;MH Refeições;Vantage;1;110
+2032-04-15;MH Refeições;Rondon R/R;1;0
+2032-04-15;MH Refeições;Elisa Agro;1;242
+2032-04-16;MH Refeições;Grupo Tamburi;1;556
+2032-04-16;MH Refeições;Vantage;1;110
+2032-04-16;MH Refeições;Rondon R/R;1;22
+2032-04-16;MH Refeições;Elisa Agro;1;374
+2032-04-17;MH Refeições;Grupo Tamburi;1;532
+2032-04-17;MH Refeições;Vantage;1;137
+2032-04-17;MH Refeições;Rondon R/R;1;0
+2032-04-17;MH Refeições;Elisa Agro;1;264
+2032-04-18;MH Refeições;Grupo Tamburi;1;508
+2032-04-18;MH Refeições;Vantage;1;110
+2032-04-18;MH Refeições;Rondon R/R;1;0
+2032-04-18;MH Refeições;Elisa Agro;1;330
+2032-04-19;MH Refeições;Grupo Tamburi;1;580
+2032-04-19;MH Refeições;Vantage;1;137
+2032-04-19;MH Refeições;Rondon R/R;1;0
+2032-04-19;MH Refeições;Elisa Agro;1;418
+2032-04-20;MH Refeições;Grupo Tamburi;1;508
+2032-04-20;MH Refeições;Vantage;1;137
+2032-04-20;MH Refeições;Rondon R/R;1;22
+2032-04-20;MH Refeições;Elisa Agro;1;242
+2032-04-21;MH Refeições;Grupo Tamburi;1;484
+2032-04-21;MH Refeições;Vantage;1;110
+2032-04-21;MH Refeições;Rondon R/R;1;0
+2032-04-21;MH Refeições;Elisa Agro;1;396
+2032-04-22;MH Refeições;Grupo Tamburi;1;532
+2032-04-22;MH Refeições;Vantage;1;110
+2032-04-22;MH Refeições;Rondon R/R;1;0
+2032-04-22;MH Refeições;Elisa Agro;1;286
+2032-04-23;MH Refeições;Grupo Tamburi;1;701
+2032-04-23;MH Refeições;Vantage;1;110
+2032-04-23;MH Refeições;Rondon R/R;1;0
+2032-04-23;MH Refeições;Elisa Agro;1;374
+2032-04-24;MH Refeições;Grupo Tamburi;1;629
+2032-04-24;MH Refeições;Vantage;1;110
+2032-04-24;MH Refeições;Rondon R/R;1;22
+2032-04-24;MH Refeições;Elisa Agro;1;308
+2032-04-25;MH Refeições;Grupo Tamburi;1;701
+2032-04-25;MH Refeições;Vantage;1;110
+2032-04-25;MH Refeições;Rondon R/R;1;22
+2032-04-25;MH Refeições;Elisa Agro;1;286
+2032-04-26;MH Refeições;Grupo Tamburi;1;653
+2032-04-26;MH Refeições;Vantage;1;110
+2032-04-26;MH Refeições;Rondon R/R;1;22
+2032-04-26;MH Refeições;Elisa Agro;1;308
+2032-04-27;MH Refeições;Grupo Tamburi;1;653
+2032-04-27;MH Refeições;Vantage;1;110
+2032-04-27;MH Refeições;Rondon R/R;1;22
+2032-04-27;MH Refeições;Elisa Agro;1;352
+2032-04-28;MH Refeições;Grupo Tamburi;1;532
+2032-04-28;MH Refeições;Vantage;1;110
+2032-04-28;MH Refeições;Rondon R/R;1;0
+2032-04-28;MH Refeições;Elisa Agro;1;330
+2032-04-29;MH Refeições;Grupo Tamburi;1;629
+2032-04-29;MH Refeições;Vantage;1;110
+2032-04-29;MH Refeições;Rondon R/R;1;0
+2032-04-29;MH Refeições;Elisa Agro;1;242
+2032-04-30;MH Refeições;Grupo Tamburi;1;580
+2032-04-30;MH Refeições;Vantage;1;137
+2032-04-30;MH Refeições;Rondon R/R;1;0
+2032-04-30;MH Refeições;Elisa Agro;1;330
+2032-05-01;MH Refeições;Grupo Tamburi;1;629
+2032-05-01;MH Refeições;Vantage;1;110
+2032-05-01;MH Refeições;Rondon R/R;1;22
+2032-05-01;MH Refeições;Elisa Agro;1;220
+2032-05-02;MH Refeições;Grupo Tamburi;1;677
+2032-05-02;MH Refeições;Vantage;1;137
+2032-05-02;MH Refeições;Rondon R/R;1;22
+2032-05-02;MH Refeições;Elisa Agro;1;352
+2032-05-03;MH Refeições;Grupo Tamburi;1;532
+2032-05-03;MH Refeições;Vantage;1;110
+2032-05-03;MH Refeições;Rondon R/R;1;22
+2032-05-03;MH Refeições;Elisa Agro;1;330
+2032-05-04;MH Refeições;Grupo Tamburi;1;484
+2032-05-04;MH Refeições;Vantage;1;110
+2032-05-04;MH Refeições;Rondon R/R;1;22
+2032-05-04;MH Refeições;Elisa Agro;1;330
+2032-05-05;MH Refeições;Grupo Tamburi;1;701
+2032-05-05;MH Refeições;Vantage;1;137
+2032-05-05;MH Refeições;Rondon R/R;1;0
+2032-05-05;MH Refeições;Elisa Agro;1;418
+2032-05-06;MH Refeições;Grupo Tamburi;1;653
+2032-05-06;MH Refeições;Vantage;1;137
+2032-05-06;MH Refeições;Rondon R/R;1;22
+2032-05-06;MH Refeições;Elisa Agro;1;396
+2032-05-07;MH Refeições;Grupo Tamburi;1;532
+2032-05-07;MH Refeições;Vantage;1;137
+2032-05-07;MH Refeições;Rondon R/R;1;0
+2032-05-07;MH Refeições;Elisa Agro;1;352
+2032-05-08;MH Refeições;Grupo Tamburi;1;484
+2032-05-08;MH Refeições;Vantage;1;110
+2032-05-08;MH Refeições;Rondon R/R;1;0
+2032-05-08;MH Refeições;Elisa Agro;1;220
+2032-05-09;MH Refeições;Grupo Tamburi;1;629
+2032-05-09;MH Refeições;Vantage;1;137
+2032-05-09;MH Refeições;Rondon R/R;1;0
+2032-05-09;MH Refeições;Elisa Agro;1;396
+2032-05-10;MH Refeições;Grupo Tamburi;1;580
+2032-05-10;MH Refeições;Vantage;1;137
+2032-05-10;MH Refeições;Rondon R/R;1;0
+2032-05-10;MH Refeições;Elisa Agro;1;308
+2032-05-11;MH Refeições;Grupo Tamburi;1;580
+2032-05-11;MH Refeições;Vantage;1;137
+2032-05-11;MH Refeições;Rondon R/R;1;0
+2032-05-11;MH Refeições;Elisa Agro;1;352
+2032-05-12;MH Refeições;Grupo Tamburi;1;653
+2032-05-12;MH Refeições;Vantage;1;110
+2032-05-12;MH Refeições;Rondon R/R;1;0
+2032-05-12;MH Refeições;Elisa Agro;1;264
+2032-05-13;MH Refeições;Grupo Tamburi;1;701
+2032-05-13;MH Refeições;Vantage;1;137
+2032-05-13;MH Refeições;Rondon R/R;1;0
+2032-05-13;MH Refeições;Elisa Agro;1;308
+2032-05-14;MH Refeições;Grupo Tamburi;1;629
+2032-05-14;MH Refeições;Vantage;1;110
+2032-05-14;MH Refeições;Rondon R/R;1;22
+2032-05-14;MH Refeições;Elisa Agro;1;220
+2032-05-15;MH Refeições;Grupo Tamburi;1;701
+2032-05-15;MH Refeições;Vantage;1;137
+2032-05-15;MH Refeições;Rondon R/R;1;22
+2032-05-15;MH Refeições;Elisa Agro;1;242
+2032-05-16;MH Refeições;Grupo Tamburi;1;508
+2032-05-16;MH Refeições;Vantage;1;137
+2032-05-16;MH Refeições;Rondon R/R;1;22
+2032-05-16;MH Refeições;Elisa Agro;1;352
+2032-05-17;MH Refeições;Grupo Tamburi;1;508
+2032-05-17;MH Refeições;Vantage;1;137
+2032-05-17;MH Refeições;Rondon R/R;1;22
+2032-05-17;MH Refeições;Elisa Agro;1;242
+2032-05-18;MH Refeições;Grupo Tamburi;1;605
+2032-05-18;MH Refeições;Vantage;1;110
+2032-05-18;MH Refeições;Rondon R/R;1;22
+2032-05-18;MH Refeições;Elisa Agro;1;330
+2032-05-19;MH Refeições;Grupo Tamburi;1;556
+2032-05-19;MH Refeições;Vantage;1;137
+2032-05-19;MH Refeições;Rondon R/R;1;22
+2032-05-19;MH Refeições;Elisa Agro;1;220
+2032-05-20;MH Refeições;Grupo Tamburi;1;677
+2032-05-20;MH Refeições;Vantage;1;137
+2032-05-20;MH Refeições;Rondon R/R;1;0
+2032-05-20;MH Refeições;Elisa Agro;1;308
+2032-05-21;MH Refeições;Grupo Tamburi;1;653
+2032-05-21;MH Refeições;Vantage;1;110
+2032-05-21;MH Refeições;Rondon R/R;1;22
+2032-05-21;MH Refeições;Elisa Agro;1;396
+2032-05-22;MH Refeições;Grupo Tamburi;1;532
+2032-05-22;MH Refeições;Vantage;1;110
+2032-05-22;MH Refeições;Rondon R/R;1;0
+2032-05-22;MH Refeições;Elisa Agro;1;264
+2032-05-23;MH Refeições;Grupo Tamburi;1;556
+2032-05-23;MH Refeições;Vantage;1;110
+2032-05-23;MH Refeições;Rondon R/R;1;0
+2032-05-23;MH Refeições;Elisa Agro;1;396
+2032-05-24;MH Refeições;Grupo Tamburi;1;701
+2032-05-24;MH Refeições;Vantage;1;110
+2032-05-24;MH Refeições;Rondon R/R;1;22
+2032-05-24;MH Refeições;Elisa Agro;1;374
+2032-05-25;MH Refeições;Grupo Tamburi;1;629
+2032-05-25;MH Refeições;Vantage;1;137
+2032-05-25;MH Refeições;Rondon R/R;1;0
+2032-05-25;MH Refeições;Elisa Agro;1;330
+2032-05-26;MH Refeições;Grupo Tamburi;1;653
+2032-05-26;MH Refeições;Vantage;1;110
+2032-05-26;MH Refeições;Rondon R/R;1;0
+2032-05-26;MH Refeições;Elisa Agro;1;308
+2032-05-27;MH Refeições;Grupo Tamburi;1;677
+2032-05-27;MH Refeições;Vantage;1;137
+2032-05-27;MH Refeições;Rondon R/R;1;0
+2032-05-27;MH Refeições;Elisa Agro;1;396
+2032-05-28;MH Refeições;Grupo Tamburi;1;508
+2032-05-28;MH Refeições;Vantage;1;137
+2032-05-28;MH Refeições;Rondon R/R;1;22
+2032-05-28;MH Refeições;Elisa Agro;1;396
+2032-05-29;MH Refeições;Grupo Tamburi;1;653
+2032-05-29;MH Refeições;Vantage;1;110
+2032-05-29;MH Refeições;Rondon R/R;1;22
+2032-05-29;MH Refeições;Elisa Agro;1;308
+2032-05-30;MH Refeições;Grupo Tamburi;1;605
+2032-05-30;MH Refeições;Vantage;1;137
+2032-05-30;MH Refeições;Rondon R/R;1;22
+2032-05-30;MH Refeições;Elisa Agro;1;286
+2032-05-31;MH Refeições;Grupo Tamburi;1;653
+2032-05-31;MH Refeições;Vantage;1;110
+2032-05-31;MH Refeições;Rondon R/R;1;0
+2032-05-31;MH Refeições;Elisa Agro;1;308
+2032-06-01;MH Refeições;Grupo Tamburi;1;554
+2032-06-01;MH Refeições;Vantage;1;150
+2032-06-01;MH Refeições;Rondon R/R;1;0
+2032-06-01;MH Refeições;Elisa Agro;1;336
+2032-06-02;MH Refeições;Grupo Tamburi;1;712
+2032-06-02;MH Refeições;Vantage;1;150
+2032-06-02;MH Refeições;Rondon R/R;1;0
+2032-06-02;MH Refeições;Elisa Agro;1;384
+2032-06-03;MH Refeições;Grupo Tamburi;1;765
+2032-06-03;MH Refeições;Vantage;1;120
+2032-06-03;MH Refeições;Rondon R/R;1;24
+2032-06-03;MH Refeições;Elisa Agro;1;456
+2032-06-04;MH Refeições;Grupo Tamburi;1;633
+2032-06-04;MH Refeições;Vantage;1;150
+2032-06-04;MH Refeições;Rondon R/R;1;24
+2032-06-04;MH Refeições;Elisa Agro;1;432
+2032-06-05;MH Refeições;Grupo Tamburi;1;660
+2032-06-05;MH Refeições;Vantage;1;120
+2032-06-05;MH Refeições;Rondon R/R;1;0
+2032-06-05;MH Refeições;Elisa Agro;1;336
+2032-06-06;MH Refeições;Grupo Tamburi;1;528
+2032-06-06;MH Refeições;Vantage;1;120
+2032-06-06;MH Refeições;Rondon R/R;1;24
+2032-06-06;MH Refeições;Elisa Agro;1;384
+2032-06-07;MH Refeições;Grupo Tamburi;1;765
+2032-06-07;MH Refeições;Vantage;1;150
+2032-06-07;MH Refeições;Rondon R/R;1;24
+2032-06-07;MH Refeições;Elisa Agro;1;312
+2032-06-08;MH Refeições;Grupo Tamburi;1;739
+2032-06-08;MH Refeições;Vantage;1;150
+2032-06-08;MH Refeições;Rondon R/R;1;0
+2032-06-08;MH Refeições;Elisa Agro;1;384
+2032-06-09;MH Refeições;Grupo Tamburi;1;739
+2032-06-09;MH Refeições;Vantage;1;120
+2032-06-09;MH Refeições;Rondon R/R;1;0
+2032-06-09;MH Refeições;Elisa Agro;1;432
+2032-06-10;MH Refeições;Grupo Tamburi;1;765
+2032-06-10;MH Refeições;Vantage;1;150
+2032-06-10;MH Refeições;Rondon R/R;1;24
+2032-06-10;MH Refeições;Elisa Agro;1;408
+2032-06-11;MH Refeições;Grupo Tamburi;1;712
+2032-06-11;MH Refeições;Vantage;1;150
+2032-06-11;MH Refeições;Rondon R/R;1;0
+2032-06-11;MH Refeições;Elisa Agro;1;384
+2032-06-12;MH Refeições;Grupo Tamburi;1;528
+2032-06-12;MH Refeições;Vantage;1;120
+2032-06-12;MH Refeições;Rondon R/R;1;0
+2032-06-12;MH Refeições;Elisa Agro;1;456
+2032-06-13;MH Refeições;Grupo Tamburi;1;607
+2032-06-13;MH Refeições;Vantage;1;150
+2032-06-13;MH Refeições;Rondon R/R;1;24
+2032-06-13;MH Refeições;Elisa Agro;1;408
+2032-06-14;MH Refeições;Grupo Tamburi;1;580
+2032-06-14;MH Refeições;Vantage;1;120
+2032-06-14;MH Refeições;Rondon R/R;1;0
+2032-06-14;MH Refeições;Elisa Agro;1;336
+2032-06-15;MH Refeições;Grupo Tamburi;1;554
+2032-06-15;MH Refeições;Vantage;1;150
+2032-06-15;MH Refeições;Rondon R/R;1;24
+2032-06-15;MH Refeições;Elisa Agro;1;336
+2032-06-16;MH Refeições;Grupo Tamburi;1;765
+2032-06-16;MH Refeições;Vantage;1;150
+2032-06-16;MH Refeições;Rondon R/R;1;24
+2032-06-16;MH Refeições;Elisa Agro;1;408
+2032-06-17;MH Refeições;Grupo Tamburi;1;633
+2032-06-17;MH Refeições;Vantage;1;120
+2032-06-17;MH Refeições;Rondon R/R;1;24
+2032-06-17;MH Refeições;Elisa Agro;1;360
+2032-06-18;MH Refeições;Grupo Tamburi;1;633
+2032-06-18;MH Refeições;Vantage;1;150
+2032-06-18;MH Refeições;Rondon R/R;1;0
+2032-06-18;MH Refeições;Elisa Agro;1;240
+2032-06-19;MH Refeições;Grupo Tamburi;1;580
+2032-06-19;MH Refeições;Vantage;1;150
+2032-06-19;MH Refeições;Rondon R/R;1;0
+2032-06-19;MH Refeições;Elisa Agro;1;288
+2032-06-20;MH Refeições;Grupo Tamburi;1;660
+2032-06-20;MH Refeições;Vantage;1;150
+2032-06-20;MH Refeições;Rondon R/R;1;0
+2032-06-20;MH Refeições;Elisa Agro;1;336
+2032-06-21;MH Refeições;Grupo Tamburi;1;607
+2032-06-21;MH Refeições;Vantage;1;120
+2032-06-21;MH Refeições;Rondon R/R;1;24
+2032-06-21;MH Refeições;Elisa Agro;1;360
+2032-06-22;MH Refeições;Grupo Tamburi;1;660
+2032-06-22;MH Refeições;Vantage;1;150
+2032-06-22;MH Refeições;Rondon R/R;1;24
+2032-06-22;MH Refeições;Elisa Agro;1;288
+2032-06-23;MH Refeições;Grupo Tamburi;1;660
+2032-06-23;MH Refeições;Vantage;1;150
+2032-06-23;MH Refeições;Rondon R/R;1;24
+2032-06-23;MH Refeições;Elisa Agro;1;336
+2032-06-24;MH Refeições;Grupo Tamburi;1;580
+2032-06-24;MH Refeições;Vantage;1;120
+2032-06-24;MH Refeições;Rondon R/R;1;0
+2032-06-24;MH Refeições;Elisa Agro;1;264
+2032-06-25;MH Refeições;Grupo Tamburi;1;765
+2032-06-25;MH Refeições;Vantage;1;150
+2032-06-25;MH Refeições;Rondon R/R;1;24
+2032-06-25;MH Refeições;Elisa Agro;1;360
+2032-06-26;MH Refeições;Grupo Tamburi;1;712
+2032-06-26;MH Refeições;Vantage;1;120
+2032-06-26;MH Refeições;Rondon R/R;1;0
+2032-06-26;MH Refeições;Elisa Agro;1;432
+2032-06-27;MH Refeições;Grupo Tamburi;1;528
+2032-06-27;MH Refeições;Vantage;1;150
+2032-06-27;MH Refeições;Rondon R/R;1;0
+2032-06-27;MH Refeições;Elisa Agro;1;264
+2032-06-28;MH Refeições;Grupo Tamburi;1;633
+2032-06-28;MH Refeições;Vantage;1;150
+2032-06-28;MH Refeições;Rondon R/R;1;24
+2032-06-28;MH Refeições;Elisa Agro;1;456
+2032-06-29;MH Refeições;Grupo Tamburi;1;739
+2032-06-29;MH Refeições;Vantage;1;150
+2032-06-29;MH Refeições;Rondon R/R;1;24
+2032-06-29;MH Refeições;Elisa Agro;1;408
+2032-06-30;MH Refeições;Grupo Tamburi;1;739
+2032-06-30;MH Refeições;Vantage;1;150
+2032-06-30;MH Refeições;Rondon R/R;1;0
+2032-06-30;MH Refeições;Elisa Agro;1;408
+2032-07-01;MH Refeições;Grupo Tamburi;1;893
+2032-07-01;MH Refeições;Vantage;1;140
+2032-07-01;MH Refeições;Rondon R/R;1;0
+2032-07-01;MH Refeições;Elisa Agro;1;475
+2032-07-02;MH Refeições;Grupo Tamburi;1;800
+2032-07-02;MH Refeições;Vantage;1;175
+2032-07-02;MH Refeições;Rondon R/R;1;28
+2032-07-02;MH Refeições;Elisa Agro;1;532
+2032-07-03;MH Refeições;Grupo Tamburi;1;739
+2032-07-03;MH Refeições;Vantage;1;140
+2032-07-03;MH Refeições;Rondon R/R;1;28
+2032-07-03;MH Refeições;Elisa Agro;1;308
+2032-07-04;MH Refeições;Grupo Tamburi;1;616
+2032-07-04;MH Refeições;Vantage;1;175
+2032-07-04;MH Refeições;Rondon R/R;1;28
+2032-07-04;MH Refeições;Elisa Agro;1;420
+2032-07-05;MH Refeições;Grupo Tamburi;1;616
+2032-07-05;MH Refeições;Vantage;1;175
+2032-07-05;MH Refeições;Rondon R/R;1;28
+2032-07-05;MH Refeições;Elisa Agro;1;336
+2032-07-06;MH Refeições;Grupo Tamburi;1;893
+2032-07-06;MH Refeições;Vantage;1;175
+2032-07-06;MH Refeições;Rondon R/R;1;28
+2032-07-06;MH Refeições;Elisa Agro;1;308
+2032-07-07;MH Refeições;Grupo Tamburi;1;862
+2032-07-07;MH Refeições;Vantage;1;140
+2032-07-07;MH Refeições;Rondon R/R;1;28
+2032-07-07;MH Refeições;Elisa Agro;1;475
+2032-07-08;MH Refeições;Grupo Tamburi;1;739
+2032-07-08;MH Refeições;Vantage;1;175
+2032-07-08;MH Refeições;Rondon R/R;1;28
+2032-07-08;MH Refeições;Elisa Agro;1;364
+2032-07-09;MH Refeições;Grupo Tamburi;1;800
+2032-07-09;MH Refeições;Vantage;1;175
+2032-07-09;MH Refeições;Rondon R/R;1;28
+2032-07-09;MH Refeições;Elisa Agro;1;280
+2032-07-10;MH Refeições;Grupo Tamburi;1;708
+2032-07-10;MH Refeições;Vantage;1;175
+2032-07-10;MH Refeições;Rondon R/R;1;28
+2032-07-10;MH Refeições;Elisa Agro;1;420
+2032-07-11;MH Refeições;Grupo Tamburi;1;893
+2032-07-11;MH Refeições;Vantage;1;140
+2032-07-11;MH Refeições;Rondon R/R;1;0
+2032-07-11;MH Refeições;Elisa Agro;1;308
+2032-07-12;MH Refeições;Grupo Tamburi;1;708
+2032-07-12;MH Refeições;Vantage;1;175
+2032-07-12;MH Refeições;Rondon R/R;1;0
+2032-07-12;MH Refeições;Elisa Agro;1;448
+2032-07-13;MH Refeições;Grupo Tamburi;1;800
+2032-07-13;MH Refeições;Vantage;1;175
+2032-07-13;MH Refeições;Rondon R/R;1;28
+2032-07-13;MH Refeições;Elisa Agro;1;280
+2032-07-14;MH Refeições;Grupo Tamburi;1;770
+2032-07-14;MH Refeições;Vantage;1;140
+2032-07-14;MH Refeições;Rondon R/R;1;28
+2032-07-14;MH Refeições;Elisa Agro;1;392
+2032-07-15;MH Refeições;Grupo Tamburi;1;646
+2032-07-15;MH Refeições;Vantage;1;140
+2032-07-15;MH Refeições;Rondon R/R;1;0
+2032-07-15;MH Refeições;Elisa Agro;1;392
+2032-07-16;MH Refeições;Grupo Tamburi;1;770
+2032-07-16;MH Refeições;Vantage;1;140
+2032-07-16;MH Refeições;Rondon R/R;1;0
+2032-07-16;MH Refeições;Elisa Agro;1;420
+2032-07-17;MH Refeições;Grupo Tamburi;1;616
+2032-07-17;MH Refeições;Vantage;1;140
+2032-07-17;MH Refeições;Rondon R/R;1;28
+2032-07-17;MH Refeições;Elisa Agro;1;308
+2032-07-18;MH Refeições;Grupo Tamburi;1;677
+2032-07-18;MH Refeições;Vantage;1;140
+2032-07-18;MH Refeições;Rondon R/R;1;28
+2032-07-18;MH Refeições;Elisa Agro;1;336
+2032-07-19;MH Refeições;Grupo Tamburi;1;831
+2032-07-19;MH Refeições;Vantage;1;175
+2032-07-19;MH Refeições;Rondon R/R;1;0
+2032-07-19;MH Refeições;Elisa Agro;1;336
+2032-07-20;MH Refeições;Grupo Tamburi;1;770
+2032-07-20;MH Refeições;Vantage;1;140
+2032-07-20;MH Refeições;Rondon R/R;1;0
+2032-07-20;MH Refeições;Elisa Agro;1;448
+2032-07-21;MH Refeições;Grupo Tamburi;1;831
+2032-07-21;MH Refeições;Vantage;1;175
+2032-07-21;MH Refeições;Rondon R/R;1;28
+2032-07-21;MH Refeições;Elisa Agro;1;364
+2032-07-22;MH Refeições;Grupo Tamburi;1;677
+2032-07-22;MH Refeições;Vantage;1;140
+2032-07-22;MH Refeições;Rondon R/R;1;28
+2032-07-22;MH Refeições;Elisa Agro;1;448
+2032-07-23;MH Refeições;Grupo Tamburi;1;893
+2032-07-23;MH Refeições;Vantage;1;140
+2032-07-23;MH Refeições;Rondon R/R;1;0
+2032-07-23;MH Refeições;Elisa Agro;1;475
+2032-07-24;MH Refeições;Grupo Tamburi;1;770
+2032-07-24;MH Refeições;Vantage;1;175
+2032-07-24;MH Refeições;Rondon R/R;1;0
+2032-07-24;MH Refeições;Elisa Agro;1;280
+2032-07-25;MH Refeições;Grupo Tamburi;1;616
+2032-07-25;MH Refeições;Vantage;1;140
+2032-07-25;MH Refeições;Rondon R/R;1;0
+2032-07-25;MH Refeições;Elisa Agro;1;364
+2032-07-26;MH Refeições;Grupo Tamburi;1;831
+2032-07-26;MH Refeições;Vantage;1;175
+2032-07-26;MH Refeições;Rondon R/R;1;0
+2032-07-26;MH Refeições;Elisa Agro;1;503
+2032-07-27;MH Refeições;Grupo Tamburi;1;739
+2032-07-27;MH Refeições;Vantage;1;140
+2032-07-27;MH Refeições;Rondon R/R;1;0
+2032-07-27;MH Refeições;Elisa Agro;1;475
+2032-07-28;MH Refeições;Grupo Tamburi;1;739
+2032-07-28;MH Refeições;Vantage;1;140
+2032-07-28;MH Refeições;Rondon R/R;1;28
+2032-07-28;MH Refeições;Elisa Agro;1;475
+2032-07-29;MH Refeições;Grupo Tamburi;1;893
+2032-07-29;MH Refeições;Vantage;1;175
+2032-07-29;MH Refeições;Rondon R/R;1;0
+2032-07-29;MH Refeições;Elisa Agro;1;392
+2032-07-30;MH Refeições;Grupo Tamburi;1;893
+2032-07-30;MH Refeições;Vantage;1;140
+2032-07-30;MH Refeições;Rondon R/R;1;0
+2032-07-30;MH Refeições;Elisa Agro;1;280
+2032-07-31;MH Refeições;Grupo Tamburi;1;770
+2032-07-31;MH Refeições;Vantage;1;140
+2032-07-31;MH Refeições;Rondon R/R;1;0
+2032-07-31;MH Refeições;Elisa Agro;1;280
+2032-08-01;MH Refeições;Grupo Tamburi;1;629
+2032-08-01;MH Refeições;Vantage;1;162
+2032-08-01;MH Refeições;Rondon R/R;1;0
+2032-08-01;MH Refeições;Elisa Agro;1;364
+2032-08-02;MH Refeições;Grupo Tamburi;1;686
+2032-08-02;MH Refeições;Vantage;1;130
+2032-08-02;MH Refeições;Rondon R/R;1;26
+2032-08-02;MH Refeições;Elisa Agro;1;286
+2032-08-03;MH Refeições;Grupo Tamburi;1;572
+2032-08-03;MH Refeições;Vantage;1;162
+2032-08-03;MH Refeições;Rondon R/R;1;0
+2032-08-03;MH Refeições;Elisa Agro;1;338
+2032-08-04;MH Refeições;Grupo Tamburi;1;800
+2032-08-04;MH Refeições;Vantage;1;130
+2032-08-04;MH Refeições;Rondon R/R;1;0
+2032-08-04;MH Refeições;Elisa Agro;1;364
+2032-08-05;MH Refeições;Grupo Tamburi;1;572
+2032-08-05;MH Refeições;Vantage;1;162
+2032-08-05;MH Refeições;Rondon R/R;1;26
+2032-08-05;MH Refeições;Elisa Agro;1;312
+2032-08-06;MH Refeições;Grupo Tamburi;1;715
+2032-08-06;MH Refeições;Vantage;1;130
+2032-08-06;MH Refeições;Rondon R/R;1;0
+2032-08-06;MH Refeições;Elisa Agro;1;390
+2032-08-07;MH Refeições;Grupo Tamburi;1;572
+2032-08-07;MH Refeições;Vantage;1;130
+2032-08-07;MH Refeições;Rondon R/R;1;0
+2032-08-07;MH Refeições;Elisa Agro;1;312
+2032-08-08;MH Refeições;Grupo Tamburi;1;715
+2032-08-08;MH Refeições;Vantage;1;130
+2032-08-08;MH Refeições;Rondon R/R;1;26
+2032-08-08;MH Refeições;Elisa Agro;1;338
+2032-08-09;MH Refeições;Grupo Tamburi;1;657
+2032-08-09;MH Refeições;Vantage;1;130
+2032-08-09;MH Refeições;Rondon R/R;1;26
+2032-08-09;MH Refeições;Elisa Agro;1;494
+2032-08-10;MH Refeições;Grupo Tamburi;1;657
+2032-08-10;MH Refeições;Vantage;1;162
+2032-08-10;MH Refeições;Rondon R/R;1;0
+2032-08-10;MH Refeições;Elisa Agro;1;286
+2032-08-11;MH Refeições;Grupo Tamburi;1;743
+2032-08-11;MH Refeições;Vantage;1;162
+2032-08-11;MH Refeições;Rondon R/R;1;0
+2032-08-11;MH Refeições;Elisa Agro;1;260
+2032-08-12;MH Refeições;Grupo Tamburi;1;657
+2032-08-12;MH Refeições;Vantage;1;130
+2032-08-12;MH Refeições;Rondon R/R;1;26
+2032-08-12;MH Refeições;Elisa Agro;1;364
+2032-08-13;MH Refeições;Grupo Tamburi;1;772
+2032-08-13;MH Refeições;Vantage;1;162
+2032-08-13;MH Refeições;Rondon R/R;1;26
+2032-08-13;MH Refeições;Elisa Agro;1;416
+2032-08-14;MH Refeições;Grupo Tamburi;1;800
+2032-08-14;MH Refeições;Vantage;1;162
+2032-08-14;MH Refeições;Rondon R/R;1;0
+2032-08-14;MH Refeições;Elisa Agro;1;286
+2032-08-15;MH Refeições;Grupo Tamburi;1;829
+2032-08-15;MH Refeições;Vantage;1;162
+2032-08-15;MH Refeições;Rondon R/R;1;26
+2032-08-15;MH Refeições;Elisa Agro;1;260
+2032-08-16;MH Refeições;Grupo Tamburi;1;686
+2032-08-16;MH Refeições;Vantage;1;130
+2032-08-16;MH Refeições;Rondon R/R;1;0
+2032-08-16;MH Refeições;Elisa Agro;1;260
+2032-08-17;MH Refeições;Grupo Tamburi;1;829
+2032-08-17;MH Refeições;Vantage;1;162
+2032-08-17;MH Refeições;Rondon R/R;1;0
+2032-08-17;MH Refeições;Elisa Agro;1;338
+2032-08-18;MH Refeições;Grupo Tamburi;1;800
+2032-08-18;MH Refeições;Vantage;1;162
+2032-08-18;MH Refeições;Rondon R/R;1;26
+2032-08-18;MH Refeições;Elisa Agro;1;364
+2032-08-19;MH Refeições;Grupo Tamburi;1;715
+2032-08-19;MH Refeições;Vantage;1;162
+2032-08-19;MH Refeições;Rondon R/R;1;0
+2032-08-19;MH Refeições;Elisa Agro;1;312
+2032-08-20;MH Refeições;Grupo Tamburi;1;572
+2032-08-20;MH Refeições;Vantage;1;162
+2032-08-20;MH Refeições;Rondon R/R;1;26
+2032-08-20;MH Refeições;Elisa Agro;1;338
+2032-08-21;MH Refeições;Grupo Tamburi;1;743
+2032-08-21;MH Refeições;Vantage;1;162
+2032-08-21;MH Refeições;Rondon R/R;1;26
+2032-08-21;MH Refeições;Elisa Agro;1;468
+2032-08-22;MH Refeições;Grupo Tamburi;1;829
+2032-08-22;MH Refeições;Vantage;1;130
+2032-08-22;MH Refeições;Rondon R/R;1;26
+2032-08-22;MH Refeições;Elisa Agro;1;442
+2032-08-23;MH Refeições;Grupo Tamburi;1;800
+2032-08-23;MH Refeições;Vantage;1;130
+2032-08-23;MH Refeições;Rondon R/R;1;26
+2032-08-23;MH Refeições;Elisa Agro;1;338
+2032-08-24;MH Refeições;Grupo Tamburi;1;572
+2032-08-24;MH Refeições;Vantage;1;130
+2032-08-24;MH Refeições;Rondon R/R;1;26
+2032-08-24;MH Refeições;Elisa Agro;1;494
+2032-08-25;MH Refeições;Grupo Tamburi;1;657
+2032-08-25;MH Refeições;Vantage;1;162
+2032-08-25;MH Refeições;Rondon R/R;1;26
+2032-08-25;MH Refeições;Elisa Agro;1;338
+2032-08-26;MH Refeições;Grupo Tamburi;1;715
+2032-08-26;MH Refeições;Vantage;1;162
+2032-08-26;MH Refeições;Rondon R/R;1;26
+2032-08-26;MH Refeições;Elisa Agro;1;364
+2032-08-27;MH Refeições;Grupo Tamburi;1;743
+2032-08-27;MH Refeições;Vantage;1;162
+2032-08-27;MH Refeições;Rondon R/R;1;0
+2032-08-27;MH Refeições;Elisa Agro;1;390
+2032-08-28;MH Refeições;Grupo Tamburi;1;772
+2032-08-28;MH Refeições;Vantage;1;162
+2032-08-28;MH Refeições;Rondon R/R;1;0
+2032-08-28;MH Refeições;Elisa Agro;1;364
+2032-08-29;MH Refeições;Grupo Tamburi;1;800
+2032-08-29;MH Refeições;Vantage;1;162
+2032-08-29;MH Refeições;Rondon R/R;1;0
+2032-08-29;MH Refeições;Elisa Agro;1;312
+2032-08-30;MH Refeições;Grupo Tamburi;1;715
+2032-08-30;MH Refeições;Vantage;1;130
+2032-08-30;MH Refeições;Rondon R/R;1;0
+2032-08-30;MH Refeições;Elisa Agro;1;338
+2032-08-31;MH Refeições;Grupo Tamburi;1;600
+2032-08-31;MH Refeições;Vantage;1;162
+2032-08-31;MH Refeições;Rondon R/R;1;0
+2032-08-31;MH Refeições;Elisa Agro;1;416
+2032-09-01;MH Refeições;Grupo Tamburi;1;800
+2032-09-01;MH Refeições;Vantage;1;130
+2032-09-01;MH Refeições;Rondon R/R;1;26
+2032-09-01;MH Refeições;Elisa Agro;1;312
+2032-09-02;MH Refeições;Grupo Tamburi;1;600
+2032-09-02;MH Refeições;Vantage;1;130
+2032-09-02;MH Refeições;Rondon R/R;1;26
+2032-09-02;MH Refeições;Elisa Agro;1;286
+2032-09-03;MH Refeições;Grupo Tamburi;1;629
+2032-09-03;MH Refeições;Vantage;1;130
+2032-09-03;MH Refeições;Rondon R/R;1;26
+2032-09-03;MH Refeições;Elisa Agro;1;260
+2032-09-04;MH Refeições;Grupo Tamburi;1;629
+2032-09-04;MH Refeições;Vantage;1;162
+2032-09-04;MH Refeições;Rondon R/R;1;26
+2032-09-04;MH Refeições;Elisa Agro;1;364
+2032-09-05;MH Refeições;Grupo Tamburi;1;657
+2032-09-05;MH Refeições;Vantage;1;162
+2032-09-05;MH Refeições;Rondon R/R;1;0
+2032-09-05;MH Refeições;Elisa Agro;1;442
+2032-09-06;MH Refeições;Grupo Tamburi;1;715
+2032-09-06;MH Refeições;Vantage;1;162
+2032-09-06;MH Refeições;Rondon R/R;1;26
+2032-09-06;MH Refeições;Elisa Agro;1;260
+2032-09-07;MH Refeições;Grupo Tamburi;1;743
+2032-09-07;MH Refeições;Vantage;1;162
+2032-09-07;MH Refeições;Rondon R/R;1;0
+2032-09-07;MH Refeições;Elisa Agro;1;260
+2032-09-08;MH Refeições;Grupo Tamburi;1;715
+2032-09-08;MH Refeições;Vantage;1;130
+2032-09-08;MH Refeições;Rondon R/R;1;26
+2032-09-08;MH Refeições;Elisa Agro;1;286
+2032-09-09;MH Refeições;Grupo Tamburi;1;772
+2032-09-09;MH Refeições;Vantage;1;130
+2032-09-09;MH Refeições;Rondon R/R;1;0
+2032-09-09;MH Refeições;Elisa Agro;1;260
+2032-09-10;MH Refeições;Grupo Tamburi;1;572
+2032-09-10;MH Refeições;Vantage;1;162
+2032-09-10;MH Refeições;Rondon R/R;1;0
+2032-09-10;MH Refeições;Elisa Agro;1;416
+2032-09-11;MH Refeições;Grupo Tamburi;1;772
+2032-09-11;MH Refeições;Vantage;1;162
+2032-09-11;MH Refeições;Rondon R/R;1;0
+2032-09-11;MH Refeições;Elisa Agro;1;338
+2032-09-12;MH Refeições;Grupo Tamburi;1;629
+2032-09-12;MH Refeições;Vantage;1;130
+2032-09-12;MH Refeições;Rondon R/R;1;0
+2032-09-12;MH Refeições;Elisa Agro;1;494
+2032-09-13;MH Refeições;Grupo Tamburi;1;800
+2032-09-13;MH Refeições;Vantage;1;162
+2032-09-13;MH Refeições;Rondon R/R;1;0
+2032-09-13;MH Refeições;Elisa Agro;1;338
+2032-09-14;MH Refeições;Grupo Tamburi;1;772
+2032-09-14;MH Refeições;Vantage;1;130
+2032-09-14;MH Refeições;Rondon R/R;1;26
+2032-09-14;MH Refeições;Elisa Agro;1;468
+2032-09-15;MH Refeições;Grupo Tamburi;1;715
+2032-09-15;MH Refeições;Vantage;1;162
+2032-09-15;MH Refeições;Rondon R/R;1;26
+2032-09-15;MH Refeições;Elisa Agro;1;442
+2032-09-16;MH Refeições;Grupo Tamburi;1;829
+2032-09-16;MH Refeições;Vantage;1;162
+2032-09-16;MH Refeições;Rondon R/R;1;0
+2032-09-16;MH Refeições;Elisa Agro;1;442
+2032-09-17;MH Refeições;Grupo Tamburi;1;715
+2032-09-17;MH Refeições;Vantage;1;162
+2032-09-17;MH Refeições;Rondon R/R;1;0
+2032-09-17;MH Refeições;Elisa Agro;1;494
+2032-09-18;MH Refeições;Grupo Tamburi;1;800
+2032-09-18;MH Refeições;Vantage;1;162
+2032-09-18;MH Refeições;Rondon R/R;1;0
+2032-09-18;MH Refeições;Elisa Agro;1;416
+2032-09-19;MH Refeições;Grupo Tamburi;1;657
+2032-09-19;MH Refeições;Vantage;1;162
+2032-09-19;MH Refeições;Rondon R/R;1;0
+2032-09-19;MH Refeições;Elisa Agro;1;260
+2032-09-20;MH Refeições;Grupo Tamburi;1;657
+2032-09-20;MH Refeições;Vantage;1;130
+2032-09-20;MH Refeições;Rondon R/R;1;0
+2032-09-20;MH Refeições;Elisa Agro;1;364
+2032-09-21;MH Refeições;Grupo Tamburi;1;715
+2032-09-21;MH Refeições;Vantage;1;130
+2032-09-21;MH Refeições;Rondon R/R;1;26
+2032-09-21;MH Refeições;Elisa Agro;1;338
+2032-09-22;MH Refeições;Grupo Tamburi;1;715
+2032-09-22;MH Refeições;Vantage;1;162
+2032-09-22;MH Refeições;Rondon R/R;1;0
+2032-09-22;MH Refeições;Elisa Agro;1;364
+2032-09-23;MH Refeições;Grupo Tamburi;1;743
+2032-09-23;MH Refeições;Vantage;1;130
+2032-09-23;MH Refeições;Rondon R/R;1;0
+2032-09-23;MH Refeições;Elisa Agro;1;442
+2032-09-24;MH Refeições;Grupo Tamburi;1;743
+2032-09-24;MH Refeições;Vantage;1;162
+2032-09-24;MH Refeições;Rondon R/R;1;0
+2032-09-24;MH Refeições;Elisa Agro;1;494
+2032-09-25;MH Refeições;Grupo Tamburi;1;657
+2032-09-25;MH Refeições;Vantage;1;130
+2032-09-25;MH Refeições;Rondon R/R;1;26
+2032-09-25;MH Refeições;Elisa Agro;1;416
+2032-09-26;MH Refeições;Grupo Tamburi;1;800
+2032-09-26;MH Refeições;Vantage;1;130
+2032-09-26;MH Refeições;Rondon R/R;1;26
+2032-09-26;MH Refeições;Elisa Agro;1;364
+2032-09-27;MH Refeições;Grupo Tamburi;1;743
+2032-09-27;MH Refeições;Vantage;1;130
+2032-09-27;MH Refeições;Rondon R/R;1;26
+2032-09-27;MH Refeições;Elisa Agro;1;468
+2032-09-28;MH Refeições;Grupo Tamburi;1;715
+2032-09-28;MH Refeições;Vantage;1;130
+2032-09-28;MH Refeições;Rondon R/R;1;0
+2032-09-28;MH Refeições;Elisa Agro;1;364
+2032-09-29;MH Refeições;Grupo Tamburi;1;572
+2032-09-29;MH Refeições;Vantage;1;162
+2032-09-29;MH Refeições;Rondon R/R;1;0
+2032-09-29;MH Refeições;Elisa Agro;1;390
+2032-09-30;MH Refeições;Grupo Tamburi;1;657
+2032-09-30;MH Refeições;Vantage;1;162
+2032-09-30;MH Refeições;Rondon R/R;1;0
+2032-09-30;MH Refeições;Elisa Agro;1;390
+2032-10-01;MH Refeições;Grupo Tamburi;1;528
+2032-10-01;MH Refeições;Vantage;1;150
+2032-10-01;MH Refeições;Rondon R/R;1;24
+2032-10-01;MH Refeições;Elisa Agro;1;384
+2032-10-02;MH Refeições;Grupo Tamburi;1;739
+2032-10-02;MH Refeições;Vantage;1;150
+2032-10-02;MH Refeições;Rondon R/R;1;0
+2032-10-02;MH Refeições;Elisa Agro;1;240
+2032-10-03;MH Refeições;Grupo Tamburi;1;765
+2032-10-03;MH Refeições;Vantage;1;120
+2032-10-03;MH Refeições;Rondon R/R;1;0
+2032-10-03;MH Refeições;Elisa Agro;1;312
+2032-10-04;MH Refeições;Grupo Tamburi;1;528
+2032-10-04;MH Refeições;Vantage;1;120
+2032-10-04;MH Refeições;Rondon R/R;1;0
+2032-10-04;MH Refeições;Elisa Agro;1;240
+2032-10-05;MH Refeições;Grupo Tamburi;1;580
+2032-10-05;MH Refeições;Vantage;1;120
+2032-10-05;MH Refeições;Rondon R/R;1;24
+2032-10-05;MH Refeições;Elisa Agro;1;360
+2032-10-06;MH Refeições;Grupo Tamburi;1;739
+2032-10-06;MH Refeições;Vantage;1;120
+2032-10-06;MH Refeições;Rondon R/R;1;0
+2032-10-06;MH Refeições;Elisa Agro;1;432
+2032-10-07;MH Refeições;Grupo Tamburi;1;686
+2032-10-07;MH Refeições;Vantage;1;150
+2032-10-07;MH Refeições;Rondon R/R;1;0
+2032-10-07;MH Refeições;Elisa Agro;1;240
+2032-10-08;MH Refeições;Grupo Tamburi;1;607
+2032-10-08;MH Refeições;Vantage;1;150
+2032-10-08;MH Refeições;Rondon R/R;1;0
+2032-10-08;MH Refeições;Elisa Agro;1;240
+2032-10-09;MH Refeições;Grupo Tamburi;1;739
+2032-10-09;MH Refeições;Vantage;1;120
+2032-10-09;MH Refeições;Rondon R/R;1;24
+2032-10-09;MH Refeições;Elisa Agro;1;456
+2032-10-10;MH Refeições;Grupo Tamburi;1;660
+2032-10-10;MH Refeições;Vantage;1;120
+2032-10-10;MH Refeições;Rondon R/R;1;0
+2032-10-10;MH Refeições;Elisa Agro;1;240
+2032-10-11;MH Refeições;Grupo Tamburi;1;739
+2032-10-11;MH Refeições;Vantage;1;150
+2032-10-11;MH Refeições;Rondon R/R;1;0
+2032-10-11;MH Refeições;Elisa Agro;1;288
+2032-10-12;MH Refeições;Grupo Tamburi;1;580
+2032-10-12;MH Refeições;Vantage;1;150
+2032-10-12;MH Refeições;Rondon R/R;1;24
+2032-10-12;MH Refeições;Elisa Agro;1;432
+2032-10-13;MH Refeições;Grupo Tamburi;1;712
+2032-10-13;MH Refeições;Vantage;1;120
+2032-10-13;MH Refeições;Rondon R/R;1;0
+2032-10-13;MH Refeições;Elisa Agro;1;432
+2032-10-14;MH Refeições;Grupo Tamburi;1;607
+2032-10-14;MH Refeições;Vantage;1;150
+2032-10-14;MH Refeições;Rondon R/R;1;24
+2032-10-14;MH Refeições;Elisa Agro;1;240
+2032-10-15;MH Refeições;Grupo Tamburi;1;739
+2032-10-15;MH Refeições;Vantage;1;150
+2032-10-15;MH Refeições;Rondon R/R;1;24
+2032-10-15;MH Refeições;Elisa Agro;1;240
+2032-10-16;MH Refeições;Grupo Tamburi;1;765
+2032-10-16;MH Refeições;Vantage;1;150
+2032-10-16;MH Refeições;Rondon R/R;1;24
+2032-10-16;MH Refeições;Elisa Agro;1;312
+2032-10-17;MH Refeições;Grupo Tamburi;1;686
+2032-10-17;MH Refeições;Vantage;1;120
+2032-10-17;MH Refeições;Rondon R/R;1;24
+2032-10-17;MH Refeições;Elisa Agro;1;360
+2032-10-18;MH Refeições;Grupo Tamburi;1;686
+2032-10-18;MH Refeições;Vantage;1;150
+2032-10-18;MH Refeições;Rondon R/R;1;0
+2032-10-18;MH Refeições;Elisa Agro;1;264
+2032-10-19;MH Refeições;Grupo Tamburi;1;607
+2032-10-19;MH Refeições;Vantage;1;120
+2032-10-19;MH Refeições;Rondon R/R;1;24
+2032-10-19;MH Refeições;Elisa Agro;1;312
+2032-10-20;MH Refeições;Grupo Tamburi;1;765
+2032-10-20;MH Refeições;Vantage;1;150
+2032-10-20;MH Refeições;Rondon R/R;1;0
+2032-10-20;MH Refeições;Elisa Agro;1;312
+2032-10-21;MH Refeições;Grupo Tamburi;1;686
+2032-10-21;MH Refeições;Vantage;1;150
+2032-10-21;MH Refeições;Rondon R/R;1;24
+2032-10-21;MH Refeições;Elisa Agro;1;384
+2032-10-22;MH Refeições;Grupo Tamburi;1;580
+2032-10-22;MH Refeições;Vantage;1;120
+2032-10-22;MH Refeições;Rondon R/R;1;24
+2032-10-22;MH Refeições;Elisa Agro;1;456
+2032-10-23;MH Refeições;Grupo Tamburi;1;686
+2032-10-23;MH Refeições;Vantage;1;150
+2032-10-23;MH Refeições;Rondon R/R;1;24
+2032-10-23;MH Refeições;Elisa Agro;1;240
+2032-10-24;MH Refeições;Grupo Tamburi;1;633
+2032-10-24;MH Refeições;Vantage;1;150
+2032-10-24;MH Refeições;Rondon R/R;1;0
+2032-10-24;MH Refeições;Elisa Agro;1;360
+2032-10-25;MH Refeições;Grupo Tamburi;1;580
+2032-10-25;MH Refeições;Vantage;1;120
+2032-10-25;MH Refeições;Rondon R/R;1;24
+2032-10-25;MH Refeições;Elisa Agro;1;264
+2032-10-26;MH Refeições;Grupo Tamburi;1;660
+2032-10-26;MH Refeições;Vantage;1;120
+2032-10-26;MH Refeições;Rondon R/R;1;24
+2032-10-26;MH Refeições;Elisa Agro;1;312
+2032-10-27;MH Refeições;Grupo Tamburi;1;660
+2032-10-27;MH Refeições;Vantage;1;150
+2032-10-27;MH Refeições;Rondon R/R;1;0
+2032-10-27;MH Refeições;Elisa Agro;1;264
+2032-10-28;MH Refeições;Grupo Tamburi;1;633
+2032-10-28;MH Refeições;Vantage;1;120
+2032-10-28;MH Refeições;Rondon R/R;1;0
+2032-10-28;MH Refeições;Elisa Agro;1;336
+2032-10-29;MH Refeições;Grupo Tamburi;1;580
+2032-10-29;MH Refeições;Vantage;1;150
+2032-10-29;MH Refeições;Rondon R/R;1;24
+2032-10-29;MH Refeições;Elisa Agro;1;360
+2032-10-30;MH Refeições;Grupo Tamburi;1;554
+2032-10-30;MH Refeições;Vantage;1;120
+2032-10-30;MH Refeições;Rondon R/R;1;24
+2032-10-30;MH Refeições;Elisa Agro;1;384
+2032-10-31;MH Refeições;Grupo Tamburi;1;580
+2032-10-31;MH Refeições;Vantage;1;150
+2032-10-31;MH Refeições;Rondon R/R;1;24
+2032-10-31;MH Refeições;Elisa Agro;1;408
+2032-11-01;MH Refeições;Grupo Tamburi;1;580
+2032-11-01;MH Refeições;Vantage;1;137
+2032-11-01;MH Refeições;Rondon R/R;1;22
+2032-11-01;MH Refeições;Elisa Agro;1;418
+2032-11-02;MH Refeições;Grupo Tamburi;1;580
+2032-11-02;MH Refeições;Vantage;1;110
+2032-11-02;MH Refeições;Rondon R/R;1;0
+2032-11-02;MH Refeições;Elisa Agro;1;308
+2032-11-03;MH Refeições;Grupo Tamburi;1;484
+2032-11-03;MH Refeições;Vantage;1;137
+2032-11-03;MH Refeições;Rondon R/R;1;22
+2032-11-03;MH Refeições;Elisa Agro;1;264
+2032-11-04;MH Refeições;Grupo Tamburi;1;508
+2032-11-04;MH Refeições;Vantage;1;110
+2032-11-04;MH Refeições;Rondon R/R;1;22
+2032-11-04;MH Refeições;Elisa Agro;1;374
+2032-11-05;MH Refeições;Grupo Tamburi;1;556
+2032-11-05;MH Refeições;Vantage;1;110
+2032-11-05;MH Refeições;Rondon R/R;1;22
+2032-11-05;MH Refeições;Elisa Agro;1;374
+2032-11-06;MH Refeições;Grupo Tamburi;1;701
+2032-11-06;MH Refeições;Vantage;1;137
+2032-11-06;MH Refeições;Rondon R/R;1;0
+2032-11-06;MH Refeições;Elisa Agro;1;220
+2032-11-07;MH Refeições;Grupo Tamburi;1;605
+2032-11-07;MH Refeições;Vantage;1;137
+2032-11-07;MH Refeições;Rondon R/R;1;0
+2032-11-07;MH Refeições;Elisa Agro;1;418
+2032-11-08;MH Refeições;Grupo Tamburi;1;556
+2032-11-08;MH Refeições;Vantage;1;137
+2032-11-08;MH Refeições;Rondon R/R;1;0
+2032-11-08;MH Refeições;Elisa Agro;1;286
+2032-11-09;MH Refeições;Grupo Tamburi;1;605
+2032-11-09;MH Refeições;Vantage;1;137
+2032-11-09;MH Refeições;Rondon R/R;1;22
+2032-11-09;MH Refeições;Elisa Agro;1;242
+2032-11-10;MH Refeições;Grupo Tamburi;1;629
+2032-11-10;MH Refeições;Vantage;1;137
+2032-11-10;MH Refeições;Rondon R/R;1;22
+2032-11-10;MH Refeições;Elisa Agro;1;220
+2032-11-11;MH Refeições;Grupo Tamburi;1;508
+2032-11-11;MH Refeições;Vantage;1;110
+2032-11-11;MH Refeições;Rondon R/R;1;0
+2032-11-11;MH Refeições;Elisa Agro;1;396
+2032-11-12;MH Refeições;Grupo Tamburi;1;532
+2032-11-12;MH Refeições;Vantage;1;137
+2032-11-12;MH Refeições;Rondon R/R;1;0
+2032-11-12;MH Refeições;Elisa Agro;1;242
+2032-11-13;MH Refeições;Grupo Tamburi;1;556
+2032-11-13;MH Refeições;Vantage;1;110
+2032-11-13;MH Refeições;Rondon R/R;1;22
+2032-11-13;MH Refeições;Elisa Agro;1;308
+2032-11-14;MH Refeições;Grupo Tamburi;1;508
+2032-11-14;MH Refeições;Vantage;1;137
+2032-11-14;MH Refeições;Rondon R/R;1;22
+2032-11-14;MH Refeições;Elisa Agro;1;286
+2032-11-15;MH Refeições;Grupo Tamburi;1;580
+2032-11-15;MH Refeições;Vantage;1;137
+2032-11-15;MH Refeições;Rondon R/R;1;22
+2032-11-15;MH Refeições;Elisa Agro;1;220
+2032-11-16;MH Refeições;Grupo Tamburi;1;629
+2032-11-16;MH Refeições;Vantage;1;137
+2032-11-16;MH Refeições;Rondon R/R;1;0
+2032-11-16;MH Refeições;Elisa Agro;1;286
+2032-11-17;MH Refeições;Grupo Tamburi;1;532
+2032-11-17;MH Refeições;Vantage;1;110
+2032-11-17;MH Refeições;Rondon R/R;1;22
+2032-11-17;MH Refeições;Elisa Agro;1;286
+2032-11-18;MH Refeições;Grupo Tamburi;1;701
+2032-11-18;MH Refeições;Vantage;1;110
+2032-11-18;MH Refeições;Rondon R/R;1;22
+2032-11-18;MH Refeições;Elisa Agro;1;286
+2032-11-19;MH Refeições;Grupo Tamburi;1;605
+2032-11-19;MH Refeições;Vantage;1;137
+2032-11-19;MH Refeições;Rondon R/R;1;22
+2032-11-19;MH Refeições;Elisa Agro;1;352
+2032-11-20;MH Refeições;Grupo Tamburi;1;605
+2032-11-20;MH Refeições;Vantage;1;137
+2032-11-20;MH Refeições;Rondon R/R;1;0
+2032-11-20;MH Refeições;Elisa Agro;1;330
+2032-11-21;MH Refeições;Grupo Tamburi;1;653
+2032-11-21;MH Refeições;Vantage;1;137
+2032-11-21;MH Refeições;Rondon R/R;1;22
+2032-11-21;MH Refeições;Elisa Agro;1;242
+2032-11-22;MH Refeições;Grupo Tamburi;1;677
+2032-11-22;MH Refeições;Vantage;1;137
+2032-11-22;MH Refeições;Rondon R/R;1;0
+2032-11-22;MH Refeições;Elisa Agro;1;352
+2032-11-23;MH Refeições;Grupo Tamburi;1;629
+2032-11-23;MH Refeições;Vantage;1;137
+2032-11-23;MH Refeições;Rondon R/R;1;0
+2032-11-23;MH Refeições;Elisa Agro;1;352
+2032-11-24;MH Refeições;Grupo Tamburi;1;629
+2032-11-24;MH Refeições;Vantage;1;110
+2032-11-24;MH Refeições;Rondon R/R;1;22
+2032-11-24;MH Refeições;Elisa Agro;1;264
+2032-11-25;MH Refeições;Grupo Tamburi;1;677
+2032-11-25;MH Refeições;Vantage;1;110
+2032-11-25;MH Refeições;Rondon R/R;1;0
+2032-11-25;MH Refeições;Elisa Agro;1;374
+2032-11-26;MH Refeições;Grupo Tamburi;1;580
+2032-11-26;MH Refeições;Vantage;1;110
+2032-11-26;MH Refeições;Rondon R/R;1;0
+2032-11-26;MH Refeições;Elisa Agro;1;242
+2032-11-27;MH Refeições;Grupo Tamburi;1;677
+2032-11-27;MH Refeições;Vantage;1;110
+2032-11-27;MH Refeições;Rondon R/R;1;0
+2032-11-27;MH Refeições;Elisa Agro;1;352
+2032-11-28;MH Refeições;Grupo Tamburi;1;605
+2032-11-28;MH Refeições;Vantage;1;110
+2032-11-28;MH Refeições;Rondon R/R;1;0
+2032-11-28;MH Refeições;Elisa Agro;1;418
+2032-11-29;MH Refeições;Grupo Tamburi;1;629
+2032-11-29;MH Refeições;Vantage;1;137
+2032-11-29;MH Refeições;Rondon R/R;1;0
+2032-11-29;MH Refeições;Elisa Agro;1;286
+2032-11-30;MH Refeições;Grupo Tamburi;1;532
+2032-11-30;MH Refeições;Vantage;1;137
+2032-11-30;MH Refeições;Rondon R/R;1;22
+2032-11-30;MH Refeições;Elisa Agro;1;352
+2032-12-01;MH Refeições;Grupo Tamburi;1;657
+2032-12-01;MH Refeições;Vantage;1;162
+2032-12-01;MH Refeições;Rondon R/R;1;26
+2032-12-01;MH Refeições;Elisa Agro;1;416
+2032-12-02;MH Refeições;Grupo Tamburi;1;572
+2032-12-02;MH Refeições;Vantage;1;162
+2032-12-02;MH Refeições;Rondon R/R;1;0
+2032-12-02;MH Refeições;Elisa Agro;1;286
+2032-12-03;MH Refeições;Grupo Tamburi;1;829
+2032-12-03;MH Refeições;Vantage;1;162
+2032-12-03;MH Refeições;Rondon R/R;1;0
+2032-12-03;MH Refeições;Elisa Agro;1;390
+2032-12-04;MH Refeições;Grupo Tamburi;1;772
+2032-12-04;MH Refeições;Vantage;1;162
+2032-12-04;MH Refeições;Rondon R/R;1;26
+2032-12-04;MH Refeições;Elisa Agro;1;390
+2032-12-05;MH Refeições;Grupo Tamburi;1;743
+2032-12-05;MH Refeições;Vantage;1;162
+2032-12-05;MH Refeições;Rondon R/R;1;26
+2032-12-05;MH Refeições;Elisa Agro;1;442
+2032-12-06;MH Refeições;Grupo Tamburi;1;743
+2032-12-06;MH Refeições;Vantage;1;130
+2032-12-06;MH Refeições;Rondon R/R;1;26
+2032-12-06;MH Refeições;Elisa Agro;1;364
+2032-12-07;MH Refeições;Grupo Tamburi;1;800
+2032-12-07;MH Refeições;Vantage;1;130
+2032-12-07;MH Refeições;Rondon R/R;1;0
+2032-12-07;MH Refeições;Elisa Agro;1;390
+2032-12-08;MH Refeições;Grupo Tamburi;1;800
+2032-12-08;MH Refeições;Vantage;1;130
+2032-12-08;MH Refeições;Rondon R/R;1;26
+2032-12-08;MH Refeições;Elisa Agro;1;442
+2032-12-09;MH Refeições;Grupo Tamburi;1;629
+2032-12-09;MH Refeições;Vantage;1;130
+2032-12-09;MH Refeições;Rondon R/R;1;0
+2032-12-09;MH Refeições;Elisa Agro;1;260
+2032-12-10;MH Refeições;Grupo Tamburi;1;829
+2032-12-10;MH Refeições;Vantage;1;130
+2032-12-10;MH Refeições;Rondon R/R;1;26
+2032-12-10;MH Refeições;Elisa Agro;1;390
+2032-12-11;MH Refeições;Grupo Tamburi;1;743
+2032-12-11;MH Refeições;Vantage;1;130
+2032-12-11;MH Refeições;Rondon R/R;1;26
+2032-12-11;MH Refeições;Elisa Agro;1;468
+2032-12-12;MH Refeições;Grupo Tamburi;1;686
+2032-12-12;MH Refeições;Vantage;1;162
+2032-12-12;MH Refeições;Rondon R/R;1;0
+2032-12-12;MH Refeições;Elisa Agro;1;494
+2032-12-13;MH Refeições;Grupo Tamburi;1;743
+2032-12-13;MH Refeições;Vantage;1;130
+2032-12-13;MH Refeições;Rondon R/R;1;0
+2032-12-13;MH Refeições;Elisa Agro;1;442
+2032-12-14;MH Refeições;Grupo Tamburi;1;800
+2032-12-14;MH Refeições;Vantage;1;130
+2032-12-14;MH Refeições;Rondon R/R;1;26
+2032-12-14;MH Refeições;Elisa Agro;1;260
+2032-12-15;MH Refeições;Grupo Tamburi;1;800
+2032-12-15;MH Refeições;Vantage;1;130
+2032-12-15;MH Refeições;Rondon R/R;1;0
+2032-12-15;MH Refeições;Elisa Agro;1;312
+2032-12-16;MH Refeições;Grupo Tamburi;1;600
+2032-12-16;MH Refeições;Vantage;1;130
+2032-12-16;MH Refeições;Rondon R/R;1;0
+2032-12-16;MH Refeições;Elisa Agro;1;312
+2032-12-17;MH Refeições;Grupo Tamburi;1;743
+2032-12-17;MH Refeições;Vantage;1;130
+2032-12-17;MH Refeições;Rondon R/R;1;26
+2032-12-17;MH Refeições;Elisa Agro;1;442
+2032-12-18;MH Refeições;Grupo Tamburi;1;743
+2032-12-18;MH Refeições;Vantage;1;162
+2032-12-18;MH Refeições;Rondon R/R;1;0
+2032-12-18;MH Refeições;Elisa Agro;1;312
+2032-12-19;MH Refeições;Grupo Tamburi;1;772
+2032-12-19;MH Refeições;Vantage;1;130
+2032-12-19;MH Refeições;Rondon R/R;1;0
+2032-12-19;MH Refeições;Elisa Agro;1;416
+2032-12-20;MH Refeições;Grupo Tamburi;1;715
+2032-12-20;MH Refeições;Vantage;1;162
+2032-12-20;MH Refeições;Rondon R/R;1;26
+2032-12-20;MH Refeições;Elisa Agro;1;260
+2032-12-21;MH Refeições;Grupo Tamburi;1;772
+2032-12-21;MH Refeições;Vantage;1;162
+2032-12-21;MH Refeições;Rondon R/R;1;26
+2032-12-21;MH Refeições;Elisa Agro;1;442
+2032-12-22;MH Refeições;Grupo Tamburi;1;743
+2032-12-22;MH Refeições;Vantage;1;130
+2032-12-22;MH Refeições;Rondon R/R;1;0
+2032-12-22;MH Refeições;Elisa Agro;1;312
